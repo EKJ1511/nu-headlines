@@ -1,5 +1,28 @@
 [
   {
+    "id": 6229695,
+    "slug": "personeel-opvanglocatie-overlastgevende-asielzoekers-gebruikt-onnodig-geweld",
+    "type": "article",
+    "title": "Personeel opvanglocatie overlastgevende asielzoekers gebruikt onnodig geweld",
+    "subtitle": null,
+    "published_at": "2022-10-13T13:47:54+02:00",
+    "updated_at": "2022-10-13T13:52:01+02:00",
+    "media_id": "qcoxkfsa4o2h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6229695/personeel-opvanglocatie-overlastgevende-asielzoekers-gebruikt-onnodig-geweld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6229698,
     "slug": "oekraiense-hulpdiensten-trekken-jongen-onder-puin-vandaan-na-raketaanval",
     "type": "video",
@@ -98,7 +121,7 @@
     "title": "Zeldzaam advies college: Schors Baudet een week om neveninkomsten",
     "subtitle": null,
     "published_at": "2022-10-13T13:11:55+02:00",
-    "updated_at": "2022-10-13T13:31:31+02:00",
+    "updated_at": "2022-10-13T13:49:52+02:00",
     "media_id": "b0lx6csaa2qz",
     "duration": null,
     "canonical_section": {
@@ -259,8 +282,8 @@
     "title": "Deze records kan kampioen Verstappen nog breken in 2022",
     "subtitle": "NU+",
     "published_at": "2022-10-13T11:52:40+02:00",
-    "updated_at": "2022-10-13T13:03:16+02:00",
-    "media_id": "2qpxb1jaxdc8",
+    "updated_at": "2022-10-13T13:51:23+02:00",
+    "media_id": "nomx9cwatys0",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6229635/televisieterugkeer-van-johnny-de-mol-bekeken-door-537000-kijkers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6229612,
-    "slug": "nabestaanden-carlo-heuvelman-in-verklaring-verdriet-en-gemis-overweldigend",
-    "type": "article",
-    "title": "Nabestaanden Carlo Heuvelman in verklaring: 'Verdriet en gemis overweldigend'",
-    "subtitle": null,
-    "published_at": "2022-10-13T10:32:27+02:00",
-    "updated_at": "2022-10-13T12:26:40+02:00",
-    "media_id": "zxmxssxao3f7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6229612/nabestaanden-carlo-heuvelman-in-verklaring-verdriet-en-gemis-overweldigend.html",
     "open_new_window": false,
     "partner": null
   }
