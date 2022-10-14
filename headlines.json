@@ -1,28 +1,5 @@
 [
   {
-    "id": 6229935,
-    "slug": "britse-minister-van-financien-na-38-dagen-ontslagen-om-dramatisch-belastingplan",
-    "type": "article",
-    "title": "Britse minister van Financiën na 38 dagen ontslagen om dramatisch belastingplan",
-    "subtitle": null,
-    "published_at": "2022-10-14T13:37:24+02:00",
-    "updated_at": "2022-10-14T13:37:25+02:00",
-    "media_id": "sn4x7bzaf7ux",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6229935/britse-minister-van-financien-na-38-dagen-ontslagen-om-dramatisch-belastingplan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6229934,
     "slug": "voetbalramp-in-indonesie-volgens-onderzoekers-veroorzaakt-door-traangas",
     "type": "article",
@@ -98,7 +75,7 @@
     "title": "Activisten besmeuren Van Goghs Zonnebloemen in Londense National Gallery",
     "subtitle": null,
     "published_at": "2022-10-14T13:07:41+02:00",
-    "updated_at": "2022-10-14T13:38:22+02:00",
+    "updated_at": "2022-10-14T13:35:13+02:00",
     "media_id": "m1nxj3gaw1gl",
     "duration": null,
     "canonical_section": {
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6229870/oekraine-zegt-dat-het-600-nederzettingen-heeft-heroverd-in-afgelopen-maand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6229867,
+    "slug": "schiphol-is-ondanks-tekort-aan-beveiligers-goed-voorbereid-op-herfstvakantie",
+    "type": "article",
+    "title": "Schiphol is ondanks tekort aan beveiligers goed voorbereid op herfstvakantie",
+    "subtitle": null,
+    "published_at": "2022-10-14T09:43:29+02:00",
+    "updated_at": "2022-10-14T11:26:06+02:00",
+    "media_id": "6sxxrq3a7w73",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6229867/schiphol-is-ondanks-tekort-aan-beveiligers-goed-voorbereid-op-herfstvakantie.html",
     "open_new_window": false,
     "partner": null
   }
