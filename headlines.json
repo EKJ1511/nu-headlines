@@ -1,5 +1,28 @@
 [
   {
+    "id": 6232437,
+    "slug": "rangers-door-lijdensweg-in-cl-extra-gebrand-op-zege-in-slotduel-met-ajax",
+    "type": "article",
+    "title": "Rangers door lijdensweg in CL extra gebrand op zege in slotduel met Ajax",
+    "subtitle": null,
+    "published_at": "2022-10-27T09:49:30+02:00",
+    "updated_at": "2022-10-27T09:49:31+02:00",
+    "media_id": "me3x73lak1pm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6232437/rangers-door-lijdensweg-in-cl-extra-gebrand-op-zege-in-slotduel-met-ajax.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232433,
     "slug": "eerste-inhaleerbare-coronavaccins-toegediend-in-sjanghai",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6232410/taylor-swift-past-videoclip-aan-na-kritiek-op-scene-met-weegschaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232323,
-    "slug": "zon-zee-bellen-callcenterbaan-in-buitenland-aanrader-of-no-go",
-    "type": "video",
-    "title": "Zon, zee, bellen: callcenterbaan in buitenland aanrader of no-go?",
-    "subtitle": "Video",
-    "published_at": "2022-10-27T06:06:21+02:00",
-    "updated_at": "2022-10-27T06:06:22+02:00",
-    "media_id": "o7wxz6fatg4i",
-    "duration": "2:17",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6232323/zon-zee-bellen-callcenterbaan-in-buitenland-aanrader-of-no-go.html",
     "open_new_window": false,
     "partner": null
   }
