@@ -1,12 +1,35 @@
 [
   {
+    "id": 6232695,
+    "slug": "waarschuwing-voor-drukkere-avondspits-vanaf-maandag-door-ingaan-wintertijd",
+    "type": "article",
+    "title": "Waarschuwing voor drukkere avondspits vanaf maandag door ingaan wintertijd",
+    "subtitle": null,
+    "published_at": "2022-10-28T11:52:54+02:00",
+    "updated_at": "2022-10-28T11:52:55+02:00",
+    "media_id": "szwx3iaa046p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6232695/waarschuwing-voor-drukkere-avondspits-vanaf-maandag-door-ingaan-wintertijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232690,
     "slug": "energie-update-zo-gaat-het-met-de-gasprijs",
     "type": "article",
     "title": "Energie-update: Zo gaat het met de gasprijs",
     "subtitle": null,
     "published_at": "2022-10-28T11:38:00+02:00",
-    "updated_at": "2022-10-28T11:38:01+02:00",
+    "updated_at": "2022-10-28T11:54:53+02:00",
     "media_id": "suoxdhuau4nf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6232619/bekijk-de-samenvattingen-van-de-nederlandse-clubs-in-europa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232615,
-    "slug": "apple-verkocht-in-derde-kwartaal-meer-van-alle-producten-behalve-de-ipad",
-    "type": "article",
-    "title": "Apple verkocht in derde kwartaal meer van alle producten, behalve de iPad",
-    "subtitle": null,
-    "published_at": "2022-10-28T07:13:45+02:00",
-    "updated_at": "2022-10-28T07:31:37+02:00",
-    "media_id": "rqpxex1anmmd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6232615/apple-verkocht-in-derde-kwartaal-meer-van-alle-producten-behalve-de-ipad.html",
     "open_new_window": false,
     "partner": null
   }
