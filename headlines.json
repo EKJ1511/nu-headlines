@@ -1,5 +1,28 @@
 [
   {
+    "id": 6235498,
+    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-afgelopen-week",
+    "type": "article",
+    "title": "Nieuw op Netflix: deze films en series verschenen afgelopen week",
+    "subtitle": null,
+    "published_at": "2022-11-12T14:51:59+01:00",
+    "updated_at": "2022-11-12T14:52:00+01:00",
+    "media_id": "hqoxl38andjp",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6235498/nieuw-op-netflix-deze-films-en-series-verschenen-afgelopen-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235732,
     "slug": "zo-zag-de-intocht-van-sinterklaas-in-hellevoetsluis-eruit",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Groenewoud derde op 1.500 meter in Stavanger, bijrol voor Nederlandse sprinters",
     "subtitle": null,
     "published_at": "2022-11-12T13:40:20+01:00",
-    "updated_at": "2022-11-12T14:26:44+01:00",
+    "updated_at": "2022-11-12T14:43:41+01:00",
     "media_id": "11ixdzkarbwd",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Sinterklaas in privéjet gearriveerd in Hellevoetsluis",
     "subtitle": null,
     "published_at": "2022-11-12T13:37:22+01:00",
-    "updated_at": "2022-11-12T14:31:39+01:00",
+    "updated_at": "2022-11-12T14:38:06+01:00",
     "media_id": "e3gxehda08fx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6235677/leclerc-wordt-moedeloos-van-fouten-ferrari-ben-ik-de-enige-op-intermediates.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235679,
-    "slug": "zon-duizend-boetes-voor-overtreden-avondklok-per-ongeluk-geseponeerd",
-    "type": "article",
-    "title": "Zo'n duizend boetes voor overtreden avondklok per ongeluk geseponeerd",
-    "subtitle": null,
-    "published_at": "2022-11-12T10:11:40+01:00",
-    "updated_at": "2022-11-12T10:27:27+01:00",
-    "media_id": "pydx5cqa8ahc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6235679/zon-duizend-boetes-voor-overtreden-avondklok-per-ongeluk-geseponeerd.html",
     "open_new_window": false,
     "partner": null
   }
