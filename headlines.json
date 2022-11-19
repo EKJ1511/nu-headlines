@@ -1,5 +1,28 @@
 [
   {
+    "id": 6237134,
+    "slug": "koude-maar-ook-zonnige-dag-met-nauwelijks-kans-op-regen",
+    "type": "article",
+    "title": "Koude maar ook zonnige dag met nauwelijks kans op regen",
+    "subtitle": null,
+    "published_at": "2022-11-19T05:32:38+01:00",
+    "updated_at": "2022-11-19T05:32:38+01:00",
+    "media_id": "h55x6dpatl6n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6237134/koude-maar-ook-zonnige-dag-met-nauwelijks-kans-op-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236847,
     "slug": "vvd-top-wacht-roerig-congres-leden-spreken-zich-uit-over-asielbeleid",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "De vader van Anil overleed in Qatar: 'Ik heb niet eens excuses gekregen'",
     "subtitle": null,
     "published_at": "2022-11-19T05:03:58+01:00",
-    "updated_at": "2022-11-19T05:03:59+01:00",
+    "updated_at": "2022-11-19T05:42:19+01:00",
     "media_id": "b1pxhw9ayzml",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Leerdam wint ook na 'grote bochel' in haar schaats: 'Ik schrok me dood'",
     "subtitle": null,
     "published_at": "2022-11-18T21:17:44+01:00",
-    "updated_at": "2022-11-18T22:18:14+01:00",
+    "updated_at": "2022-11-19T05:33:40+01:00",
     "media_id": "gd0xk79aadwn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6237112/zo-denken-ze-in-qatar-over-het-bierverbod-in-stadions.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237111,
-    "slug": "bondscoach-martinez-spreekt-van-wake-upcall-belgie-na-verlies-tegen-egypte",
-    "type": "article",
-    "title": "Bondscoach Martínez spreekt van wake-upcall België na verlies tegen Egypte",
-    "subtitle": null,
-    "published_at": "2022-11-18T20:15:29+01:00",
-    "updated_at": "2022-11-19T05:10:24+01:00",
-    "media_id": "y9fxtera2a61",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6237111/bondscoach-martinez-spreekt-van-wake-upcall-belgie-na-verlies-tegen-egypte.html",
     "open_new_window": false,
     "partner": null
   }
