@@ -1,12 +1,35 @@
 [
   {
+    "id": 6238094,
+    "slug": "zwitserland-en-kameroen-openen-interessante-vijfde-dag",
+    "type": "article",
+    "title": "Zwitserland en Kameroen openen interessante vijfde dag",
+    "subtitle": "Liveblog WK",
+    "published_at": "2022-11-24T07:57:20+01:00",
+    "updated_at": "2022-11-24T08:01:15+01:00",
+    "media_id": "hmzxzjcaoqhs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6238094/zwitserland-en-kameroen-openen-interessante-vijfde-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238092,
     "slug": "overheid-dijt-flink-uit-als-werkgever",
     "type": "article",
     "title": "Overheid dijt flink uit als werkgever",
     "subtitle": null,
     "published_at": "2022-11-24T07:49:44+01:00",
-    "updated_at": "2022-11-24T07:49:45+01:00",
+    "updated_at": "2022-11-24T07:54:01+01:00",
     "media_id": "dqxx3cma6b9n",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Klaassen hoopt op basisplaats tegen Ecuador: 'Voel dat ik er dichtbij zit'",
     "subtitle": null,
     "published_at": "2022-11-24T07:15:27+01:00",
-    "updated_at": "2022-11-24T07:15:28+01:00",
+    "updated_at": "2022-11-24T08:14:10+01:00",
     "media_id": "1r9x4xyahehb",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Weerbericht: Dag begint en eindigt met regen, tussendoor droog en zonnig",
     "subtitle": null,
     "published_at": "2022-11-24T05:39:45+01:00",
-    "updated_at": "2022-11-24T05:51:37+01:00",
+    "updated_at": "2022-11-24T07:52:47+01:00",
     "media_id": "j9jxdv8akc5r",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6237969/steeds-minder-werklozen-hebben-een-ww-uitkering.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238069,
-    "slug": "kosovo-en-servie-leggen-ruzie-om-nummerplaten-bij-na-bemiddeling-eu",
-    "type": "article",
-    "title": "Kosovo en Servië leggen ruzie om nummerplaten bij na bemiddeling EU",
-    "subtitle": null,
-    "published_at": "2022-11-23T23:36:04+01:00",
-    "updated_at": "2022-11-24T07:31:29+01:00",
-    "media_id": "wwhxb40a1zoo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6238069/kosovo-en-servie-leggen-ruzie-om-nummerplaten-bij-na-bemiddeling-eu.html",
     "open_new_window": false,
     "partner": null
   }
