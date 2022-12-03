@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240070,
+    "slug": "apple-wil-volgens-bronnen-productie-uit-china-verplaatsen-door-onrust-fabriek",
+    "type": "article",
+    "title": "Apple wil volgens bronnen productie uit China verplaatsen door onrust fabriek",
+    "subtitle": null,
+    "published_at": "2022-12-03T15:50:36+01:00",
+    "updated_at": "2022-12-03T15:50:37+01:00",
+    "media_id": "ckvxtwuangqg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6240070/apple-wil-volgens-bronnen-productie-uit-china-verplaatsen-door-onrust-fabriek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240068,
     "slug": "zwaar-vuurwerk-afgestoken-in-trein-bij-schagen-passagiers-met-gehoorklachten",
     "type": "article",
@@ -25,13 +48,13 @@
   {
     "id": 6240067,
     "slug": "luchtbeelden-tonen-bijzondere-tocht-van-kudde-schapen",
-    "type": "article",
+    "type": "video",
     "title": "Luchtbeelden tonen bijzondere tocht van kudde schapen",
     "subtitle": "Video",
     "published_at": "2022-12-03T15:15:44+01:00",
-    "updated_at": "2022-12-03T15:15:45+01:00",
+    "updated_at": "2022-12-03T15:34:04+01:00",
     "media_id": "0thxiahast1s",
-    "duration": null,
+    "duration": "0:30",
     "canonical_section": {
       "id": 1771436,
       "slug": "buitenland",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6239998/lebron-james-passeert-magic-johnson-in-assistklassement-aller-tijden-in-nba.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239968,
-    "slug": "dit-viel-op-in-de-poulefase-afrika-is-terug-en-extreem-weinig-rode-kaarten",
-    "type": "article",
-    "title": "Dit viel op in de poulefase: Afrika is terug en extreem weinig rode kaarten",
-    "subtitle": null,
-    "published_at": "2022-12-03T09:29:47+01:00",
-    "updated_at": "2022-12-03T09:54:14+01:00",
-    "media_id": "p8cxysgai4jl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6239968/dit-viel-op-in-de-poulefase-afrika-is-terug-en-extreem-weinig-rode-kaarten.html",
     "open_new_window": false,
     "partner": null
   }
