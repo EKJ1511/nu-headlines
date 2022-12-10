@@ -1,5 +1,28 @@
 [
   {
+    "id": 6241387,
+    "slug": "kwartfinale-tegen-argentinie-was-best-bezochte-wedstrijd-ooit-van-oranje-op-wk",
+    "type": "article",
+    "title": "Kwartfinale tegen Argentinië was best bezochte wedstrijd ooit van Oranje op WK",
+    "subtitle": null,
+    "published_at": "2022-12-10T11:51:27+01:00",
+    "updated_at": "2022-12-10T11:51:28+01:00",
+    "media_id": "wbexrdnatmpt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6241387/kwartfinale-tegen-argentinie-was-best-bezochte-wedstrijd-ooit-van-oranje-op-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241390,
     "slug": "stofwolken-overspoelen-amerikaans-strand-na-aardverschuiving",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Lijst bedreigde diersoorten groeit: zeeoren, zeekoeien en koralen toegevoegd",
     "subtitle": null,
     "published_at": "2022-12-10T11:24:10+01:00",
-    "updated_at": "2022-12-10T11:24:12+01:00",
+    "updated_at": "2022-12-10T11:51:41+01:00",
     "media_id": "sgsxajead55p",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Bekende Amerikaanse sportjournalist overleden op tribune bij kwartfinale Oranje",
     "subtitle": null,
     "published_at": "2022-12-10T09:03:25+01:00",
-    "updated_at": "2022-12-10T11:20:01+01:00",
+    "updated_at": "2022-12-10T11:39:29+01:00",
     "media_id": "bedxxspau8cn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6241356/oekraiense-vluchtelingen-moeten-in-tsjechie-plaatsmaken-voor-skiende-politici.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241355,
-    "slug": "slachtofferhulp-meldt-flinke-toename-aantal-slachtoffers-seksueel-wangedrag",
-    "type": "article",
-    "title": "Slachtofferhulp meldt flinke toename aantal slachtoffers seksueel wangedrag",
-    "subtitle": null,
-    "published_at": "2022-12-10T06:43:35+01:00",
-    "updated_at": "2022-12-10T08:30:12+01:00",
-    "media_id": "z80xitxapqr8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6241355/slachtofferhulp-meldt-flinke-toename-aantal-slachtoffers-seksueel-wangedrag.html",
     "open_new_window": false,
     "partner": null
   }
