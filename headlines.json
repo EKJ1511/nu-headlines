@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244002,
+    "slug": "supermarkt-steeds-vaker-open-tijdens-de-kerst",
+    "type": "article",
+    "title": "Supermarkt steeds vaker open tijdens de Kerst",
+    "subtitle": null,
+    "published_at": "2022-12-23T18:31:08+01:00",
+    "updated_at": "2022-12-23T18:31:09+01:00",
+    "media_id": "ni4xi8vapn7c",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6244002/supermarkt-steeds-vaker-open-tijdens-de-kerst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243998,
     "slug": "marc-van-der-linden-moet-na-500-edities-stoppen-met-column-in-max-magazine",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/darts/6243951/kleermaker-en-debutant-hendriks-uitgeschakeld-in-tweede-ronde-wk-darts.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243946,
-    "slug": "in-week-met-vrieskou-bespaarden-we-tientallen-euros-door-lagere-thermostaat",
-    "type": "article",
-    "title": "In week met vrieskou bespaarden we tientallen euro's door lagere thermostaat",
-    "subtitle": null,
-    "published_at": "2022-12-23T14:37:03+01:00",
-    "updated_at": "2022-12-23T18:17:39+01:00",
-    "media_id": "xy0x4zaaf6o7",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6243946/in-week-met-vrieskou-bespaarden-we-tientallen-euros-door-lagere-thermostaat.html",
     "open_new_window": false,
     "partner": null
   }
