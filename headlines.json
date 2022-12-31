@@ -1,5 +1,51 @@
 [
   {
+    "id": 6245154,
+    "slug": "hoe-houd-je-je-schermtijd-in-balans",
+    "type": "article",
+    "title": "Hoe houd je je schermtijd in balans?",
+    "subtitle": null,
+    "published_at": "2022-12-31T18:51:51+01:00",
+    "updated_at": "2022-12-31T18:51:53+01:00",
+    "media_id": "gx3x419afcpq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6245154/hoe-houd-je-je-schermtijd-in-balans.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245188,
+    "slug": "lang-vormer-en-meijer-krijgen-scott-parker-als-nieuwe-trainer-bij-club-brugge",
+    "type": "article",
+    "title": "Lang, Vormer en Meijer krijgen Scott Parker als nieuwe trainer bij Club Brugge",
+    "subtitle": null,
+    "published_at": "2022-12-31T18:47:15+01:00",
+    "updated_at": "2022-12-31T18:49:13+01:00",
+    "media_id": "8j1xutqar9q8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6245188/lang-vormer-en-meijer-krijgen-scott-parker-als-nieuwe-trainer-bij-club-brugge.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245187,
     "slug": "real-speler-vinicius-laakt-la-liga-nadat-hij-weer-het-mikpunt-van-apengeluiden-is",
     "type": "article",
@@ -236,7 +282,7 @@
     "title": "Barcelona speelt gelijk tegen Espanyol, arbiter Lahoz strooit weer met kaarten",
     "subtitle": null,
     "published_at": "2022-12-31T16:02:13+01:00",
-    "updated_at": "2022-12-31T18:24:50+01:00",
+    "updated_at": "2022-12-31T18:30:09+01:00",
     "media_id": "vhrxyg0aev5n",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6245141/erik-van-loon-slaat-over-de-kop-in-proloog-dakar-rally-en-verliest-veel-tijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245139,
-    "slug": "europese-leiders-eren-benedictus-xvi-geschiedenis-zal-hem-niet-vergeten",
-    "type": "article",
-    "title": "Europese leiders eren Benedictus XVI: 'Geschiedenis zal hem niet vergeten'",
-    "subtitle": null,
-    "published_at": "2022-12-31T13:07:06+01:00",
-    "updated_at": "2022-12-31T14:41:20+01:00",
-    "media_id": "m1mxrara71y7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245139/europese-leiders-eren-benedictus-xvi-geschiedenis-zal-hem-niet-vergeten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245136,
-    "slug": "japan-en-zuid-korea-luiden-2023-in-code-geel-voor-friesland-en-noord-holland",
-    "type": "article",
-    "title": "Japan en Zuid-Korea luiden 2023 in, code geel voor Friesland en Noord-Holland",
-    "subtitle": "Eindejaarsliveblog",
-    "published_at": "2022-12-31T12:42:16+01:00",
-    "updated_at": "2022-12-31T17:15:13+01:00",
-    "media_id": "w4lxtfxaidcs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772236,
-      "slug": "jaarwisseling",
-      "type": "files",
-      "name": "Jaarwisseling",
-      "style": "nu",
-      "media_id": "m1oxc1gaswou",
-      "partner": null
-    },
-    "url": "/jaarwisseling/6245136/japan-en-zuid-korea-luiden-2023-in-code-geel-voor-friesland-en-noord-holland.html",
     "open_new_window": false,
     "partner": null
   }
