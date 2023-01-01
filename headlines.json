@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245285,
+    "slug": "knegt-uit-onvrede-na-diskwalificatie-op-nk-goud-voor-van-t-wout-en-velzeboer",
+    "type": "article",
+    "title": "Knegt uit onvrede na diskwalificatie op NK, goud voor Van 't Wout en Velzeboer",
+    "subtitle": null,
+    "published_at": "2023-01-01T17:50:39+01:00",
+    "updated_at": "2023-01-01T17:51:24+01:00",
+    "media_id": "gvzxkn9akexw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6245285/knegt-uit-onvrede-na-diskwalificatie-op-nk-goud-voor-van-t-wout-en-velzeboer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245284,
     "slug": "irene-schouten-verovert-zevende-nationale-marathontitel-op-rij",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6245259/duizenden-nederlanders-het-water-in-voor-traditionele-nieuwjaarsduik.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245258,
-    "slug": "waarom-de-strijd-in-oekraine-ook-in-2023-nog-lang-doorgaat",
-    "type": "video",
-    "title": "Waarom de strijd in Oekraïne ook in 2023 nog lang doorgaat",
-    "subtitle": "Video",
-    "published_at": "2023-01-01T12:06:33+01:00",
-    "updated_at": "2023-01-01T12:20:18+01:00",
-    "media_id": "7d8xbmlazam9",
-    "duration": "2:24",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6245258/waarom-de-strijd-in-oekraine-ook-in-2023-nog-lang-doorgaat.html",
     "open_new_window": false,
     "partner": null
   }
