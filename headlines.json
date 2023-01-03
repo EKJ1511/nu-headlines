@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245523,
+    "slug": "verdachte-dodelijke-steekpartij-bladel-droeg-net-als-slachtoffer-enkelband",
+    "type": "article",
+    "title": "Verdachte dodelijke steekpartij Bladel droeg net als slachtoffer enkelband",
+    "subtitle": null,
+    "published_at": "2023-01-03T15:32:57+01:00",
+    "updated_at": "2023-01-03T15:32:58+01:00",
+    "media_id": "q32xpv8ad3f4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6245523/verdachte-dodelijke-steekpartij-bladel-droeg-net-als-slachtoffer-enkelband.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245518,
     "slug": "inflatie-in-duitsland-daalt-na-energiemaatregelen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6245483/peter-van-der-vorst-over-shows-met-bners-zou-het-soms-ook-anders-willen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245482,
-    "slug": "geen-slachtoffers-en-weinig-nieuwkomers-op-dynamische-energiemarkt",
-    "type": "article",
-    "title": "Geen slachtoffers en weinig nieuwkomers op dynamische energiemarkt",
-    "subtitle": null,
-    "published_at": "2023-01-03T11:38:09+01:00",
-    "updated_at": "2023-01-03T11:42:18+01:00",
-    "media_id": "e3pxhmiaawsi",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6245482/geen-slachtoffers-en-weinig-nieuwkomers-op-dynamische-energiemarkt.html",
     "open_new_window": false,
     "partner": null
   }
