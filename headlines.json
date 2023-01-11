@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246523,
+    "slug": "morgen-erg-drukke-spits-verwacht-vanwege-slecht-weer-werk-thuis",
+    "type": "article",
+    "title": "Morgen erg drukke spits verwacht vanwege slecht weer: 'Werk thuis'",
+    "subtitle": null,
+    "published_at": "2023-01-11T12:32:26+01:00",
+    "updated_at": "2023-01-11T12:32:27+01:00",
+    "media_id": "0c7x50man3jw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6246523/morgen-erg-drukke-spits-verwacht-vanwege-slecht-weer-werk-thuis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246227,
     "slug": "justin-bieber-staat-vanavond-niet-in-de-ziggo-dome-keert-hij-nog-eens-terug",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Deel je kennis met ons: wat weet jij van crypto?",
     "subtitle": null,
     "published_at": "2023-01-11T12:03:30+01:00",
-    "updated_at": "2023-01-11T12:03:31+01:00",
+    "updated_at": "2023-01-11T12:25:08+01:00",
     "media_id": "cu5xd4ja1967",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Oud-minister Grapperhaus zwaar beveiligd vanwege 'ernstige dreiging' vanuit onderwereld",
     "subtitle": null,
     "published_at": "2023-01-11T11:54:14+01:00",
-    "updated_at": "2023-01-11T12:11:33+01:00",
+    "updated_at": "2023-01-11T12:32:09+01:00",
     "media_id": "zhexf8ga8orf",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Ontruiming Duits 'bruinkooldorp' mondt uit in gevechten tussen politie en activisten",
     "subtitle": null,
     "published_at": "2023-01-11T10:17:38+01:00",
-    "updated_at": "2023-01-11T12:17:19+01:00",
+    "updated_at": "2023-01-11T12:26:41+01:00",
     "media_id": "r1fxbqqa4rgy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6246483/kijkcijfers-opsporing-verzocht-dalen-flink-na-verhuizing-naar-npo2.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246482,
-    "slug": "we-gaan-dit-jaar-nog-vaker-op-vakantie-in-eigen-land",
-    "type": "article",
-    "title": "We gaan dit jaar nog vaker op vakantie in eigen land",
-    "subtitle": null,
-    "published_at": "2023-01-11T09:11:16+01:00",
-    "updated_at": "2023-01-11T09:11:17+01:00",
-    "media_id": "aidx4e2afttz",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6246482/we-gaan-dit-jaar-nog-vaker-op-vakantie-in-eigen-land.html",
     "open_new_window": false,
     "partner": null
   }
