@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247723,
+    "slug": "barcelona-zonder-de-jong-en-depay-makkelijk-langs-derdedivisionist-in-bekerduel",
+    "type": "article",
+    "title": "Barcelona zonder De Jong en Depay makkelijk langs derdedivisionist in bekerduel",
+    "subtitle": null,
+    "published_at": "2023-01-19T21:52:03+01:00",
+    "updated_at": "2023-01-19T21:52:04+01:00",
+    "media_id": "kflxh8oalqks",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6247723/barcelona-zonder-de-jong-en-depay-makkelijk-langs-derdedivisionist-in-bekerduel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247707,
     "slug": "amerikaanse-vrouwen-bevallen-eerder-dan-nederlandse-vrouwen",
     "type": "article",
     "title": "Amerikaanse vrouwen bevallen eerder dan Nederlandse vrouwen",
     "subtitle": null,
     "published_at": "2023-01-19T21:16:55+01:00",
-    "updated_at": "2023-01-19T21:16:57+01:00",
+    "updated_at": "2023-01-19T21:51:20+01:00",
     "media_id": "e0ux660a9agc",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Vanaf 2025 verplicht eigen risico van maximaal 150 euro per zorgbehandeling",
     "subtitle": null,
     "published_at": "2023-01-19T20:41:17+01:00",
-    "updated_at": "2023-01-19T21:21:02+01:00",
+    "updated_at": "2023-01-19T21:40:43+01:00",
     "media_id": "gbnx02catlw0",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Saoedisch debuut Ronaldo tegen Messi en PSG mondt uit in spektakelstuk",
     "subtitle": null,
     "published_at": "2023-01-19T20:19:58+01:00",
-    "updated_at": "2023-01-19T20:48:46+01:00",
+    "updated_at": "2023-01-19T21:46:22+01:00",
     "media_id": "xxfx3rta0mr6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6247700/pakketbezorging-postnl-nauwelijks-geraakt-door-staking-vrachtwagenchauffeurs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247520,
-    "slug": "helft-gestrafte-jongeren-krijgt-door-rechter-opgelegde-hulp-niet",
-    "type": "article",
-    "title": "Helft gestrafte jongeren krijgt door rechter opgelegde hulp niet",
-    "subtitle": null,
-    "published_at": "2023-01-19T18:02:58+01:00",
-    "updated_at": "2023-01-19T19:23:28+01:00",
-    "media_id": "hwgxgesa9hso",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6247520/helft-gestrafte-jongeren-krijgt-door-rechter-opgelegde-hulp-niet.html",
     "open_new_window": false,
     "partner": null
   }
