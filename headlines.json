@@ -1,13 +1,36 @@
 [
   {
+    "id": 6247671,
+    "slug": "mondiale-nummer-twee-jabeur-al-in-tweede-ronde-australian-open-uitgeschakeld",
+    "type": "article",
+    "title": "Mondiale nummer twee Jabeur al in tweede ronde Australian Open uitgeschakeld",
+    "subtitle": null,
+    "published_at": "2023-01-19T15:36:27+01:00",
+    "updated_at": "2023-01-19T15:36:29+01:00",
+    "media_id": "rmpxkjqa4wah",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6247671/mondiale-nummer-twee-jabeur-al-in-tweede-ronde-australian-open-uitgeschakeld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247670,
     "slug": "man-verdacht-van-afpersen-ruim-100-meisjes-in-grootste-online-misbruikzaak-in-nederland",
     "type": "article",
     "title": "Man verdacht van afpersen ruim 100 meisjes in grootste online misbruikzaak in Nederland",
     "subtitle": null,
     "published_at": "2023-01-19T15:20:04+01:00",
-    "updated_at": "2023-01-19T15:21:14+01:00",
-    "media_id": "gvzxkn9akexw",
+    "updated_at": "2023-01-19T15:35:56+01:00",
+    "media_id": "vcwxh64a4s95",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6247614/jullie-mening-over-stakingen-in-het-streekvervoer-draait-niet-alleen-om-salaris.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247632,
-    "slug": "hockeyers-halen-ongenadig-uit-en-boeken-tegen-chili-grootste-wk-zege-ooit",
-    "type": "article",
-    "title": "Hockeyers halen ongenadig uit en boeken tegen Chili grootste WK-zege ooit",
-    "subtitle": null,
-    "published_at": "2023-01-19T12:26:07+01:00",
-    "updated_at": "2023-01-19T13:53:19+01:00",
-    "media_id": "q2ixo4baya0g",
-    "duration": null,
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6247632/hockeyers-halen-ongenadig-uit-en-boeken-tegen-chili-grootste-wk-zege-ooit.html",
     "open_new_window": false,
     "partner": null
   }
