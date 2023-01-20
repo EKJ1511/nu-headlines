@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247903,
+    "slug": "excelsior-verslaat-volendam-in-eerste-onderlinge-eredivisie-wedstrijd-sinds-1985",
+    "type": "article",
+    "title": "Excelsior verslaat Volendam in eerste onderlinge Eredivisie-wedstrijd sinds 1985",
+    "subtitle": null,
+    "published_at": "2023-01-20T21:52:09+01:00",
+    "updated_at": "2023-01-20T21:52:10+01:00",
+    "media_id": "9aexqqxav6h8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6247903/excelsior-verslaat-volendam-in-eerste-onderlinge-eredivisie-wedstrijd-sinds-1985.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247902,
     "slug": "tiental-ajax-vrouwen-boekt-moeizame-zege-op-ado-bij-hervatting-eredivisie",
     "type": "article",
     "title": "Tiental Ajax Vrouwen boekt moeizame zege op ADO bij hervatting Eredivisie",
     "subtitle": null,
     "published_at": "2023-01-20T21:31:23+01:00",
-    "updated_at": "2023-01-20T21:32:39+01:00",
+    "updated_at": "2023-01-20T21:51:51+01:00",
     "media_id": "xb6xae5apqrf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6247882/wetenschapper-ontdekt-pinguins-op-satellietfotos-via-hun-uitwerpselen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247879,
-    "slug": "code-oranje-overal-beeindigd-nog-wel-code-geel-in-grootste-deel-van-het-land",
-    "type": "article",
-    "title": "Code oranje overal beëindigd, nog wel code geel in grootste deel van het land",
-    "subtitle": null,
-    "published_at": "2023-01-20T18:03:34+01:00",
-    "updated_at": "2023-01-20T18:03:35+01:00",
-    "media_id": "ff8x6wla7oqv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6247879/code-oranje-overal-beeindigd-nog-wel-code-geel-in-grootste-deel-van-het-land.html",
     "open_new_window": false,
     "partner": null
   }
