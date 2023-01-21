@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247974,
+    "slug": "flekken-krijgt-zes-goals-om-de-oren-heldenrol-doekhi-bij-zege-union-berlin",
+    "type": "article",
+    "title": "Flekken krijgt zes goals om de oren, heldenrol Doekhi bij zege Union Berlin",
+    "subtitle": null,
+    "published_at": "2023-01-21T17:32:55+01:00",
+    "updated_at": "2023-01-21T17:47:43+01:00",
+    "media_id": "j8tx22taer1j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6247974/flekken-krijgt-zes-goals-om-de-oren-heldenrol-doekhi-bij-zege-union-berlin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247973,
     "slug": "politie-plaatst-mobiele-unit-na-dodelijke-schietpartij-in-zwijndrecht",
     "type": "video",
@@ -231,12 +254,12 @@
   },
   {
     "id": 6247963,
-    "slug": "ook-peperdure-mudryk-kan-chelsea-niet-langs-liverpool-helpen-in-1000e-duel-klopp",
+    "slug": "peperdure-mudryk-kan-chelsea-niet-langs-liverpool-helpen-in-1000e-duel-klopp",
     "type": "article",
-    "title": "Ook peperdure Mudryk kan Chelsea niet langs Liverpool helpen in 1000e duel Klopp",
+    "title": "Peperdure Mudryk kan Chelsea niet langs Liverpool helpen in 1000e duel Klopp",
     "subtitle": null,
     "published_at": "2023-01-21T15:28:07+01:00",
-    "updated_at": "2023-01-21T17:14:56+01:00",
+    "updated_at": "2023-01-21T17:40:24+01:00",
     "media_id": "5mlxf0eauk4p",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6247963/ook-peperdure-mudryk-kan-chelsea-niet-langs-liverpool-helpen-in-1000e-duel-klopp.html",
+    "url": "/voetbal/6247963/peperdure-mudryk-kan-chelsea-niet-langs-liverpool-helpen-in-1000e-duel-klopp.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6247947/amerikaanse-tv-analist-ruziet-met-basketballers-tijdens-nba-wedstrijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247945,
-    "slug": "sprookje-murray-op-australian-open-komt-ten-einde-tegen-bautista-agut",
-    "type": "article",
-    "title": "Sprookje Murray op Australian Open komt ten einde tegen Bautista Agut",
-    "subtitle": null,
-    "published_at": "2023-01-21T12:50:21+01:00",
-    "updated_at": "2023-01-21T13:24:00+01:00",
-    "media_id": "mhixdl3a9hj1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6247945/sprookje-murray-op-australian-open-komt-ten-einde-tegen-bautista-agut.html",
     "open_new_window": false,
     "partner": null
   }
