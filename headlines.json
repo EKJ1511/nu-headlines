@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248398,
+    "slug": "amerikanen-houden-wake-voor-slachtoffers-schietpartij",
+    "type": "video",
+    "title": "Amerikanen houden wake voor slachtoffers schietpartij",
+    "subtitle": "Video",
+    "published_at": "2023-01-25T08:31:01+01:00",
+    "updated_at": "2023-01-25T08:31:02+01:00",
+    "media_id": "k5kx5wxabs26",
+    "duration": "0:58",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6248398/amerikanen-houden-wake-voor-slachtoffers-schietpartij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248395,
     "slug": "zeker-150-doden-in-afghanistan-door-extreem-winterweer",
     "type": "article",
@@ -282,7 +305,7 @@
     "title": "Oversterfte blijft aanhouden, maar het is nog onduidelijk hoe dat precies komt",
     "subtitle": null,
     "published_at": "2023-01-25T00:00:17+01:00",
-    "updated_at": "2023-01-25T05:10:06+01:00",
+    "updated_at": "2023-01-25T08:25:35+01:00",
     "media_id": "bopx7m4a8rll",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6248333/wat-gebeurt-er-als-een-ambassadeur-op-het-matje-wordt-geroepen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248376,
-    "slug": "vakbond-kondigt-nieuwe-stakingen-door-personeel-van-regionale-treinen-aan",
-    "type": "article",
-    "title": "Vakbond kondigt nieuwe stakingen door personeel van regionale treinen aan",
-    "subtitle": null,
-    "published_at": "2023-01-24T20:49:44+01:00",
-    "updated_at": "2023-01-24T21:37:06+01:00",
-    "media_id": "kklx6kvayh9g",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6248376/vakbond-kondigt-nieuwe-stakingen-door-personeel-van-regionale-treinen-aan.html",
     "open_new_window": false,
     "partner": null
   }
