@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249251,
+    "slug": "nog-nooit-zoveel-bedreigde-neushoorns-gestroopt-in-namibie",
+    "type": "article",
+    "title": "Nog nooit zoveel bedreigde neushoorns gestroopt in Namibië",
+    "subtitle": null,
+    "published_at": "2023-01-31T12:32:41+01:00",
+    "updated_at": "2023-01-31T12:32:42+01:00",
+    "media_id": "kjsxpyia2d6q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6249251/nog-nooit-zoveel-bedreigde-neushoorns-gestroopt-in-namibie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249253,
     "slug": "go-ahead-eagles-versterkt-zich-op-deadline-day-met-aanvaller-van-valencia",
     "type": "article",
     "title": "Go Ahead Eagles versterkt zich op Deadline Day met aanvaller van Valencia",
     "subtitle": null,
     "published_at": "2023-01-31T12:30:58+01:00",
-    "updated_at": "2023-01-31T12:30:59+01:00",
+    "updated_at": "2023-01-31T12:34:52+01:00",
     "media_id": "fenxo3vagfv6",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6248337,
-    "slug": "studenten-eisen-einde-aan-fossiel-geld-voor-universiteiten-stop-greenwashing",
+    "slug": "studenten-eisen-einde-aan-fossiel-geld-universiteiten-stop-greenwashing",
     "type": "article",
-    "title": "Studenten eisen einde aan 'fossiel' geld voor universiteiten: 'Stop greenwashing'",
+    "title": "Studenten eisen einde aan 'fossiel' geld universiteiten: 'Stop greenwashing'",
     "subtitle": "NU+",
     "published_at": "2023-01-31T12:25:43+01:00",
-    "updated_at": "2023-01-31T12:25:44+01:00",
+    "updated_at": "2023-01-31T12:35:15+01:00",
     "media_id": "n1tx5m0aq51f",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6248337/studenten-eisen-einde-aan-fossiel-geld-voor-universiteiten-stop-greenwashing.html",
+    "url": "/klimaat/6248337/studenten-eisen-einde-aan-fossiel-geld-universiteiten-stop-greenwashing.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Blind ziet kans op speeltijd bij Bayern München afnemen door komst Cancelo",
     "subtitle": null,
     "published_at": "2023-01-31T12:22:44+01:00",
-    "updated_at": "2023-01-31T12:28:05+01:00",
+    "updated_at": "2023-01-31T12:33:21+01:00",
     "media_id": "u6gxtgqasqvr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6249216/straks-mogelijk-lift-en-rolstoeltoegankelijke-cel-in-gevangenis-vanwege-vergrijzing.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249217,
-    "slug": "virtualrealitybril-voor-de-playstation-5-minder-in-trek-sony-verlaagt-productie",
-    "type": "article",
-    "title": "Virtualrealitybril voor de PlayStation 5 minder in trek, Sony verlaagt productie",
-    "subtitle": null,
-    "published_at": "2023-01-31T09:59:54+01:00",
-    "updated_at": "2023-01-31T10:27:11+01:00",
-    "media_id": "6fbx98kat6wa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6249217/virtualrealitybril-voor-de-playstation-5-minder-in-trek-sony-verlaagt-productie.html",
     "open_new_window": false,
     "partner": null
   }
