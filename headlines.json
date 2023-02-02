@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249610,
+    "slug": "bizarre-valpartij-zet-streep-door-tweede-etappe-ster-van-besseges",
+    "type": "article",
+    "title": "Bizarre valpartij zet streep door tweede etappe Ster van Bessèges",
+    "subtitle": null,
+    "published_at": "2023-02-02T16:51:33+01:00",
+    "updated_at": "2023-02-02T16:51:36+01:00",
+    "media_id": "66hx92wa95he",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6249610/bizarre-valpartij-zet-streep-door-tweede-etappe-ster-van-besseges.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249606,
     "slug": "burgemeester-wil-onafhankelijk-onderzoek-naar-dodelijke-brand-in-arnhem",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "PSG zonder geblesseerde Mbappé in eerste CL-duel met Bayern München",
     "subtitle": null,
     "published_at": "2023-02-02T16:34:42+01:00",
-    "updated_at": "2023-02-02T16:34:43+01:00",
+    "updated_at": "2023-02-02T16:37:27+01:00",
     "media_id": "n62xu1ca4v7i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6249567/britse-rente-omhoog-naar-hoogste-niveau-in-veertien-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249563,
-    "slug": "twitter-wil-geld-zien-van-externe-apps",
-    "type": "article",
-    "title": "Twitter wil geld zien van externe apps",
-    "subtitle": null,
-    "published_at": "2023-02-02T13:26:04+01:00",
-    "updated_at": "2023-02-02T13:26:05+01:00",
-    "media_id": "h15x6tgaev2a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6249563/twitter-wil-geld-zien-van-externe-apps.html",
     "open_new_window": false,
     "partner": null
   }
