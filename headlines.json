@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250329,
+    "slug": "saoedische-wk-held-helpt-al-hilal-aan-sensationele-finaleplaats-op-wk-voor-clubs",
+    "type": "article",
+    "title": "Saoedische WK-held helpt Al Hilal aan sensationele finaleplaats op WK voor clubs",
+    "subtitle": null,
+    "published_at": "2023-02-07T22:32:17+01:00",
+    "updated_at": "2023-02-07T22:32:18+01:00",
+    "media_id": "sqixuncatmtk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6250329/saoedische-wk-held-helpt-al-hilal-aan-sensationele-finaleplaats-op-wk-voor-clubs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250323,
     "slug": "dit-is-nu-de-stand-van-zaken-rondom-de-aardbevingen-in-syrie-en-turkije",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Bekersprookje amateurs De Treffers spat uiteen door verlies tegen De Graafschap",
     "subtitle": null,
     "published_at": "2023-02-07T21:54:27+01:00",
-    "updated_at": "2023-02-07T22:03:14+01:00",
+    "updated_at": "2023-02-07T22:18:45+01:00",
     "media_id": "l8lxy5aay9w8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport/6250303/ten-hag-krijgt-lachers-op-zijn-hand-met-excuus-voor-te-laat-komen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250301,
-    "slug": "dikke-rookwolken-boven-turkse-haven-door-brand",
-    "type": "video",
-    "title": "Dikke rookwolken boven Turkse haven door brand",
-    "subtitle": "Video",
-    "published_at": "2023-02-07T17:45:48+01:00",
-    "updated_at": "2023-02-07T17:46:17+01:00",
-    "media_id": "9quxx7pav1ft",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6250301/dikke-rookwolken-boven-turkse-haven-door-brand.html",
     "open_new_window": false,
     "partner": null
   }
