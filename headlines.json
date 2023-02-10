@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250812,
+    "slug": "chariots-of-fire-regisseur-hugh-hudson-overleden-op-86-jarige-leeftijd",
+    "type": "article",
+    "title": "Chariots of Fire-regisseur Hugh Hudson overleden op 86-jarige leeftijd",
+    "subtitle": null,
+    "published_at": "2023-02-10T21:46:19+01:00",
+    "updated_at": "2023-02-10T21:46:20+01:00",
+    "media_id": "zl2xybtatkrl",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6250812/chariots-of-fire-regisseur-hugh-hudson-overleden-op-86-jarige-leeftijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250810,
     "slug": "reddingswerkers-vinden-turkse-jongen-na-94-uur-ik-dronk-urine",
     "type": "video",
@@ -121,8 +144,8 @@
     "title": "VS schiet onbekend object boven Alaska uit de lucht",
     "subtitle": null,
     "published_at": "2023-02-10T21:02:16+01:00",
-    "updated_at": "2023-02-10T21:12:07+01:00",
-    "media_id": "cxdx4glaj5ac",
+    "updated_at": "2023-02-10T21:51:05+01:00",
+    "media_id": "4jyxtqxan48q",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -277,12 +300,12 @@
   },
   {
     "id": 6250795,
-    "slug": "az-op-weg-naar-koppositie-en-klinkende-zege-op-excelsior",
+    "slug": "reacties-na-klinkende-zege-van-koploper-az",
     "type": "article",
-    "title": "AZ op weg naar koppositie en klinkende zege op Excelsior",
+    "title": "Reacties na klinkende zege van koploper AZ",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-02-10T19:43:55+01:00",
-    "updated_at": "2023-02-10T21:36:49+01:00",
+    "updated_at": "2023-02-10T21:52:01+01:00",
     "media_id": "ew6xm8qak8ix",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6250795/az-op-weg-naar-koppositie-en-klinkende-zege-op-excelsior.html",
+    "url": "/voetbal/6250795/reacties-na-klinkende-zege-van-koploper-az.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6250786/groenewoud-pakt-brons-op-3-kilometer-in-polen-eindzege-wiklund-in-wereldbeker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250780,
-    "slug": "benzema-mbappe-en-messi-strijden-om-fifa-prijs-voor-speler-van-het-jaar",
-    "type": "article",
-    "title": "Benzema, Mbappé en Messi strijden om FIFA-prijs voor Speler van het Jaar",
-    "subtitle": null,
-    "published_at": "2023-02-10T17:57:09+01:00",
-    "updated_at": "2023-02-10T18:14:18+01:00",
-    "media_id": "b3yxl4sa8g38",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6250780/benzema-mbappe-en-messi-strijden-om-fifa-prijs-voor-speler-van-het-jaar.html",
     "open_new_window": false,
     "partner": null
   }
