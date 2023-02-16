@@ -1,5 +1,28 @@
 [
   {
+    "id": 6251566,
+    "slug": "de-worsteling-met-militaire-ai-mag-een-wapen-zelf-nadenken",
+    "type": "article",
+    "title": "De worsteling met militaire AI: mag een wapen zelf nadenken?",
+    "subtitle": null,
+    "published_at": "2023-02-16T20:30:35+01:00",
+    "updated_at": "2023-02-16T20:30:37+01:00",
+    "media_id": "u32xx0fajiv1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6251566/de-worsteling-met-militaire-ai-mag-een-wapen-zelf-nadenken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251634,
     "slug": "til-en-saibari-beginnen-verrassend-bij-psv-in-europa-league-duel-met-sevilla",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Tijdelijk zwemverbod: pil moet zaadcellen straks in slaap sussen",
     "subtitle": null,
     "published_at": "2023-02-16T19:17:43+01:00",
-    "updated_at": "2023-02-16T19:58:39+01:00",
+    "updated_at": "2023-02-16T20:24:28+01:00",
     "media_id": "la8xk87a0x56",
     "duration": null,
     "canonical_section": {
@@ -213,8 +236,8 @@
     "title": "Ajax ontsnapt door VAR-ingreep, Ten Hag leidt bij Barça",
     "subtitle": "Liveblog EL",
     "published_at": "2023-02-16T18:04:03+01:00",
-    "updated_at": "2023-02-16T20:13:05+01:00",
-    "media_id": "f9kxx2zau3rk",
+    "updated_at": "2023-02-16T20:23:22+01:00",
+    "media_id": "2j9xnv8aahy5",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -397,7 +420,7 @@
     "title": "In Spanje kun je zelf je gender bepalen, ook uniek menstruatieverlof ingevoerd",
     "subtitle": null,
     "published_at": "2023-02-16T15:48:19+01:00",
-    "updated_at": "2023-02-16T17:03:57+01:00",
+    "updated_at": "2023-02-16T20:21:28+01:00",
     "media_id": "r4bxufaawtid",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6251575/shiffrin-revancheert-zich-met-wereldtitel-op-reuzenslalom-voor-mislukte-spelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251582,
-    "slug": "turkse-jongeren-klappen-bij-terugkomst-reddingsteam-helden",
-    "type": "video",
-    "title": "Turkse jongeren klappen bij terugkomst reddingsteam: 'Helden'",
-    "subtitle": "Video",
-    "published_at": "2023-02-16T15:41:01+01:00",
-    "updated_at": "2023-02-16T16:57:04+01:00",
-    "media_id": "2cxx8qra6qxp",
-    "duration": "0:29",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6251582/turkse-jongeren-klappen-bij-terugkomst-reddingsteam-helden.html",
     "open_new_window": false,
     "partner": null
   }
