@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252627,
+    "slug": "bekijk-de-mogelijke-tegenstanders-van-az-en-feyenoord-bij-de-europese-loting",
+    "type": "article",
+    "title": "Bekijk de mogelijke tegenstanders van AZ en Feyenoord bij de Europese loting",
+    "subtitle": null,
+    "published_at": "2023-02-23T23:52:11+01:00",
+    "updated_at": "2023-02-23T23:52:12+01:00",
+    "media_id": "w66xn4wasvs7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6252627/bekijk-de-mogelijke-tegenstanders-van-az-en-feyenoord-bij-de-europese-loting.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252672,
     "slug": "weer-een-vernietigend-rapport-over-jeugdbescherming-totaal-geen-verbetering",
     "type": "article",
     "title": "Wéér een vernietigend rapport over jeugdbescherming: 'Totaal geen verbetering'",
     "subtitle": null,
     "published_at": "2023-02-23T23:27:17+01:00",
-    "updated_at": "2023-02-23T23:31:25+01:00",
+    "updated_at": "2023-02-23T23:39:24+01:00",
     "media_id": "j44x7t7arvew",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Ten Hag beleeft nieuw hoogtepunt met United: Antony velt vonnis over Barcelona",
     "subtitle": null,
     "published_at": "2023-02-23T22:54:57+01:00",
-    "updated_at": "2023-02-23T23:16:02+01:00",
+    "updated_at": "2023-02-23T23:47:34+01:00",
     "media_id": "t69xnv9aiqer",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6252649/water-in-kanalen-van-venetie-staat-extreem-laag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252648,
-    "slug": "dit-seizoen-geen-uitfans-meer-welkom-bij-cambuur-door-aanhoudende-rellen",
-    "type": "article",
-    "title": "Dit seizoen geen uitfans meer welkom bij Cambuur door aanhoudende rellen",
-    "subtitle": null,
-    "published_at": "2023-02-23T19:43:32+01:00",
-    "updated_at": "2023-02-23T21:45:31+01:00",
-    "media_id": "pyqxqkyat8yv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6252648/dit-seizoen-geen-uitfans-meer-welkom-bij-cambuur-door-aanhoudende-rellen.html",
     "open_new_window": false,
     "partner": null
   }
