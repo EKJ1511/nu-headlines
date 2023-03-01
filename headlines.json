@@ -1,12 +1,35 @@
 [
   {
-    "id": 6253504,
-    "slug": "britse-koning-charles-geeft-huis-van-prins-harry-aan-zijn-broer-andrew",
+    "id": 6253505,
+    "slug": "feyenoord-worstelt-zich-langs-heerenveen-en-bereikt-halve-finales-knvb-beker",
     "type": "article",
-    "title": "Britse Koning Charles geeft huis van prins Harry aan zijn broer Andrew",
+    "title": "Feyenoord worstelt zich langs Heerenveen en bereikt halve finales KNVB-beker",
+    "subtitle": null,
+    "published_at": "2023-03-01T21:52:09+01:00",
+    "updated_at": "2023-03-01T21:52:17+01:00",
+    "media_id": "qvyxo49a00rv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6253505/feyenoord-worstelt-zich-langs-heerenveen-en-bereikt-halve-finales-knvb-beker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253504,
+    "slug": "britse-koning-charles-geeft-huis-van-prins-harry-aan-prins-andrew",
+    "type": "article",
+    "title": "Britse koning Charles geeft huis van prins Harry aan prins Andrew",
     "subtitle": null,
     "published_at": "2023-03-01T21:36:48+01:00",
-    "updated_at": "2023-03-01T21:36:56+01:00",
+    "updated_at": "2023-03-01T21:43:14+01:00",
     "media_id": "y5exl9iaqd6m",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6253504/britse-koning-charles-geeft-huis-van-prins-harry-aan-zijn-broer-andrew.html",
+    "url": "/achterklap/6253504/britse-koning-charles-geeft-huis-van-prins-harry-aan-prins-andrew.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Songfestival-nummer Mia & Dion is popballad over vallen en opstaan",
     "subtitle": null,
     "published_at": "2023-03-01T21:04:54+01:00",
-    "updated_at": "2023-03-01T21:19:44+01:00",
+    "updated_at": "2023-03-01T21:38:46+01:00",
     "media_id": "l1txzrfaq53s",
     "duration": null,
     "canonical_section": {
@@ -254,13 +277,13 @@
   },
   {
     "id": 6253487,
-    "slug": "feyenoord-en-heerenveen-stevenen-af-op-verlenging",
+    "slug": "feyenoord-stevent-af-op-nipte-zege-in-heerenveen",
     "type": "article",
-    "title": "Feyenoord en Heerenveen stevenen af op verlenging",
+    "title": "Feyenoord stevent af op nipte zege in Heerenveen",
     "subtitle": "Liveblog KNVB-beker",
     "published_at": "2023-03-01T19:28:44+01:00",
-    "updated_at": "2023-03-01T21:33:42+01:00",
-    "media_id": "y1lxevna8u92",
+    "updated_at": "2023-03-01T21:45:26+01:00",
+    "media_id": "0xpxenhalcfz",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6253487/feyenoord-en-heerenveen-stevenen-af-op-verlenging.html",
+    "url": "/voetbal/6253487/feyenoord-stevent-af-op-nipte-zege-in-heerenveen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6253443/wat-is-het-stap-budget.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253478,
-    "slug": "beveiligingssysteem-heeft-gefaald-justitie-bleef-gevaar-onderschatten",
-    "type": "video",
-    "title": "Beveiligingssysteem heeft gefaald: 'Justitie bleef gevaar onderschatten'",
-    "subtitle": "Video",
-    "published_at": "2023-03-01T18:19:10+01:00",
-    "updated_at": "2023-03-01T18:25:56+01:00",
-    "media_id": "444xu30ag48c",
-    "duration": "2:20",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6253478/beveiligingssysteem-heeft-gefaald-justitie-bleef-gevaar-onderschatten.html",
     "open_new_window": false,
     "partner": null
   }
