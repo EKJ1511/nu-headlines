@@ -1,12 +1,58 @@
 [
   {
+    "id": 6255980,
+    "slug": "minibus-ligt-op-de-kant-na-zwaar-ongeluk-in-antwerpen",
+    "type": "video",
+    "title": "Minibus ligt op de kant na zwaar ongeluk in Antwerpen",
+    "subtitle": "Video",
+    "published_at": "2023-03-19T11:51:48+01:00",
+    "updated_at": "2023-03-19T11:51:49+01:00",
+    "media_id": "h5qxrt2af04a",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6255980/minibus-ligt-op-de-kant-na-zwaar-ongeluk-in-antwerpen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255979,
+    "slug": "groningen-ontvangt-heerenveen-op-hectische-dag",
+    "type": "article",
+    "title": "Groningen ontvangt Heerenveen op hectische dag",
+    "subtitle": "Liveblog Eredivisie",
+    "published_at": "2023-03-19T11:50:39+01:00",
+    "updated_at": "2023-03-19T11:51:11+01:00",
+    "media_id": "xbwxr3wablzw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6255979/groningen-ontvangt-heerenveen-op-hectische-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255977,
     "slug": "succescoach-lukkien-vertrekt-na-dit-seizoen-bij-emmen-en-gaat-naar-groningen",
     "type": "article",
     "title": "Succescoach Lukkien vertrekt na dit seizoen bij Emmen en gaat naar Groningen",
     "subtitle": null,
     "published_at": "2023-03-19T11:21:26+01:00",
-    "updated_at": "2023-03-19T11:35:07+01:00",
+    "updated_at": "2023-03-19T11:42:34+01:00",
     "media_id": "mxhxqaba3xrs",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6255958/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255618,
-    "slug": "wint-feyenoord-na-18-jaar-bij-ajax-speel-zonder-angst-zoals-wij-in-2005",
-    "type": "article",
-    "title": "Wint Feyenoord na 18 jaar bij Ajax? 'Speel zonder angst, zoals wij in 2005'",
-    "subtitle": "NU+",
-    "published_at": "2023-03-19T05:04:55+01:00",
-    "updated_at": "2023-03-19T08:25:00+01:00",
-    "media_id": "9tvxpt9az9gn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255618/wint-feyenoord-na-18-jaar-bij-ajax-speel-zonder-angst-zoals-wij-in-2005.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255751,
-    "slug": "bijzonder-aardige-alonso-lijkt-met-aston-martin-eindelijk-goed-te-kiezen",
-    "type": "article",
-    "title": "'Bijzonder aardige' Alonso lijkt met Aston Martin eindelijk goed te kiezen",
-    "subtitle": "NU+",
-    "published_at": "2023-03-19T05:02:36+01:00",
-    "updated_at": "2023-03-19T09:09:24+01:00",
-    "media_id": "ajrxrtcaagn9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6255751/bijzonder-aardige-alonso-lijkt-met-aston-martin-eindelijk-goed-te-kiezen.html",
     "open_new_window": false,
     "partner": null
   }
