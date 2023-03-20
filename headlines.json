@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256047,
+    "slug": "ook-na-droomweek-laat-feyenoord-trainer-slot-de-bravoure-graag-over-aan-ajax",
+    "type": "article",
+    "title": "Ook na droomweek laat Feyenoord-trainer Slot de bravoure graag over aan Ajax",
+    "subtitle": null,
+    "published_at": "2023-03-20T06:34:56+01:00",
+    "updated_at": "2023-03-20T06:34:57+01:00",
+    "media_id": "qpmxxy2agw72",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256047/ook-na-droomweek-laat-feyenoord-trainer-slot-de-bravoure-graag-over-aan-ajax.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255615,
     "slug": "hoe-is-het-om-maxima-te-spelen-het-voelt-als-een-enorme-verantwoordelijkheid",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Drie mensen opgepakt die duizend Nederlanders voor 1,2 miljoen euro oplichtten",
     "subtitle": null,
     "published_at": "2023-03-20T06:08:17+01:00",
-    "updated_at": "2023-03-20T06:08:18+01:00",
+    "updated_at": "2023-03-20T06:32:18+01:00",
     "media_id": "eswxtpja0yre",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "FC Barcelona klopt Real dankzij late goal en zet grote stap richting landstitel",
     "subtitle": null,
     "published_at": "2023-03-19T22:58:07+01:00",
-    "updated_at": "2023-03-19T23:44:18+01:00",
+    "updated_at": "2023-03-20T06:35:31+01:00",
     "media_id": "zt0xkrlaq64i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6256035/aston-martin-met-succes-in-beroep-alonso-heeft-derde-plaats-in-jeddah-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256034,
-    "slug": "spelersbus-feyenoord-door-duizenden-fans-onthaald-in-rotterdam",
-    "type": "video",
-    "title": "Spelersbus Feyenoord door duizenden fans onthaald in Rotterdam",
-    "subtitle": "Video",
-    "published_at": "2023-03-19T21:22:10+01:00",
-    "updated_at": "2023-03-19T21:22:10+01:00",
-    "media_id": "1q0xdpmaj6vz",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6256034/spelersbus-feyenoord-door-duizenden-fans-onthaald-in-rotterdam.html",
     "open_new_window": false,
     "partner": null
   }
