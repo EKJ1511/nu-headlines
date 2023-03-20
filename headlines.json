@@ -1,12 +1,58 @@
 [
   {
+    "id": 6256056,
+    "slug": "alcaraz-opnieuw-nummer-een-van-de-wereld-dankzij-triomf-in-indian-wells",
+    "type": "article",
+    "title": "Alcaraz opnieuw nummer één van de wereld dankzij triomf in Indian Wells",
+    "subtitle": null,
+    "published_at": "2023-03-20T06:51:25+01:00",
+    "updated_at": "2023-03-20T06:51:26+01:00",
+    "media_id": "9upxhega5xv7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6256056/alcaraz-opnieuw-nummer-een-van-de-wereld-dankzij-triomf-in-indian-wells.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256055,
+    "slug": "documentaire-over-zanger-antoon-komt-uit-in-bioscoop",
+    "type": "article",
+    "title": "Documentaire over zanger Antoon komt uit in bioscoop",
+    "subtitle": null,
+    "published_at": "2023-03-20T06:35:47+01:00",
+    "updated_at": "2023-03-20T06:35:48+01:00",
+    "media_id": "eapxvsman1ps",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6256055/documentaire-over-zanger-antoon-komt-uit-in-bioscoop.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256047,
     "slug": "ook-na-droomweek-laat-feyenoord-trainer-slot-de-bravoure-graag-over-aan-ajax",
     "type": "article",
     "title": "Ook na droomweek laat Feyenoord-trainer Slot de bravoure graag over aan Ajax",
     "subtitle": null,
     "published_at": "2023-03-20T06:34:56+01:00",
-    "updated_at": "2023-03-20T06:34:57+01:00",
+    "updated_at": "2023-03-20T06:37:33+01:00",
     "media_id": "qpmxxy2agw72",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Hoe is het om Máxima te spelen? 'Het voelt als een enorme verantwoordelijkheid'",
     "subtitle": null,
     "published_at": "2023-03-20T06:10:47+01:00",
-    "updated_at": "2023-03-20T06:11:48+01:00",
+    "updated_at": "2023-03-20T06:36:39+01:00",
     "media_id": "xnkxjnia3gvl",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Drie mensen opgepakt die duizend Nederlanders voor 1,2 miljoen euro oplichtten",
     "subtitle": null,
     "published_at": "2023-03-20T06:08:17+01:00",
-    "updated_at": "2023-03-20T06:32:18+01:00",
+    "updated_at": "2023-03-20T06:44:08+01:00",
     "media_id": "eswxtpja0yre",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/nu-formule-1/6256041/verstappen-en-perez-weten-al-dat-ze-alleen-elkaar-hoeven-te-verslaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256037,
-    "slug": "fc-twente-maakt-dag-van-koploper-feyenoord-nog-mooier-door-zege-op-az",
-    "type": "article",
-    "title": "FC Twente maakt dag van koploper Feyenoord nog mooier door zege op AZ",
-    "subtitle": null,
-    "published_at": "2023-03-19T22:00:16+01:00",
-    "updated_at": "2023-03-19T22:36:39+01:00",
-    "media_id": "ii6xyh2axqlb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6256037/fc-twente-maakt-dag-van-koploper-feyenoord-nog-mooier-door-zege-op-az.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256035,
-    "slug": "aston-martin-met-succes-in-beroep-alonso-heeft-derde-plaats-in-jeddah-terug",
-    "type": "article",
-    "title": "Aston Martin met succes in beroep: Alonso heeft derde plaats in Jeddah terug",
-    "subtitle": null,
-    "published_at": "2023-03-19T21:58:55+01:00",
-    "updated_at": "2023-03-20T02:46:13+01:00",
-    "media_id": "60pxb7za9lvm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Saoedi-Arabië",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6256035/aston-martin-met-succes-in-beroep-alonso-heeft-derde-plaats-in-jeddah-terug.html",
     "open_new_window": false,
     "partner": null
   }
