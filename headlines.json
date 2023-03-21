@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256236,
+    "slug": "knsb-neemt-tussentijds-afscheid-van-bondscoach-kunstrijden-savchenko",
+    "type": "article",
+    "title": "KNSB neemt tussentijds afscheid van bondscoach kunstrijden Savchenko",
+    "subtitle": null,
+    "published_at": "2023-03-21T10:31:30+01:00",
+    "updated_at": "2023-03-21T10:31:31+01:00",
+    "media_id": "8d0xqgga4bei",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6256236/knsb-neemt-tussentijds-afscheid-van-bondscoach-kunstrijden-savchenko.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256231,
     "slug": "bekritiseerde-technisch-manager-hamstra-staat-voor-vertrek-bij-ajax",
     "type": "article",
     "title": "Bekritiseerde technisch manager Hamstra staat voor vertrek bij Ajax",
     "subtitle": null,
     "published_at": "2023-03-21T10:11:26+01:00",
-    "updated_at": "2023-03-21T10:15:36+01:00",
+    "updated_at": "2023-03-21T10:30:24+01:00",
     "media_id": "7pfx44sa8hht",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6256202/londense-politie-is-volgens-rapport-racistisch-homofoob-en-vrouwonvriendelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256129,
-    "slug": "online-geven-we-meer-uit-aan-reizen-en-tickets-voor-evenementen",
-    "type": "article",
-    "title": "Online geven we meer uit aan reizen en tickets voor evenementen",
-    "subtitle": null,
-    "published_at": "2023-03-21T05:11:25+01:00",
-    "updated_at": "2023-03-21T05:11:26+01:00",
-    "media_id": "6i5xdcsas38r",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6256129/online-geven-we-meer-uit-aan-reizen-en-tickets-voor-evenementen.html",
     "open_new_window": false,
     "partner": null
   }
