@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256756,
+    "slug": "wevers-maakt-anderhalf-jaar-na-spelen-rentree-en-haalt-direct-ek-norm-op-balk",
+    "type": "article",
+    "title": "Wevers maakt anderhalf jaar na Spelen rentree en haalt direct EK-norm op balk",
+    "subtitle": null,
+    "published_at": "2023-03-24T16:51:58+01:00",
+    "updated_at": "2023-03-24T16:51:59+01:00",
+    "media_id": "3e1x5zla5dcm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6256756/wevers-maakt-anderhalf-jaar-na-spelen-rentree-en-haalt-direct-ek-norm-op-balk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256754,
     "slug": "60-uur-taakstraf-voor-van-meijeren-fvd-voor-door-rood-rijden-zonder-rijbewijs",
     "type": "article",
     "title": "60 uur taakstraf voor Van Meijeren (FVD) voor door rood rijden zonder rijbewijs",
     "subtitle": null,
     "published_at": "2023-03-24T16:31:23+01:00",
-    "updated_at": "2023-03-24T16:31:25+01:00",
+    "updated_at": "2023-03-24T16:44:30+01:00",
     "media_id": "y2xxtyhat211",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Nieuwe bankencrisis in eurozone is volgens Rutte zeer onwaarschijnlijk",
     "subtitle": null,
     "published_at": "2023-03-24T14:44:13+01:00",
-    "updated_at": "2023-03-24T14:48:51+01:00",
+    "updated_at": "2023-03-24T16:39:19+01:00",
     "media_id": "khbx7p4a0i3w",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Wormuth haalt gelijk: ontslag bij FC Groningen was in strijd met de wet",
     "subtitle": null,
     "published_at": "2023-03-24T14:13:42+01:00",
-    "updated_at": "2023-03-24T16:28:51+01:00",
+    "updated_at": "2023-03-24T16:37:33+01:00",
     "media_id": "vqmxmkfatwgj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6256699/kunstenbond-wil-dat-max-en-npo-voortaan-overleggen-over-contracten-kunstenaars.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256710,
-    "slug": "van-der-poel-van-aert-en-pogacar-kleuren-heerlijke-e3-prijs",
-    "type": "article",
-    "title": "Van der Poel, Van Aert en Pogacar kleuren heerlijke E3 Prijs",
-    "subtitle": "Liveblog",
-    "published_at": "2023-03-24T12:23:30+01:00",
-    "updated_at": "2023-03-24T16:26:25+01:00",
-    "media_id": "migx46badcb7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6256710/van-der-poel-van-aert-en-pogacar-kleuren-heerlijke-e3-prijs.html",
     "open_new_window": false,
     "partner": null
   }
