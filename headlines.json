@@ -1,12 +1,35 @@
 [
   {
-    "id": 6256902,
-    "slug": "laatste-aangehouden-klimaatactivist-xr-weer-op-vrije-voeten",
+    "id": 6256903,
+    "slug": "heilige-vlaamse-wielerweek-begint-met-gent-wevelgem",
     "type": "article",
-    "title": "Laatste aangehouden klimaatactivist XR weer op vrije voeten",
+    "title": "Heilige Vlaamse wielerweek begint met Gent-Wevelgem",
+    "subtitle": "Liveblog",
+    "published_at": "2023-03-26T11:47:50+02:00",
+    "updated_at": "2023-03-26T11:47:52+02:00",
+    "media_id": "75txhj3aa050",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6256903/heilige-vlaamse-wielerweek-begint-met-gent-wevelgem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256902,
+    "slug": "laatste-aangehouden-xr-klimaatactivist-weer-op-vrije-voeten",
+    "type": "article",
+    "title": "Laatste aangehouden XR-klimaatactivist weer op vrije voeten",
     "subtitle": null,
     "published_at": "2023-03-26T11:31:34+02:00",
-    "updated_at": "2023-03-26T11:31:36+02:00",
+    "updated_at": "2023-03-26T11:47:11+02:00",
     "media_id": "vigxt9ca5fhs",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6256902/laatste-aangehouden-klimaatactivist-xr-weer-op-vrije-voeten.html",
+    "url": "/binnenland/6256902/laatste-aangehouden-xr-klimaatactivist-weer-op-vrije-voeten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +397,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-03-26T05:11:13+02:00",
-    "updated_at": "2023-03-26T09:09:17+02:00",
+    "updated_at": "2023-03-26T11:38:44+02:00",
     "media_id": "5orxtf5awygy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wonen/6256706/zo-pak-je-de-lenteschoonmaak-aan-soda-zeep-azijn-en-een-muziekje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256745,
-    "slug": "steeds-meer-jongvolwassenen-maken-een-einde-aan-hun-leven-zorgelijke-trend",
-    "type": "article",
-    "title": "Steeds meer jongvolwassenen maken een einde aan hun leven: 'Zorgelijke trend'",
-    "subtitle": null,
-    "published_at": "2023-03-26T05:01:52+02:00",
-    "updated_at": "2023-03-26T09:03:51+02:00",
-    "media_id": "ik1xof3a5zdz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6256745/steeds-meer-jongvolwassenen-maken-een-einde-aan-hun-leven-zorgelijke-trend.html",
     "open_new_window": false,
     "partner": null
   }
