@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256943,
+    "slug": "eu-is-bereid-belarus-nieuwe-sancties-op-te-leggen-om-russische-kernwapens",
+    "type": "article",
+    "title": "EU is bereid Belarus nieuwe sancties op te leggen om Russische kernwapens",
+    "subtitle": null,
+    "published_at": "2023-03-26T19:29:54+02:00",
+    "updated_at": "2023-03-26T19:29:55+02:00",
+    "media_id": "1i6x86hartwu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6256943/eu-is-bereid-belarus-nieuwe-sancties-op-te-leggen-om-russische-kernwapens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256928,
     "slug": "memphis-mag-van-koeman-ook-na-vierde-misser-penaltynemer-oranje-blijven",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "Bagnaia troeft Viñales af en wint in Portugal eerste race van MotoGP-seizoen",
     "subtitle": null,
     "published_at": "2023-03-26T15:49:24+02:00",
-    "updated_at": "2023-03-26T16:54:06+02:00",
+    "updated_at": "2023-03-26T19:31:41+02:00",
     "media_id": "nn1xb1gawnb4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6256917/ajax-vrouwen-overklast-vv-alkmaar-en-houdt-druk-op-koploper-fc-twente.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256916,
-    "slug": "honduras-haalt-diplomatieke-banden-met-china-verder-aan",
-    "type": "article",
-    "title": "Honduras haalt diplomatieke banden met China verder aan",
-    "subtitle": null,
-    "published_at": "2023-03-26T13:55:29+02:00",
-    "updated_at": "2023-03-26T14:14:01+02:00",
-    "media_id": "f8rxheeahlsx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6256916/honduras-haalt-diplomatieke-banden-met-china-verder-aan.html",
     "open_new_window": false,
     "partner": null
   }
