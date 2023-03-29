@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257311,
+    "slug": "politiedrone-filmt-zwemmers-die-dolfijnen-lastigvallen-in-hawai",
+    "type": "video",
+    "title": "Politiedrone filmt zwemmers die dolfijnen lastigvallen in Hawaï",
+    "subtitle": "Video",
+    "published_at": "2023-03-29T13:30:44+02:00",
+    "updated_at": "2023-03-29T13:30:46+02:00",
+    "media_id": "155x0c4antr8",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257311/politiedrone-filmt-zwemmers-die-dolfijnen-lastigvallen-in-hawai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257308,
     "slug": "schorsing-directeur-paratici-bemoeilijkt-zoektocht-spurs-naar-nieuwe-manager",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Keeper Room dankzij shirt Messi alsnog dolgelukkig na 7-0-nederlaag Curaçao",
     "subtitle": null,
     "published_at": "2023-03-29T12:56:16+02:00",
-    "updated_at": "2023-03-29T13:07:48+02:00",
+    "updated_at": "2023-03-29T13:20:47+02:00",
     "media_id": "6j7x9iwazayz",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Feyenoord versterkt zich na mislukte poging in januari alsnog met Van den Belt",
     "subtitle": null,
     "published_at": "2023-03-29T12:21:48+02:00",
-    "updated_at": "2023-03-29T13:13:21+02:00",
+    "updated_at": "2023-03-29T13:30:37+02:00",
     "media_id": "s2axazda87k7",
     "duration": null,
     "canonical_section": {
@@ -93,13 +116,13 @@
   },
   {
     "id": 6257300,
-    "slug": "peloton-begint-aan-voorproefje-op-ronde-van-vlaanderen",
+    "slug": "kopgroep-krijgt-alle-ruimte-in-dwars-door-vlaanderen",
     "type": "article",
-    "title": "Peloton begint aan voorproefje op Ronde van Vlaanderen",
+    "title": "Kopgroep krijgt alle ruimte in Dwars door Vlaanderen",
     "subtitle": "Liveblog",
     "published_at": "2023-03-29T12:10:07+02:00",
-    "updated_at": "2023-03-29T12:12:13+02:00",
-    "media_id": "fadxax3agf4m",
+    "updated_at": "2023-03-29T13:18:23+02:00",
+    "media_id": "pvuxjqma9izg",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6257300/peloton-begint-aan-voorproefje-op-ronde-van-vlaanderen.html",
+    "url": "/wielrennen/6257300/kopgroep-krijgt-alle-ruimte-in-dwars-door-vlaanderen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6257268/project-schoolmaaltijden-voor-kwetsbare-leerlingen-van-start-gegaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257266,
-    "slug": "adidas-trekt-bezwaar-tegen-logo-black-lives-matter-beweging-al-na-twee-dagen-in",
-    "type": "article",
-    "title": "Adidas trekt bezwaar tegen logo Black Lives Matter-beweging al na twee dagen in",
-    "subtitle": null,
-    "published_at": "2023-03-29T09:52:33+02:00",
-    "updated_at": "2023-03-29T10:42:32+02:00",
-    "media_id": "p9axoopalni0",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6257266/adidas-trekt-bezwaar-tegen-logo-black-lives-matter-beweging-al-na-twee-dagen-in.html",
     "open_new_window": false,
     "partner": null
   }
