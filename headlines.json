@@ -1,12 +1,35 @@
 [
   {
+    "id": 6258029,
+    "slug": "nabestaanden-teleurgesteld-over-hoogte-celstraf-rai-vloet-het-is-pijnlijk",
+    "type": "article",
+    "title": "Nabestaanden teleurgesteld over hoogte celstraf Rai Vloet: 'Het is pijnlijk'",
+    "subtitle": null,
+    "published_at": "2023-04-03T17:30:35+02:00",
+    "updated_at": "2023-04-03T17:30:36+02:00",
+    "media_id": "3jwx99taz967",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258029/nabestaanden-teleurgesteld-over-hoogte-celstraf-rai-vloet-het-is-pijnlijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258028,
     "slug": "sanne-en-vincent-wevers-keren-bij-ek-in-turkije-terug-op-internationaal-podium",
     "type": "article",
     "title": "Sanne en Vincent Wevers keren bij EK in Turkije terug op internationaal podium",
     "subtitle": null,
     "published_at": "2023-04-03T17:20:07+02:00",
-    "updated_at": "2023-04-03T17:20:08+02:00",
+    "updated_at": "2023-04-03T17:26:15+02:00",
     "media_id": "7xtx1zwahcqq",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Musicalproducent Rick Engelkes moet miljoenen aan coronasteun terugbetalen",
     "subtitle": null,
     "published_at": "2023-04-03T17:17:53+02:00",
-    "updated_at": "2023-04-03T17:17:59+02:00",
+    "updated_at": "2023-04-03T17:29:25+02:00",
     "media_id": "ggdx7pkahj77",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Nooit eerder zagen wetenschappers een vis zó diep onder water zwemmen",
     "subtitle": null,
     "published_at": "2023-04-03T17:05:22+02:00",
-    "updated_at": "2023-04-03T17:05:24+02:00",
+    "updated_at": "2023-04-03T17:24:03+02:00",
     "media_id": "58lxps6apwhi",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Finland treedt officieel toe tot de NAVO: 'Vlag wordt morgen gehesen'",
     "subtitle": null,
     "published_at": "2023-04-03T15:20:20+02:00",
-    "updated_at": "2023-04-03T15:28:36+02:00",
+    "updated_at": "2023-04-03T17:24:43+02:00",
     "media_id": "zhqxkg9ahg5g",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6257953/vloek-of-zegen-praat-mee-over-deelscooters.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257808,
-    "slug": "spakenburg-treft-psv-sterren-zien-of-sangare-zo-sterk-is-als-hij-op-tv-lijkt",
-    "type": "article",
-    "title": "Spakenburg treft PSV-sterren: 'Zien of Sangaré zo sterk is als hij op tv lijkt'",
-    "subtitle": "NU+",
-    "published_at": "2023-04-03T13:24:55+02:00",
-    "updated_at": "2023-04-03T13:36:15+02:00",
-    "media_id": "ke7xhm3auaxx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257808/spakenburg-treft-psv-sterren-zien-of-sangare-zo-sterk-is-als-hij-op-tv-lijkt.html",
     "open_new_window": false,
     "partner": null
   }
