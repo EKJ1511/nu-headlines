@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259540,
+    "slug": "italianen-pootjebaden-in-extreem-droog-gardameer",
+    "type": "video",
+    "title": "Italianen pootjebaden in extreem droog Gardameer",
+    "subtitle": "Video",
+    "published_at": "2023-04-14T19:16:27+02:00",
+    "updated_at": "2023-04-14T19:16:28+02:00",
+    "media_id": "rdvx5riam590",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6259540/italianen-pootjebaden-in-extreem-droog-gardameer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259525,
     "slug": "politie-c2000-haperde-niet-op-paaspop-maar-is-wel-aan-vervanging-toe",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6259507/britney-spears-heeft-haar-memoires-af-en-publiceert-ze-in-het-najaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259509,
-    "slug": "storing-in-mobiel-netwerk-vodafone-opgelost-klanten-kunnen-ook-weer-112-bellen",
-    "type": "article",
-    "title": "Storing in mobiel netwerk Vodafone opgelost, klanten kunnen ook weer 112 bellen",
-    "subtitle": null,
-    "published_at": "2023-04-14T15:52:05+02:00",
-    "updated_at": "2023-04-14T16:16:38+02:00",
-    "media_id": "gerx70va49fy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6259509/storing-in-mobiel-netwerk-vodafone-opgelost-klanten-kunnen-ook-weer-112-bellen.html",
     "open_new_window": false,
     "partner": null
   }
