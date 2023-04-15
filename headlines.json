@@ -1,12 +1,58 @@
 [
   {
+    "id": 6259614,
+    "slug": "man-aangehouden-in-brabantse-bakel-voor-betrokkenheid-bij-dood-9-jarig-kind",
+    "type": "article",
+    "title": "Man aangehouden in Brabantse Bakel voor betrokkenheid bij dood 9-jarig kind",
+    "subtitle": null,
+    "published_at": "2023-04-15T15:51:24+02:00",
+    "updated_at": "2023-04-15T15:51:25+02:00",
+    "media_id": "rl0x5vpaqjxw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259614/man-aangehouden-in-brabantse-bakel-voor-betrokkenheid-bij-dood-9-jarig-kind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259613,
+    "slug": "tennissters-bereiken-play-offs-wereldgroep-door-nipte-winst-in-billie-jean-king-cup",
+    "type": "article",
+    "title": "Tennissters bereiken play-offs wereldgroep door nipte winst in Billie Jean King Cup",
+    "subtitle": null,
+    "published_at": "2023-04-15T15:34:28+02:00",
+    "updated_at": "2023-04-15T15:38:15+02:00",
+    "media_id": "6wlxqz9a28ge",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6259613/tennissters-bereiken-play-offs-wereldgroep-door-nipte-winst-in-billie-jean-king-cup.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259612,
     "slug": "newcastle-lijdt-tegen-aston-villa-pijnlijke-nederlaag-in-strijd-om-champions-league",
     "type": "article",
     "title": "Newcastle lijdt tegen Aston Villa pijnlijke nederlaag in strijd om Champions League",
     "subtitle": null,
     "published_at": "2023-04-15T15:27:31+02:00",
-    "updated_at": "2023-04-15T15:30:12+02:00",
+    "updated_at": "2023-04-15T15:36:14+02:00",
     "media_id": "2w0x133ajzra",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6259565/man-gooit-rookbom-naar-japanse-premier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259452,
-    "slug": "stelling-we-moeten-voor-het-klimaat-vaker-de-fiets-pakken",
-    "type": "article",
-    "title": "Stelling: We moeten voor het klimaat vaker de fiets pakken",
-    "subtitle": null,
-    "published_at": "2023-04-15T08:01:05+02:00",
-    "updated_at": "2023-04-15T14:55:05+02:00",
-    "media_id": "q9ox6hfaq549",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6259452/stelling-we-moeten-voor-het-klimaat-vaker-de-fiets-pakken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259425,
-    "slug": "zombiedrugs-dreigen-een-epidemie-te-worden-in-de-vs-wat-speelt-er",
-    "type": "video",
-    "title": "Zombiedrugs dreigen een epidemie te worden in de VS: wat speelt er?",
-    "subtitle": "Explainer",
-    "published_at": "2023-04-15T06:38:04+02:00",
-    "updated_at": "2023-04-15T08:26:11+02:00",
-    "media_id": "01txpaoajdeh",
-    "duration": "1:21",
-    "canonical_section": {
-      "id": 1778967,
-      "slug": "uitleg",
-      "type": "default",
-      "name": "Het nieuws uitgelegd",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitleg/6259425/zombiedrugs-dreigen-een-epidemie-te-worden-in-de-vs-wat-speelt-er.html",
     "open_new_window": false,
     "partner": null
   }
