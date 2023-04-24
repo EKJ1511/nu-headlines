@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260870,
+    "slug": "derde-evacuatievlucht-uit-soedan-contact-met-nederlanders-daar-lastiger",
+    "type": "article",
+    "title": "Derde evacuatievlucht uit Soedan, contact met Nederlanders daar lastiger",
+    "subtitle": null,
+    "published_at": "2023-04-24T21:52:10+02:00",
+    "updated_at": "2023-04-24T21:52:12+02:00",
+    "media_id": "rgzxgnbazw2j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6260870/derde-evacuatievlucht-uit-soedan-contact-met-nederlanders-daar-lastiger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260869,
+    "slug": "onweersbui-verrast-voetballers-en-publiek-in-thailand",
+    "type": "video",
+    "title": "Onweersbui verrast voetballers en publiek in Thailand",
+    "subtitle": "Video",
+    "published_at": "2023-04-24T21:47:00+02:00",
+    "updated_at": "2023-04-24T21:47:01+02:00",
+    "media_id": "x0oxuffamli6",
+    "duration": "0:31",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6260869/onweersbui-verrast-voetballers-en-publiek-in-thailand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260863,
     "slug": "schotse-politie-treft-lammetje-en-lading-harddrugs-op-achterbank-van-auto",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "De mooiste foto's van de historische zege van AZ in de Youth League",
     "subtitle": "In beeld",
     "published_at": "2023-04-24T21:10:47+02:00",
-    "updated_at": "2023-04-24T21:21:18+02:00",
+    "updated_at": "2023-04-24T21:51:00+02:00",
     "media_id": "5uhxgf4a2048",
     "duration": null,
     "canonical_section": {
@@ -47,12 +93,12 @@
   },
   {
     "id": 6260867,
-    "slug": "halina-reijn-en-oud-proefvoetballer-daniel-de-ridder-uit-elkaar",
+    "slug": "halina-reijn-en-oud-profvoetballer-daniel-de-ridder-uit-elkaar",
     "type": "article",
-    "title": "Halina Reijn en oud-proefvoetballer Daniel de Ridder uit elkaar",
+    "title": "Halina Reijn en oud-profvoetballer Daniel de Ridder uit elkaar",
     "subtitle": null,
     "published_at": "2023-04-24T21:09:11+02:00",
-    "updated_at": "2023-04-24T21:30:50+02:00",
+    "updated_at": "2023-04-24T21:42:48+02:00",
     "media_id": "hr2xogtaff71",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6260867/halina-reijn-en-oud-proefvoetballer-daniel-de-ridder-uit-elkaar.html",
+    "url": "/achterklap/6260867/halina-reijn-en-oud-profvoetballer-daniel-de-ridder-uit-elkaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +328,7 @@
     "title": "Noordzee wordt de grootste groene energiecentrale ter wereld",
     "subtitle": null,
     "published_at": "2023-04-24T19:02:17+02:00",
-    "updated_at": "2023-04-24T19:13:33+02:00",
+    "updated_at": "2023-04-24T21:43:24+02:00",
     "media_id": "97px99fa175q",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6260839/tucker-carlson-stopt-per-direct-als-presentator-bij-fox-news.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260841,
-    "slug": "dure-frisdrank-zorgt-voor-mooie-cijfers-bij-coca-cola",
-    "type": "article",
-    "title": "Dure frisdrank zorgt voor mooie cijfers bij Coca-Cola",
-    "subtitle": null,
-    "published_at": "2023-04-24T18:06:17+02:00",
-    "updated_at": "2023-04-24T18:13:27+02:00",
-    "media_id": "lwqx2jranz23",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6260841/dure-frisdrank-zorgt-voor-mooie-cijfers-bij-coca-cola.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260837,
-    "slug": "knvb-stelt-dat-fc-twente-sparta-tijdelijk-had-moeten-worden-stilgelegd",
-    "type": "article",
-    "title": "KNVB stelt dat FC Twente-Sparta tijdelijk had moeten worden stilgelegd",
-    "subtitle": null,
-    "published_at": "2023-04-24T17:17:12+02:00",
-    "updated_at": "2023-04-24T17:17:13+02:00",
-    "media_id": "70ix6amad410",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260837/knvb-stelt-dat-fc-twente-sparta-tijdelijk-had-moeten-worden-stilgelegd.html",
     "open_new_window": false,
     "partner": null
   }
