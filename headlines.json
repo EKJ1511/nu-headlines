@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260934,
+    "slug": "shakira-door-billboard-uitgeroepen-tot-eerste-latin-woman-of-the-year",
+    "type": "article",
+    "title": "Shakira door Billboard uitgeroepen tot eerste Latin Woman of the Year",
+    "subtitle": null,
+    "published_at": "2023-04-25T12:41:36+02:00",
+    "updated_at": "2023-04-25T12:41:37+02:00",
+    "media_id": "srfxsbua95ni",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6260934/shakira-door-billboard-uitgeroepen-tot-eerste-latin-woman-of-the-year.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260929,
     "slug": "ziekteverzuim-in-de-zorg-daalt-eindelijk-weer",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Joe Biden gaat definitief voor tweede termijn als Amerikaanse president",
     "subtitle": null,
     "published_at": "2023-04-25T12:03:25+02:00",
-    "updated_at": "2023-04-25T12:32:28+02:00",
+    "updated_at": "2023-04-25T12:50:10+02:00",
     "media_id": "pavx32aakvn6",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Nederlands iDEAL moet het Europese antwoord op creditcard worden",
     "subtitle": null,
     "published_at": "2023-04-25T10:26:34+02:00",
-    "updated_at": "2023-04-25T12:04:02+02:00",
+    "updated_at": "2023-04-25T12:48:06+02:00",
     "media_id": "r24xqe5au96c",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6260894/meerdink-dankzij-privejet-uitblinker-in-youth-league-finale-hectische-24-uur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260893,
-    "slug": "koningsdag-wordt-kouder-dan-nieuwjaarsdag",
-    "type": "article",
-    "title": "Koningsdag wordt kouder dan Nieuwjaarsdag",
-    "subtitle": null,
-    "published_at": "2023-04-25T08:25:28+02:00",
-    "updated_at": "2023-04-25T08:25:30+02:00",
-    "media_id": "5f1xrzgafyhx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260893/koningsdag-wordt-kouder-dan-nieuwjaarsdag.html",
     "open_new_window": false,
     "partner": null
   }
