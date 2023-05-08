@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262792,
+    "slug": "pec-raakt-koppositie-op-doelsaldo-kwijt-aan-heracles-ado-nog-een-jaar-in-kkd",
+    "type": "article",
+    "title": "PEC raakt koppositie op doelsaldo kwijt aan Heracles, ADO nog een jaar in KKD",
+    "subtitle": null,
+    "published_at": "2023-05-08T21:55:28+02:00",
+    "updated_at": "2023-05-08T22:18:41+02:00",
+    "media_id": "2nox948aqx9a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6262792/pec-raakt-koppositie-op-doelsaldo-kwijt-aan-heracles-ado-nog-een-jaar-in-kkd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262793,
     "slug": "restaurantmedewerker-leidt-mensen-naar-uitgang-tijdens-schietpartij-in-vs",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Anjet Daanje wint Libris Literatuur Prijs met Het lied van ooievaar en dromedaris",
     "subtitle": null,
     "published_at": "2023-05-08T21:51:52+02:00",
-    "updated_at": "2023-05-08T21:51:54+02:00",
+    "updated_at": "2023-05-08T22:03:45+02:00",
     "media_id": "8yrxfh4ayvgk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6262727/antiracismeactivist-mitchell-esajas-bezorgd-om-veiligheid-na-lintjesrel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262763,
-    "slug": "van-bronckhorst-en-van-persie-delen-schaal-uit-als-feyenoord-landstitel-veiligstelt",
-    "type": "article",
-    "title": "Van Bronckhorst en Van Persie delen schaal uit als Feyenoord landstitel veiligstelt",
-    "subtitle": null,
-    "published_at": "2023-05-08T18:06:14+02:00",
-    "updated_at": "2023-05-08T18:12:41+02:00",
-    "media_id": "bbtx4psa769q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6262763/van-bronckhorst-en-van-persie-delen-schaal-uit-als-feyenoord-landstitel-veiligstelt.html",
     "open_new_window": false,
     "partner": null
   }
