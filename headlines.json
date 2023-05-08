@@ -1,12 +1,35 @@
 [
   {
+    "id": 6262692,
+    "slug": "spaarrente-bij-asn-sns-en-regiobank-ook-omhoog",
+    "type": "article",
+    "title": "Spaarrente bij ASN, SNS en RegioBank ook omhoog",
+    "subtitle": null,
+    "published_at": "2023-05-08T11:09:02+02:00",
+    "updated_at": "2023-05-08T11:09:04+02:00",
+    "media_id": "py4xq5ja0t35",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6262692/spaarrente-bij-asn-sns-en-regiobank-ook-omhoog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262689,
     "slug": "mattie-valk-na-vier-jaar-weer-vrijgezel",
     "type": "article",
     "title": "Mattie Valk na vier jaar weer vrijgezel",
     "subtitle": null,
     "published_at": "2023-05-08T10:50:28+02:00",
-    "updated_at": "2023-05-08T10:50:29+02:00",
+    "updated_at": "2023-05-08T11:04:20+02:00",
     "media_id": "y2oxalyae65z",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Alonso heeft vrede met wéér een derde plek vanwege 'onbreekbare' Red Bulls",
     "subtitle": null,
     "published_at": "2023-05-08T10:25:06+02:00",
-    "updated_at": "2023-05-08T10:34:46+02:00",
+    "updated_at": "2023-05-08T11:03:27+02:00",
     "media_id": "ousx77wa96qm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6262580/stelling-mannen-zijn-even-geschikt-als-verzorger-van-kinderen-als-vrouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262648,
-    "slug": "relatie-van-tygo-gernandt-en-dianne-is-voorbij",
-    "type": "article",
-    "title": "Relatie van Tygo Gernandt en Dianne is voorbij",
-    "subtitle": null,
-    "published_at": "2023-05-08T06:41:14+02:00",
-    "updated_at": "2023-05-08T07:27:09+02:00",
-    "media_id": "41kxo9har4hw",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6262648/relatie-van-tygo-gernandt-en-dianne-is-voorbij.html",
     "open_new_window": false,
     "partner": null
   }
