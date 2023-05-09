@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262685,
+    "slug": "sampdoria-en-groningen-alle-gepromoveerde-en-gedegradeerde-clubs-in-europa",
+    "type": "article",
+    "title": "Sampdoria en Groningen: alle gepromoveerde en gedegradeerde clubs in Europa",
+    "subtitle": null,
+    "published_at": "2023-05-09T12:25:07+02:00",
+    "updated_at": "2023-05-09T12:25:08+02:00",
+    "media_id": "m2uxk6saz92f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6262685/sampdoria-en-groningen-alle-gepromoveerde-en-gedegradeerde-clubs-in-europa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262860,
     "slug": "nintendo-switch-lijkt-over-hoogtepunt-heen-vijfde-minder-spelcomputers-verkocht",
     "type": "article",
@@ -167,7 +190,7 @@
     "title": "NBA-ster Jokic na oproep Suns-eigenaar (en slachtoffer) niet geschorst voor duw",
     "subtitle": null,
     "published_at": "2023-05-09T12:00:47+02:00",
-    "updated_at": "2023-05-09T12:00:49+02:00",
+    "updated_at": "2023-05-09T12:33:59+02:00",
     "media_id": "ej9xleea0kca",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6262821/koninklijke-dsm-is-niet-meer-chemiebedrijf-fuseert-met-zwitsers-concern.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262830,
-    "slug": "politie-vindt-vrouw-die-op-wijn-en-snoep-overleefde-in-australische-bush",
-    "type": "video",
-    "title": "Politie vindt vrouw die op wijn en snoep overleefde in Australische bush",
-    "subtitle": "Video",
-    "published_at": "2023-05-09T09:34:12+02:00",
-    "updated_at": "2023-05-09T09:34:14+02:00",
-    "media_id": "td9x0nma5nqj",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6262830/politie-vindt-vrouw-die-op-wijn-en-snoep-overleefde-in-australische-bush.html",
     "open_new_window": false,
     "partner": null
   }
