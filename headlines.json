@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262802,
+    "slug": "weerbericht-een-paraplu-is-vandaag-geen-overbodige-luxe",
+    "type": "article",
+    "title": "Weerbericht: Een paraplu is vandaag geen overbodige luxe",
+    "subtitle": null,
+    "published_at": "2023-05-09T05:31:02+02:00",
+    "updated_at": "2023-05-09T05:31:04+02:00",
+    "media_id": "8umx275ajua6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6262802/weerbericht-een-paraplu-is-vandaag-geen-overbodige-luxe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262717,
     "slug": "haaland-treft-inspiratiebron-benzema-in-cl-de-bizarre-cijfers-van-twee-fenomenen",
     "type": "article",
@@ -328,7 +351,7 @@
     "title": "Anjet Daanje wint Libris Literatuur Prijs met Het lied van ooievaar en dromedaris",
     "subtitle": null,
     "published_at": "2023-05-08T21:51:52+02:00",
-    "updated_at": "2023-05-08T22:03:45+02:00",
+    "updated_at": "2023-05-09T05:31:26+02:00",
     "media_id": "8yrxfh4ayvgk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6262787/canadese-punkrockband-sum-41-gaat-na-27-jaar-uit-elkaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262786,
-    "slug": "opnieuw-tbser-uit-nijmeegse-pompekliniek-ontsnapt-tijdens-begeleid-verlof",
-    "type": "article",
-    "title": "Opnieuw tbs'er uit Nijmeegse Pompekliniek ontsnapt tijdens begeleid verlof",
-    "subtitle": null,
-    "published_at": "2023-05-08T20:30:36+02:00",
-    "updated_at": "2023-05-08T21:18:50+02:00",
-    "media_id": "oghx2tza5pj1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6262786/opnieuw-tbser-uit-nijmeegse-pompekliniek-ontsnapt-tijdens-begeleid-verlof.html",
     "open_new_window": false,
     "partner": null
   }
