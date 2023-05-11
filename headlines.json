@@ -1,5 +1,28 @@
 [
   {
+    "id": 6263215,
+    "slug": "dode-gevonden-en-acht-hulpverleners-in-levensgevaar-na-explosie-in-duitse-flat",
+    "type": "article",
+    "title": "Dode gevonden en acht hulpverleners in levensgevaar na explosie in Duitse flat",
+    "subtitle": null,
+    "published_at": "2023-05-11T16:48:10+02:00",
+    "updated_at": "2023-05-11T16:48:11+02:00",
+    "media_id": "uzxx72xa43nj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6263215/dode-gevonden-en-acht-hulpverleners-in-levensgevaar-na-explosie-in-duitse-flat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263212,
     "slug": "britse-waakhond-verbiedt-microsoft-en-activision-om-elkaars-aandelen-te-kopen",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "Ince stapt uit Turkse presidentsrace, Erdogan staat achter in peilingen",
     "subtitle": null,
     "published_at": "2023-05-11T14:40:08+02:00",
-    "updated_at": "2023-05-11T14:40:09+02:00",
+    "updated_at": "2023-05-11T16:47:30+02:00",
     "media_id": "1itxd5magmz8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/gezondheid/6263059/eindexamens-zijn-begonnen-zo-voorkom-je-dat-je-er-niet-van-kunt-slapen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263180,
-    "slug": "marcel-van-roosmalen-en-gijs-groenteman-vervangen-vandaag-inside-in-zomerstop",
-    "type": "article",
-    "title": "Marcel van Roosmalen en Gijs Groenteman vervangen Vandaag Inside in zomerstop",
-    "subtitle": null,
-    "published_at": "2023-05-11T13:01:44+02:00",
-    "updated_at": "2023-05-11T13:01:46+02:00",
-    "media_id": "jlxxzi5an4pn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6263180/marcel-van-roosmalen-en-gijs-groenteman-vervangen-vandaag-inside-in-zomerstop.html",
     "open_new_window": false,
     "partner": null
   }
