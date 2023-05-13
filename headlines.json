@@ -1,5 +1,28 @@
 [
   {
+    "id": 6263368,
+    "slug": "hoge-opzegboete-voor-energiecontract-nadert-nu-nog-snel-overstappen",
+    "type": "article",
+    "title": "Hoge opzegboete voor energiecontract nadert: nu nog snel overstappen?",
+    "subtitle": null,
+    "published_at": "2023-05-13T09:03:30+02:00",
+    "updated_at": "2023-05-13T09:03:31+02:00",
+    "media_id": "rmfx3ulaw0tw",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6263368/hoge-opzegboete-voor-energiecontract-nadert-nu-nog-snel-overstappen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263472,
     "slug": "opnieuw-veel-schade-aan-woningen-na-explosies-in-rotterdam",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6263453/heracles-en-pec-maken-geen-fout-zinderende-laatste-speelronde-op-komst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263454,
-    "slug": "nec-wordt-weggespeeld-door-fc-twente-en-ziet-play-offs-uit-zicht-verdwijnen",
-    "type": "article",
-    "title": "NEC wordt weggespeeld door FC Twente en ziet play-offs uit zicht verdwijnen",
-    "subtitle": null,
-    "published_at": "2023-05-12T22:06:12+02:00",
-    "updated_at": "2023-05-12T23:53:29+02:00",
-    "media_id": "tahxyn5aikfn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6263454/nec-wordt-weggespeeld-door-fc-twente-en-ziet-play-offs-uit-zicht-verdwijnen.html",
     "open_new_window": false,
     "partner": null
   }
