@@ -1,12 +1,35 @@
 [
   {
+    "id": 6263921,
+    "slug": "sportief-directeur-jordi-cruijff-vertrekt-na-twee-jaar-bij-fc-barcelona",
+    "type": "article",
+    "title": "Sportief directeur Jordi Cruijff vertrekt na twee jaar bij FC Barcelona",
+    "subtitle": null,
+    "published_at": "2023-05-16T15:41:52+02:00",
+    "updated_at": "2023-05-16T15:52:07+02:00",
+    "media_id": "9ucxuv7addnm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6263921/sportief-directeur-jordi-cruijff-vertrekt-na-twee-jaar-bij-fc-barcelona.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263915,
     "slug": "meerjarige-energiecontracten-zijn-terug-van-weggeweest",
     "type": "article",
     "title": "Meerjarige energiecontracten zijn terug van weggeweest",
     "subtitle": null,
     "published_at": "2023-05-16T15:34:00+02:00",
-    "updated_at": "2023-05-16T15:34:02+02:00",
+    "updated_at": "2023-05-16T15:43:59+02:00",
     "media_id": "5sfxdewaiy4a",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Omstreden zakenman Sanderink moet ex miljoenen aan dwangsommen betalen",
     "subtitle": null,
     "published_at": "2023-05-16T15:07:36+02:00",
-    "updated_at": "2023-05-16T15:07:38+02:00",
+    "updated_at": "2023-05-16T15:48:48+02:00",
     "media_id": "cr0xu6kayczu",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6263903,
-    "slug": "ajax-ziet-fc-groningen-op-1-1-komen-bij-eerste-schot-op-doel",
+    "slug": "fc-groningen-en-ajax-scoren-ieder-een-keer-in-eerste-helft",
     "type": "article",
-    "title": "Ajax ziet FC Groningen op 1-1 komen bij eerste schot op doel",
+    "title": "FC Groningen en Ajax scoren ieder één keer in eerste helft",
     "subtitle": "Liveblog",
     "published_at": "2023-05-16T14:14:39+02:00",
-    "updated_at": "2023-05-16T15:32:41+02:00",
+    "updated_at": "2023-05-16T15:42:21+02:00",
     "media_id": "z48xsuaa7061",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6263903/ajax-ziet-fc-groningen-op-1-1-komen-bij-eerste-schot-op-doel.html",
+    "url": "/voetbal/6263903/fc-groningen-en-ajax-scoren-ieder-een-keer-in-eerste-helft.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Overheid draait op voor ontmanteling van kerncentrale in Dodewaard",
     "subtitle": null,
     "published_at": "2023-05-16T13:54:24+02:00",
-    "updated_at": "2023-05-16T15:29:11+02:00",
+    "updated_at": "2023-05-16T15:38:38+02:00",
     "media_id": "68kxo0lalu64",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Familie Buddenbruck na negen seizoenen niet meer in Een huis vol: 'Jammer'",
     "subtitle": null,
     "published_at": "2023-05-16T13:48:25+02:00",
-    "updated_at": "2023-05-16T13:48:26+02:00",
+    "updated_at": "2023-05-16T15:51:55+02:00",
     "media_id": "t56xfmra110o",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6263876/grote-explosie-verwoest-woning-in-thailand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263873,
-    "slug": "giro-gaat-vrijdag-wegens-hevige-sneeuwval-toch-niet-over-hoogste-punt",
-    "type": "article",
-    "title": "Giro gaat vrijdag wegens hevige sneeuwval toch niet over hoogste punt",
-    "subtitle": null,
-    "published_at": "2023-05-16T11:46:19+02:00",
-    "updated_at": "2023-05-16T12:03:16+02:00",
-    "media_id": "3asx6iqa000f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6263873/giro-gaat-vrijdag-wegens-hevige-sneeuwval-toch-niet-over-hoogste-punt.html",
     "open_new_window": false,
     "partner": null
   }
