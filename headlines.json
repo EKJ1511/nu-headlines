@@ -1,12 +1,35 @@
 [
   {
+    "id": 6265007,
+    "slug": "dainese-houdt-sprintrevelatie-milan-nipt-achter-zich-en-wint-opnieuw-etappe-in-giro",
+    "type": "article",
+    "title": "Dainese houdt sprintrevelatie Milan nipt achter zich en wint opnieuw etappe in Giro",
+    "subtitle": null,
+    "published_at": "2023-05-24T17:43:38+02:00",
+    "updated_at": "2023-05-24T17:50:37+02:00",
+    "media_id": "6xgxcuzaeijw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6265007/dainese-houdt-sprintrevelatie-milan-nipt-achter-zich-en-wint-opnieuw-etappe-in-giro.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265012,
     "slug": "ajax-haalt-moderne-hoofdscout-de-lang-weg-bij-manchester-city",
     "type": "article",
     "title": "Ajax haalt 'moderne hoofdscout' De Lang weg bij Manchester City",
     "subtitle": null,
     "published_at": "2023-05-24T17:32:04+02:00",
-    "updated_at": "2023-05-24T17:32:06+02:00",
+    "updated_at": "2023-05-24T17:42:58+02:00",
     "media_id": "rtrx31vapuhf",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Leegloop bij PSV gaat door: ook assistent Fred Rutten stopt na dit seizoen",
     "subtitle": null,
     "published_at": "2023-05-24T16:41:23+02:00",
-    "updated_at": "2023-05-24T17:31:10+02:00",
+    "updated_at": "2023-05-24T17:37:38+02:00",
     "media_id": "kaxx13eaqk0i",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Leiding PSV zag vertrek Van Nistelrooij niet aankomen: 'Maar hij was vastberaden'",
     "subtitle": null,
     "published_at": "2023-05-24T16:20:54+02:00",
-    "updated_at": "2023-05-24T17:30:26+02:00",
+    "updated_at": "2023-05-24T17:36:08+02:00",
     "media_id": "u53x6agaeaaj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264950/na-pique-en-busquets-vertrekt-ook-oudgediende-jordi-alba-bij-fc-barcelona.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264964,
-    "slug": "nieuw-woonprogramma-van-kopen-zonder-kijken-team-trekt-695000-kijkers",
-    "type": "article",
-    "title": "Nieuw woonprogramma van Kopen Zonder Kijken-team trekt 695.000 kijkers",
-    "subtitle": null,
-    "published_at": "2023-05-24T13:32:23+02:00",
-    "updated_at": "2023-05-24T13:32:25+02:00",
-    "media_id": "7m2x984adwhn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6264964/nieuw-woonprogramma-van-kopen-zonder-kijken-team-trekt-695000-kijkers.html",
     "open_new_window": false,
     "partner": null
   }
