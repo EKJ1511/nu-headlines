@@ -1,12 +1,35 @@
 [
   {
+    "id": 6265393,
+    "slug": "politie-rolt-drugsbende-op-tijdens-grote-operatie-door-heel-europa",
+    "type": "video",
+    "title": "Politie rolt drugsbende op tijdens grote operatie door heel Europa",
+    "subtitle": "Video",
+    "published_at": "2023-05-26T20:23:21+02:00",
+    "updated_at": "2023-05-26T20:23:22+02:00",
+    "media_id": "fo1xqiganwhp",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6265393/politie-rolt-drugsbende-op-tijdens-grote-operatie-door-heel-europa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265392,
     "slug": "feyenoorder-idrissi-dwingt-na-35-jaar-weer-plek-in-marokkaanse-selectie-af",
     "type": "article",
     "title": "Feyenoorder Idrissi dwingt na 3,5 jaar weer plek in Marokkaanse selectie af",
     "subtitle": null,
     "published_at": "2023-05-26T20:21:12+02:00",
-    "updated_at": "2023-05-26T20:21:13+02:00",
+    "updated_at": "2023-05-26T20:33:13+02:00",
     "media_id": "rsrxb6va21in",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Concurrenten zitten Verstappen ondanks meevaller op de hielen in Monaco",
     "subtitle": "NU+",
     "published_at": "2023-05-26T20:12:21+02:00",
-    "updated_at": "2023-05-26T20:21:17+02:00",
+    "updated_at": "2023-05-26T20:25:57+02:00",
     "media_id": "4f9xhnaamzxf",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6265387,
-    "slug": "ajax-dreigt-berghuis-ook-in-cruciaal-duel-met-fc-twente-te-moeten-missen",
+    "slug": "ajax-dreigt-berghuis-ook-in-cruciaal-duel-met-fc-twente-te-missen",
     "type": "article",
-    "title": "Ajax dreigt Berghuis ook in cruciaal duel met FC Twente te moeten missen",
+    "title": "Ajax dreigt Berghuis ook in cruciaal duel met FC Twente te missen",
     "subtitle": null,
     "published_at": "2023-05-26T19:55:03+02:00",
-    "updated_at": "2023-05-26T19:57:29+02:00",
+    "updated_at": "2023-05-26T20:34:14+02:00",
     "media_id": "uxnx2eraaqcy",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6265387/ajax-dreigt-berghuis-ook-in-cruciaal-duel-met-fc-twente-te-moeten-missen.html",
+    "url": "/voetbal/6265387/ajax-dreigt-berghuis-ook-in-cruciaal-duel-met-fc-twente-te-missen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Luiten kan op tweede dag KLM Open niet nog eens onder baangemiddelde blijven",
     "subtitle": null,
     "published_at": "2023-05-26T18:58:35+02:00",
-    "updated_at": "2023-05-26T19:04:51+02:00",
+    "updated_at": "2023-05-26T20:29:46+02:00",
     "media_id": "qosx7klabe7f",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6265363/rutte-over-bedreigde-kaag-bedreigingen-mogen-niet-normaal-worden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265357,
-    "slug": "start-pinksterweekend-leidde-tot-dubbel-zoveel-drukte-op-de-weg-filepiek-voorbij",
-    "type": "article",
-    "title": "Start pinksterweekend leidde tot dubbel zoveel drukte op de weg, filepiek voorbij",
-    "subtitle": null,
-    "published_at": "2023-05-26T16:46:59+02:00",
-    "updated_at": "2023-05-26T18:24:33+02:00",
-    "media_id": "trsxzj4acndv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6265357/start-pinksterweekend-leidde-tot-dubbel-zoveel-drukte-op-de-weg-filepiek-voorbij.html",
     "open_new_window": false,
     "partner": null
   }
