@@ -1,5 +1,28 @@
 [
   {
+    "id": 6265385,
+    "slug": "almere-en-eindhoven-vervolgen-jacht-op-promotie-naar-eredivisie",
+    "type": "article",
+    "title": "Almere en Eindhoven vervolgen jacht op promotie naar Eredivisie",
+    "subtitle": "Liveblog play-offs",
+    "published_at": "2023-05-26T19:51:37+02:00",
+    "updated_at": "2023-05-26T19:51:38+02:00",
+    "media_id": "dn4xnmnattsi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6265385/almere-en-eindhoven-vervolgen-jacht-op-promotie-naar-eredivisie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265382,
     "slug": "wielrenster-van-den-broek-blaak-voor-het-eerst-moeder-geworden",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "FBI onthult dat in 1983 aanslag werd gepland op Britse koningin Elizabeth",
     "subtitle": null,
     "published_at": "2023-05-26T18:25:21+02:00",
-    "updated_at": "2023-05-26T18:46:58+02:00",
+    "updated_at": "2023-05-26T19:38:26+02:00",
     "media_id": "r6gx0wtajseo",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6265351/koffietijd-eindigt-laatste-uitzending-met-confetti-ontzettend-dankbaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265348,
-    "slug": "az-grijpt-in-voor-thuisduel-met-psv-netten-geen-alcohol-en-meer-stewards",
-    "type": "article",
-    "title": "AZ grijpt in voor thuisduel met PSV: netten, geen alcohol en meer stewards",
-    "subtitle": null,
-    "published_at": "2023-05-26T16:13:31+02:00",
-    "updated_at": "2023-05-26T16:15:56+02:00",
-    "media_id": "kcexeepa8jrs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6265348/az-grijpt-in-voor-thuisduel-met-psv-netten-geen-alcohol-en-meer-stewards.html",
     "open_new_window": false,
     "partner": null
   }
