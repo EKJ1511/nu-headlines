@@ -1,13 +1,36 @@
 [
   {
-    "id": 6265517,
-    "slug": "cultclub-luton-promoveert-naar-premier-league-na-meeslepende-finale-op-wembley",
+    "id": 6265518,
+    "slug": "bol-loopt-in-eerste-wedstrijd-van-outdoorseizoen-naar-zege-en-beste-seizoenstijd",
     "type": "article",
-    "title": "Cultclub Luton promoveert naar Premier League na meeslepende finale op Wembley",
+    "title": "Bol loopt in eerste wedstrijd van outdoorseizoen naar zege en beste seizoenstijd",
+    "subtitle": null,
+    "published_at": "2023-05-27T20:51:48+02:00",
+    "updated_at": "2023-05-27T20:55:50+02:00",
+    "media_id": "82px09pa2s8d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6265518/bol-loopt-in-eerste-wedstrijd-van-outdoorseizoen-naar-zege-en-beste-seizoenstijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265517,
+    "slug": "cultclub-luton-town-voltooit-sprookje-met-promotie-naar-de-premier-league",
+    "type": "article",
+    "title": "Cultclub Luton Town voltooit sprookje met promotie naar de Premier League",
     "subtitle": null,
     "published_at": "2023-05-27T20:50:37+02:00",
-    "updated_at": "2023-05-27T20:50:38+02:00",
-    "media_id": "98qxszoaa5y8",
+    "updated_at": "2023-05-27T21:10:49+02:00",
+    "media_id": "wdixvn7au5az",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6265517/cultclub-luton-promoveert-naar-premier-league-na-meeslepende-finale-op-wembley.html",
+    "url": "/voetbal/6265517/cultclub-luton-town-voltooit-sprookje-met-promotie-naar-de-premier-league.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Ruim 1.500 arrestaties bij klimaatblokkade A12, 40 actievoerders vervolgd",
     "subtitle": null,
     "published_at": "2023-05-27T17:57:20+02:00",
-    "updated_at": "2023-05-27T20:15:35+02:00",
+    "updated_at": "2023-05-27T21:12:25+02:00",
     "media_id": "1f2xiv3al8yf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6265496/teunissen-wint-in-noorwegen-wiebes-zet-dominantie-sd-worx-in-thuringen-voort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265492,
-    "slug": "verstappen-pakt-in-extremis-pole-voor-grand-prix-van-monaco-perez-crasht",
-    "type": "article",
-    "title": "Verstappen pakt in extremis pole voor Grand Prix van Monaco, Pérez crasht",
-    "subtitle": null,
-    "published_at": "2023-05-27T17:13:21+02:00",
-    "updated_at": "2023-05-27T20:02:05+02:00",
-    "media_id": "i43xdrdazht0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Monaco",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6265492/verstappen-pakt-in-extremis-pole-voor-grand-prix-van-monaco-perez-crasht.html",
     "open_new_window": false,
     "partner": null
   }
