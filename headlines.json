@@ -1,12 +1,35 @@
 [
   {
+    "id": 6265517,
+    "slug": "cultclub-luton-promoveert-naar-premier-league-na-meeslepende-finale-op-wembley",
+    "type": "article",
+    "title": "Cultclub Luton promoveert naar Premier League na meeslepende finale op Wembley",
+    "subtitle": null,
+    "published_at": "2023-05-27T20:50:37+02:00",
+    "updated_at": "2023-05-27T20:50:38+02:00",
+    "media_id": "98qxszoaa5y8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6265517/cultclub-luton-promoveert-naar-premier-league-na-meeslepende-finale-op-wembley.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265516,
     "slug": "borussia-dortmund-in-tranen-na-mislopen-titel-dit-voelt-zo-oneerlijk",
     "type": "article",
     "title": "Borussia Dortmund in tranen na mislopen titel: 'Dit voelt zo oneerlijk'",
     "subtitle": null,
     "published_at": "2023-05-27T20:29:07+02:00",
-    "updated_at": "2023-05-27T20:29:08+02:00",
+    "updated_at": "2023-05-27T20:39:07+02:00",
     "media_id": "istx09zanpxc",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "AS Roma en Wijnaldum gaan vlak voor Europa League-finale onderuit in Serie A",
     "subtitle": null,
     "published_at": "2023-05-27T20:26:40+02:00",
-    "updated_at": "2023-05-27T20:26:41+02:00",
+    "updated_at": "2023-05-27T20:36:29+02:00",
     "media_id": "jrixmwsa1g5f",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6265492/verstappen-pakt-in-extremis-pole-voor-grand-prix-van-monaco-perez-crasht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265494,
-    "slug": "twee-lichamen-gevonden-in-maas-na-bootongeluk-bij-limburgs-heijen",
-    "type": "article",
-    "title": "Twee lichamen gevonden in Maas na bootongeluk bij Limburgs Heijen",
-    "subtitle": null,
-    "published_at": "2023-05-27T16:53:19+02:00",
-    "updated_at": "2023-05-27T18:03:23+02:00",
-    "media_id": "s6ux2c6apqpy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6265494/twee-lichamen-gevonden-in-maas-na-bootongeluk-bij-limburgs-heijen.html",
     "open_new_window": false,
     "partner": null
   }
