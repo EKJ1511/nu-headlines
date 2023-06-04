@@ -1,12 +1,35 @@
 [
   {
+    "id": 6266567,
+    "slug": "sparta-blijft-in-de-race-voor-europees-voetbal-na-penaltyreeks-tegen-fc-utrecht",
+    "type": "article",
+    "title": "Sparta blijft in de race voor Europees voetbal na penaltyreeks tegen FC Utrecht",
+    "subtitle": null,
+    "published_at": "2023-06-04T20:53:47+02:00",
+    "updated_at": "2023-06-04T20:53:48+02:00",
+    "media_id": "zxnx9ltaj625",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6266567/sparta-blijft-in-de-race-voor-europees-voetbal-na-penaltyreeks-tegen-fc-utrecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266561,
     "slug": "van-bommel-pakt-historische-titel-met-royal-antwerp-na-ongekende-ontknoping",
     "type": "article",
     "title": "Van Bommel pakt historische titel met Royal Antwerp na ongekende ontknoping",
     "subtitle": null,
     "published_at": "2023-06-04T20:32:25+02:00",
-    "updated_at": "2023-06-04T20:49:19+02:00",
+    "updated_at": "2023-06-04T20:58:13+02:00",
     "media_id": "ev7xiq0axlw8",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Strafzaak rond dood Amsterdamse filmmaker op Mallorca komende week van start",
     "subtitle": null,
     "published_at": "2023-06-04T20:13:07+02:00",
-    "updated_at": "2023-06-04T20:13:08+02:00",
+    "updated_at": "2023-06-04T20:58:41+02:00",
     "media_id": "ctixhuaaiqf3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6266539/verstappen-geniet-van-rijden-met-dominante-red-bull-en-dat-zie-je-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266523,
-    "slug": "herlings-boekt-in-letland-ondanks-val-103e-gp-overwinning",
-    "type": "article",
-    "title": "Herlings boekt in Letland ondanks val 103e GP-overwinning",
-    "subtitle": null,
-    "published_at": "2023-06-04T17:20:45+02:00",
-    "updated_at": "2023-06-04T17:52:34+02:00",
-    "media_id": "dqxx5twadryy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6266523/herlings-boekt-in-letland-ondanks-val-103e-gp-overwinning.html",
     "open_new_window": false,
     "partner": null
   }
