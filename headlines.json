@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267558,
+    "slug": "vingegaard-verbaasd-door-overmacht-in-dauphine-ik-ben-in-vorm-maar-dan-nog",
+    "type": "article",
+    "title": "Vingegaard verbaasd door overmacht in Dauphiné: 'Ik ben in vorm, maar dan nog'",
+    "subtitle": null,
+    "published_at": "2023-06-11T16:43:49+02:00",
+    "updated_at": "2023-06-11T16:48:41+02:00",
+    "media_id": "u0fxc5xasp2i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6267558/vingegaard-verbaasd-door-overmacht-in-dauphine-ik-ben-in-vorm-maar-dan-nog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266287,
     "slug": "zo-begint-het-europese-avontuur-voor-de-vijf-nederlandse-clubs",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "FC Twente ten koste van Sparta Europa in bij afscheid Jans en Brama",
     "subtitle": null,
     "published_at": "2023-06-11T16:32:00+02:00",
-    "updated_at": "2023-06-11T16:34:11+02:00",
+    "updated_at": "2023-06-11T16:40:24+02:00",
     "media_id": "ehpxueqa2x8z",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Schotse ex-premier Nicola Sturgeon opgepakt in onderzoek naar partijfinanciering",
     "subtitle": null,
     "published_at": "2023-06-11T16:05:40+02:00",
-    "updated_at": "2023-06-11T16:21:41+02:00",
+    "updated_at": "2023-06-11T16:36:31+02:00",
     "media_id": "xr8x09ga71t0",
     "duration": null,
     "canonical_section": {
@@ -208,13 +231,13 @@
   },
   {
     "id": 6267547,
-    "slug": "djokovic-en-ruud-strijden-in-tiebreak-om-eerste-set-in-parijs",
+    "slug": "djokovic-wint-tiebreak-na-zinderende-eerste-set-op-roland-garros",
     "type": "article",
-    "title": "Djokovic en Ruud strijden in tiebreak om eerste set in Parijs",
+    "title": "Djokovic wint tiebreak na zinderende eerste set op Roland Garros",
     "subtitle": "Liveblog",
     "published_at": "2023-06-11T14:06:37+02:00",
-    "updated_at": "2023-06-11T16:24:38+02:00",
-    "media_id": "a3kxg2aa75vq",
+    "updated_at": "2023-06-11T16:46:18+02:00",
+    "media_id": "o8lxonjayafh",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -225,7 +248,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6267547/djokovic-en-ruud-strijden-in-tiebreak-om-eerste-set-in-parijs.html",
+    "url": "/tennis/6267547/djokovic-wint-tiebreak-na-zinderende-eerste-set-op-roland-garros.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Hoe Polen Brussel op de kast jaagt met wet tegen Russische beïnvloeding",
     "subtitle": "NU+",
     "published_at": "2023-06-11T13:15:09+02:00",
-    "updated_at": "2023-06-11T15:13:06+02:00",
+    "updated_at": "2023-06-11T16:47:59+02:00",
     "media_id": "nt1xgzbaky9g",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6267535/uci-schrapt-laatste-rit-in-tour-de-pyrenees-om-levensgevaarlijke-situaties.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267307,
-    "slug": "lezers-over-zorgen-financiele-toekomst-hebben-het-nu-niet-slecht",
-    "type": "article",
-    "title": "Lezers over zorgen financiële toekomst: 'Hebben het nu niet slecht'",
-    "subtitle": null,
-    "published_at": "2023-06-11T12:09:39+02:00",
-    "updated_at": "2023-06-11T16:20:44+02:00",
-    "media_id": "n6sxadean0uo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773185,
-      "slug": "nujij",
-      "type": "default",
-      "name": "Praat mee op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nujij/6267307/lezers-over-zorgen-financiele-toekomst-hebben-het-nu-niet-slecht.html",
     "open_new_window": false,
     "partner": null
   }
