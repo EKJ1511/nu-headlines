@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267874,
+    "slug": "voetbalster-lieke-martens-en-benjamin-van-leer-in-het-huwelijksbootje-gestapt",
+    "type": "article",
+    "title": "Voetbalster Lieke Martens en Benjamin van Leer in het huwelijksbootje gestapt",
+    "subtitle": null,
+    "published_at": "2023-06-13T19:34:07+02:00",
+    "updated_at": "2023-06-13T19:36:52+02:00",
+    "media_id": "rs4xfl8agff0",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6267874/voetbalster-lieke-martens-en-benjamin-van-leer-in-het-huwelijksbootje-gestapt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267875,
     "slug": "amerikaanse-dierenbescherming-vangt-3-meter-lange-krokodil-in-zwembad",
     "type": "video",
@@ -98,7 +121,7 @@
     "title": "Gasprijs schiet opnieuw flink omhoog, derde sprong in acht dagen",
     "subtitle": null,
     "published_at": "2023-06-13T18:29:11+02:00",
-    "updated_at": "2023-06-13T19:01:02+02:00",
+    "updated_at": "2023-06-13T19:44:26+02:00",
     "media_id": "asbxwr3anjcc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6267838/minimaal-14000-kroaten-naar-de-kuip-afwachten-of-het-voelt-als-thuisduel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267837,
-    "slug": "mbappe-reageert-op-berichten-over-overstap-naar-real-leugens",
-    "type": "article",
-    "title": "Mbappé reageert op berichten over overstap naar Real: 'Leugens'",
-    "subtitle": null,
-    "published_at": "2023-06-13T16:25:15+02:00",
-    "updated_at": "2023-06-13T19:00:40+02:00",
-    "media_id": "bvuxsqxatpwl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6267837/mbappe-reageert-op-berichten-over-overstap-naar-real-leugens.html",
     "open_new_window": false,
     "partner": null
   }
