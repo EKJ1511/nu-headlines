@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268715,
+    "slug": "duikboot-vermist-waarmee-titanic-bezocht-kan-worden-passagiers-aan-boord",
+    "type": "article",
+    "title": "Duikboot vermist waarmee Titanic bezocht kan worden, passagiers aan boord",
+    "subtitle": null,
+    "published_at": "2023-06-19T17:51:02+02:00",
+    "updated_at": "2023-06-19T17:51:03+02:00",
+    "media_id": "nbnxt8ma4gog",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6268715/duikboot-vermist-waarmee-titanic-bezocht-kan-worden-passagiers-aan-boord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268713,
     "slug": "recensieoverzicht-beyonce-bood-spectaculaire-show-maar-pauzes-duurden-te-lang",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Duitsland hengelt met miljardensubsidie nieuwe chipfabrieken Intel binnen",
     "subtitle": null,
     "published_at": "2023-06-19T17:18:01+02:00",
-    "updated_at": "2023-06-19T17:30:06+02:00",
+    "updated_at": "2023-06-19T17:33:48+02:00",
     "media_id": "fqvxirsa9inr",
     "duration": null,
     "canonical_section": {
@@ -75,8 +98,8 @@
     "title": "PSG-doelman Rico ontwaakt uit coma: 'Er is licht aan het einde van de tunnel'",
     "subtitle": null,
     "published_at": "2023-06-19T17:09:08+02:00",
-    "updated_at": "2023-06-19T17:24:20+02:00",
-    "media_id": "pp1xil2a13t2",
+    "updated_at": "2023-06-19T17:48:43+02:00",
+    "media_id": "crjx8fpa7h0f",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -282,7 +305,7 @@
     "title": "Grote brand die huizenblok Arnhem in as legde begon in keuken van woning",
     "subtitle": null,
     "published_at": "2023-06-19T16:00:51+02:00",
-    "updated_at": "2023-06-19T16:34:56+02:00",
+    "updated_at": "2023-06-19T17:40:45+02:00",
     "media_id": "atxxy4oadlgl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6268692/boer-zoekt-vrouw-boerin-bertie-en-rosita-getrouwd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268693,
-    "slug": "verdachten-van-overvallen-op-rene-van-der-gijp-en-nikkie-de-jager-langer-vast",
-    "type": "article",
-    "title": "Verdachten van overvallen op René van der Gijp en Nikkie de Jager langer vast",
-    "subtitle": null,
-    "published_at": "2023-06-19T15:20:35+02:00",
-    "updated_at": "2023-06-19T15:38:10+02:00",
-    "media_id": "d0oxegzak3m7",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6268693/verdachten-van-overvallen-op-rene-van-der-gijp-en-nikkie-de-jager-langer-vast.html",
     "open_new_window": false,
     "partner": null
   }
