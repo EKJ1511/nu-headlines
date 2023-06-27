@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269790,
+    "slug": "bliksemschicht-raakt-staart-van-vliegtuig-vol-passagiers-in-vs",
+    "type": "video",
+    "title": "Bliksemschicht raakt staart van vliegtuig vol passagiers in VS",
+    "subtitle": "Video",
+    "published_at": "2023-06-27T11:25:34+02:00",
+    "updated_at": "2023-06-27T11:25:35+02:00",
+    "media_id": "36oxyowayqy9",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6269790/bliksemschicht-raakt-staart-van-vliegtuig-vol-passagiers-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269772,
     "slug": "rusland-zegt-wagner-opstandelingen-niet-te-gaan-vervolgen",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Jan-Willem Roodbeen en Jeroen Kijk in de Vegte nog drie jaar bij BNNVARA",
     "subtitle": null,
     "published_at": "2023-06-27T11:11:18+02:00",
-    "updated_at": "2023-06-27T11:11:19+02:00",
+    "updated_at": "2023-06-27T11:29:58+02:00",
     "media_id": "ytwx1fxa0xd2",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Natuurgebied de Peel staat onder zware druk door stikstof en droogte",
     "subtitle": null,
     "published_at": "2023-06-27T11:00:22+02:00",
-    "updated_at": "2023-06-27T11:11:00+02:00",
+    "updated_at": "2023-06-27T11:24:30+02:00",
     "media_id": "6yxxtkdaq94l",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6269758/trump-zegt-in-uitgelekte-opname-wel-geheime-documenten-over-iran-te-hebben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269606,
-    "slug": "van-benzema-tot-neves-deze-sterren-volgden-ronaldo-al-naar-saoedi-arabie",
-    "type": "article",
-    "title": "Van Benzema tot Neves: deze sterren volgden Ronaldo al naar Saoedi-Arabië",
-    "subtitle": null,
-    "published_at": "2023-06-27T08:55:36+02:00",
-    "updated_at": "2023-06-27T09:04:29+02:00",
-    "media_id": "ab3x04hag571",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6269606/van-benzema-tot-neves-deze-sterren-volgden-ronaldo-al-naar-saoedi-arabie.html",
     "open_new_window": false,
     "partner": null
   }
