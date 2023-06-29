@@ -1,12 +1,35 @@
 [
   {
-    "id": 6270137,
-    "slug": "op1-met-drie-omroepen-verder-talkshow-werkt-mee-aan-onderzoek-naar-sociale-veiligheid",
+    "id": 6270139,
+    "slug": "ruim-63000-werknemers-van-universiteiten-krijgen-9-procent-meer-loon",
     "type": "article",
-    "title": "Op1 met drie omroepen verder, talkshow werkt mee aan onderzoek naar sociale veiligheid",
+    "title": "Ruim 63.000 werknemers van universiteiten krijgen 9 procent meer loon",
+    "subtitle": null,
+    "published_at": "2023-06-29T13:22:08+02:00",
+    "updated_at": "2023-06-29T13:22:09+02:00",
+    "media_id": "yc6x2aga5uzg",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6270139/ruim-63000-werknemers-van-universiteiten-krijgen-9-procent-meer-loon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270137,
+    "slug": "talkshow-op1-gaat-met-drie-omroepen-verder-onderzoek-naar-sociale-veiligheid",
+    "type": "article",
+    "title": "Talkshow Op1 gaat met drie omroepen verder, onderzoek naar sociale veiligheid",
     "subtitle": null,
     "published_at": "2023-06-29T13:16:16+02:00",
-    "updated_at": "2023-06-29T13:16:31+02:00",
+    "updated_at": "2023-06-29T13:27:12+02:00",
     "media_id": "7csxp6jasqv7",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6270137/op1-met-drie-omroepen-verder-talkshow-werkt-mee-aan-onderzoek-naar-sociale-veiligheid.html",
+    "url": "/media/6270137/talkshow-op1-gaat-met-drie-omroepen-verder-onderzoek-naar-sociale-veiligheid.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Paar honderd mensen bij boerenprotest op Malieveld, FDF verwachtte 'duizenden'",
     "subtitle": null,
     "published_at": "2023-06-29T13:15:23+02:00",
-    "updated_at": "2023-06-29T13:16:15+02:00",
+    "updated_at": "2023-06-29T13:31:40+02:00",
     "media_id": "k27xfxpaa86q",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "ADO Den Haag heeft met trainer Kalezic eindelijk opvolger van Advocaat",
     "subtitle": null,
     "published_at": "2023-06-29T13:06:08+02:00",
-    "updated_at": "2023-06-29T13:16:27+02:00",
+    "updated_at": "2023-06-29T13:29:25+02:00",
     "media_id": "tyixtssawgqq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6270111/haai-bijt-amerikaanse-visser-en-trekt-hem-het-water-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270099,
-    "slug": "aantal-gevaccineerde-babys-duikt-voor-het-eerst-in-jaren-onder-90-procent",
-    "type": "article",
-    "title": "Aantal gevaccineerde baby's duikt voor het eerst in jaren onder 90 procent",
-    "subtitle": null,
-    "published_at": "2023-06-29T10:48:23+02:00",
-    "updated_at": "2023-06-29T12:52:51+02:00",
-    "media_id": "biwxewxakxtn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1146768,
-      "slug": "gezondheid",
-      "type": "default",
-      "name": "Gezondheid",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gezondheid/6270099/aantal-gevaccineerde-babys-duikt-voor-het-eerst-in-jaren-onder-90-procent.html",
     "open_new_window": false,
     "partner": null
   }
