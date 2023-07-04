@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270872,
+    "slug": "mount-vertrekt-na-achttien-jaar-bij-chelsea-en-lijkt-op-weg-naar-united-van-ten-hag",
+    "type": "article",
+    "title": "Mount vertrekt na achttien jaar bij Chelsea en lijkt op weg naar United van Ten Hag",
+    "subtitle": null,
+    "published_at": "2023-07-04T22:48:28+02:00",
+    "updated_at": "2023-07-04T22:51:21+02:00",
+    "media_id": "yc4x2kxataru",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6270872/mount-vertrekt-na-achttien-jaar-bij-chelsea-en-lijkt-op-weg-naar-united-van-ten-hag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270871,
     "slug": "zeeleeuw-valt-van-zwembadrand-boven-op-trainer-op-mallorca",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6270176/vooruitblik-etappe-5-tour-de-france-bijzondere-pyreneeenrit-voor-pogacar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270840,
-    "slug": "chaos-in-tour-jakobsen-onderuit-in-finale-vol-valpartijen-philipsen-wint-weer",
-    "type": "article",
-    "title": "Chaos in Tour: Jakobsen onderuit in finale vol valpartijen, Philipsen wint weer",
-    "subtitle": null,
-    "published_at": "2023-07-04T17:50:05+02:00",
-    "updated_at": "2023-07-04T22:15:01+02:00",
-    "media_id": "cpwx8q9an3gd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6270840/chaos-in-tour-jakobsen-onderuit-in-finale-vol-valpartijen-philipsen-wint-weer.html",
     "open_new_window": false,
     "partner": null
   }
