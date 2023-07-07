@@ -1,12 +1,35 @@
 [
   {
-    "id": 6271278,
-    "slug": "de-vakantie-begint-wat-is-jouw-tip-voor-een-goedkope-vakantie-in-eigen-land",
+    "id": 6271274,
+    "slug": "duitse-industrie-komt-maar-niet-op-stoom-dus-recessie-krijgt-mogelijk-vervolg",
     "type": "article",
-    "title": "De vakantie begint! Wat is jouw tip voor een goedkope vakantie in eigen land?",
+    "title": "Duitse industrie komt maar niet op stoom, dus recessie krijgt mogelijk vervolg",
+    "subtitle": null,
+    "published_at": "2023-07-07T09:39:05+02:00",
+    "updated_at": "2023-07-07T09:39:07+02:00",
+    "media_id": "ohgxsxca88b8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6271274/duitse-industrie-komt-maar-niet-op-stoom-dus-recessie-krijgt-mogelijk-vervolg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271278,
+    "slug": "wat-is-jouw-tip-voor-een-goedkope-vakantie-in-eigen-land",
+    "type": "article",
+    "title": "Wat is jouw tip voor een goedkope vakantie in eigen land?",
     "subtitle": null,
     "published_at": "2023-07-07T09:31:05+02:00",
-    "updated_at": "2023-07-07T09:31:17+02:00",
+    "updated_at": "2023-07-07T09:39:31+02:00",
     "media_id": "785x34oa4gje",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stelling/6271278/de-vakantie-begint-wat-is-jouw-tip-voor-een-goedkope-vakantie-in-eigen-land.html",
+    "url": "/stelling/6271278/wat-is-jouw-tip-voor-een-goedkope-vakantie-in-eigen-land.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Overheid komt afspraak niet na: niet genoeg banen voor mensen met beperking",
     "subtitle": null,
     "published_at": "2023-07-07T09:11:58+02:00",
-    "updated_at": "2023-07-07T09:26:54+02:00",
+    "updated_at": "2023-07-07T09:39:50+02:00",
     "media_id": "wu1xd4haz52p",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6271258/drukte-op-wegen-en-schiphol-verwacht-vanwege-begin-zomervakantie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271035,
-    "slug": "bouwmeester-wil-met-zeilacademie-de-sport-veranderen-mag-geen-elitesport-zijn",
-    "type": "article",
-    "title": "Bouwmeester wil met zeilacademie de sport veranderen: 'Mag geen elitesport zijn'",
-    "subtitle": null,
-    "published_at": "2023-07-07T05:21:09+02:00",
-    "updated_at": "2023-07-07T05:21:10+02:00",
-    "media_id": "jruxhb0avir4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6271035/bouwmeester-wil-met-zeilacademie-de-sport-veranderen-mag-geen-elitesport-zijn.html",
     "open_new_window": false,
     "partner": null
   }
