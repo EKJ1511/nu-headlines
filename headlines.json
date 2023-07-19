@@ -1,5 +1,28 @@
 [
   {
+    "id": 6273101,
+    "slug": "commentator-voeckler-voor-een-rit-uit-tour-gezet-wegens-hinderen-vingegaard",
+    "type": "article",
+    "title": "Commentator Voeckler voor één rit uit Tour gezet wegens hinderen Vingegaard",
+    "subtitle": null,
+    "published_at": "2023-07-19T20:26:47+02:00",
+    "updated_at": "2023-07-19T20:33:14+02:00",
+    "media_id": "akjxju5ajrza",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6273101/commentator-voeckler-voor-een-rit-uit-tour-gezet-wegens-hinderen-vingegaard.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273095,
     "slug": "groene-zeeschildpadden-eten-al-duizenden-jaren-in-hetzelfde-zeegrasrestaurant",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Verdachte vlucht tevergeefs na steekpartij en veroorzaakt meerdere aanrijdingen",
     "subtitle": null,
     "published_at": "2023-07-19T20:19:09+02:00",
-    "updated_at": "2023-07-19T20:19:11+02:00",
+    "updated_at": "2023-07-19T20:30:06+02:00",
     "media_id": "6trx840azvhq",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Van Rijthoven kiest toch voor elleboogoperatie: 'Heb mijn hele carrière last gehad'",
     "subtitle": null,
     "published_at": "2023-07-19T20:15:51+02:00",
-    "updated_at": "2023-07-19T20:19:51+02:00",
+    "updated_at": "2023-07-19T20:36:06+02:00",
     "media_id": "e6axjcsa5c27",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Simons dankt vooral vertrokken Van Nistelrooij: 'Dankzij hem kwam mijn droom uit'",
     "subtitle": null,
     "published_at": "2023-07-19T17:51:57+02:00",
-    "updated_at": "2023-07-19T19:25:10+02:00",
+    "updated_at": "2023-07-19T20:26:25+02:00",
     "media_id": "5rqxupya8c0p",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6273075/schiphol-verwelkomde-in-juni-meer-dan-56-miljoen-passagiers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273077,
-    "slug": "vingegaard-neemt-voorschot-op-eindzege-tour-na-dramatische-dag-pogacar",
-    "type": "article",
-    "title": "Vingegaard neemt voorschot op eindzege Tour na dramatische dag Pogacar",
-    "subtitle": null,
-    "published_at": "2023-07-19T17:25:44+02:00",
-    "updated_at": "2023-07-19T19:50:22+02:00",
-    "media_id": "wl7xst2asop3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6273077/vingegaard-neemt-voorschot-op-eindzege-tour-na-dramatische-dag-pogacar.html",
     "open_new_window": false,
     "partner": null
   }
