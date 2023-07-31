@@ -1,28 +1,5 @@
 [
   {
-    "id": 6274620,
-    "slug": "manchester-united-sluit-nieuwe-megadeal-van-ruim-1-miljard-euro-met-adidas",
-    "type": "article",
-    "title": "Manchester United sluit nieuwe megadeal van ruim 1 miljard euro met adidas",
-    "subtitle": null,
-    "published_at": "2023-07-31T12:33:00+02:00",
-    "updated_at": "2023-07-31T12:33:01+02:00",
-    "media_id": "b5sxl9za4itr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6274620/manchester-united-sluit-nieuwe-megadeal-van-ruim-1-miljard-euro-met-adidas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6274622,
     "slug": "facebook-moet-data-delen-van-anoniem-profiel-dat-nederlander-verdacht-maakt",
     "type": "article",
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/media/6274585/zomergasten-met-hoyte-van-hoytema-trekt-minder-kijkers-dan-eerste-aflevering.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274584,
+    "slug": "heineken-maakte-minder-winst-ondanks-duurdere-biertjes",
+    "type": "article",
+    "title": "Heineken maakte minder winst ondanks duurdere biertjes",
+    "subtitle": null,
+    "published_at": "2023-07-31T09:13:08+02:00",
+    "updated_at": "2023-07-31T09:13:09+02:00",
+    "media_id": "ts4x5yxaeiu2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6274584/heineken-maakte-minder-winst-ondanks-duurdere-biertjes.html",
     "open_new_window": false,
     "partner": null
   }
