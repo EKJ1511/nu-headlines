@@ -1,12 +1,35 @@
 [
   {
+    "id": 6275072,
+    "slug": "psg-boekt-bij-succesvolle-terugkeer-neymar-eindelijk-weer-zege-in-voorbereiding",
+    "type": "article",
+    "title": "PSG boekt bij succesvolle terugkeer Neymar eindelijk weer zege in voorbereiding",
+    "subtitle": null,
+    "published_at": "2023-08-03T12:46:33+02:00",
+    "updated_at": "2023-08-03T12:46:34+02:00",
+    "media_id": "iumxm0fawbv7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6275072/psg-boekt-bij-succesvolle-terugkeer-neymar-eindelijk-weer-zege-in-voorbereiding.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275066,
     "slug": "oranjespits-beerensteyn-huilde-na-blessure-ik-dacht-het-zal-toch-niet",
     "type": "article",
     "title": "Oranjespits Beerensteyn huilde na blessure: 'Ik dacht: het zal toch niet?'",
     "subtitle": "NU+",
     "published_at": "2023-08-03T12:35:00+02:00",
-    "updated_at": "2023-08-03T12:35:01+02:00",
+    "updated_at": "2023-08-03T12:47:30+02:00",
     "media_id": "yf4xn6uaakp8",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Pinstoring veroorzaakt door het hele land problemen bij kassa's in winkels",
     "subtitle": null,
     "published_at": "2023-08-03T12:32:15+02:00",
-    "updated_at": "2023-08-03T12:32:16+02:00",
+    "updated_at": "2023-08-03T12:38:13+02:00",
     "media_id": "n41x7xpaglz6",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6274965,
-    "slug": "belarus-voert-spanning-aan-poolse-grens-op-grote-middelvinger-naar-navo",
+    "slug": "belarus-voert-spanning-met-polen-op-grote-middelvinger-naar-navo",
     "type": "article",
-    "title": "Belarus voert spanning aan Poolse grens op: 'Grote middelvinger naar NAVO'",
+    "title": "Belarus voert spanning met Polen op: 'Grote middelvinger naar NAVO'",
     "subtitle": "NU+",
     "published_at": "2023-08-03T12:27:36+02:00",
-    "updated_at": "2023-08-03T12:27:37+02:00",
+    "updated_at": "2023-08-03T12:44:45+02:00",
     "media_id": "uusxtpkaffjj",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6274965/belarus-voert-spanning-aan-poolse-grens-op-grote-middelvinger-naar-navo.html",
+    "url": "/buitenland/6274965/belarus-voert-spanning-met-polen-op-grote-middelvinger-naar-navo.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Feyenoord tast diep in de buidel en vindt in Japanner Ueda opvolger van Danilo",
     "subtitle": null,
     "published_at": "2023-08-03T12:05:03+02:00",
-    "updated_at": "2023-08-03T12:33:06+02:00",
+    "updated_at": "2023-08-03T12:51:00+02:00",
     "media_id": "bbbx8keahvh1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6275026/nederlandse-groene-stroom-steeds-gewilder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275025,
-    "slug": "zevende-scream-film-in-de-maak-met-nieuwe-regisseur-aan-het-roer",
-    "type": "article",
-    "title": "Zevende Scream-film in de maak met nieuwe regisseur aan het roer",
-    "subtitle": null,
-    "published_at": "2023-08-03T09:10:29+02:00",
-    "updated_at": "2023-08-03T09:10:30+02:00",
-    "media_id": "z9rx9tbazwet",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6275025/zevende-scream-film-in-de-maak-met-nieuwe-regisseur-aan-het-roer.html",
     "open_new_window": false,
     "partner": null
   }
