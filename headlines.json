@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275117,
+    "slug": "feyenoord-houdt-populaire-spits-gimenez-binnenboord-met-contractverlenging",
+    "type": "article",
+    "title": "Feyenoord houdt populaire spits Giménez binnenboord met contractverlenging",
+    "subtitle": null,
+    "published_at": "2023-08-03T17:29:30+02:00",
+    "updated_at": "2023-08-03T17:29:31+02:00",
+    "media_id": "71exw4xayrny",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6275117/feyenoord-houdt-populaire-spits-gimenez-binnenboord-met-contractverlenging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275089,
     "slug": "dit-kun-je-verwachten-rond-de-voorgeleiding-van-donald-trump-vanavond",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6275092/scouts-zoeken-medische-tenten-op-vanwege-hitte-in-zuid-korea.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275086,
-    "slug": "lizzo-ontkent-wangedrag-beschuldigingen-zo-ongeloofwaardig-als-ze-klinken",
-    "type": "article",
-    "title": "Lizzo ontkent wangedrag: 'Beschuldigingen zo ongeloofwaardig als ze klinken'",
-    "subtitle": null,
-    "published_at": "2023-08-03T13:59:52+02:00",
-    "updated_at": "2023-08-03T14:33:33+02:00",
-    "media_id": "bq8xke4addbc",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6275086/lizzo-ontkent-wangedrag-beschuldigingen-zo-ongeloofwaardig-als-ze-klinken.html",
     "open_new_window": false,
     "partner": null
   }
