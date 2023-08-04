@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275159,
+    "slug": "zomerdip-in-het-weer-bereikt-dieptepunt-met-kletsnat-weekend",
+    "type": "article",
+    "title": "Zomerdip in het weer bereikt dieptepunt met kletsnat weekend",
+    "subtitle": null,
+    "published_at": "2023-08-04T07:41:58+02:00",
+    "updated_at": "2023-08-04T07:47:22+02:00",
+    "media_id": "8uhx45ga7bx4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6275159/zomerdip-in-het-weer-bereikt-dieptepunt-met-kletsnat-weekend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275157,
     "slug": "politieagent-in-vs-springt-op-stuurloze-boot-omdat-kapitein-van-boord-viel",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Iron Maiden-drummer Nicko McBrain herstelt van beroerte: 'Terug op 70 procent'",
     "subtitle": null,
     "published_at": "2023-08-04T07:21:17+02:00",
-    "updated_at": "2023-08-04T07:21:18+02:00",
+    "updated_at": "2023-08-04T07:41:53+02:00",
     "media_id": "5e6xhvva8qlu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6275138/gestolen-babymakaak-herenigd-met-moeder-in-italiaanse-dierentuin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275137,
-    "slug": "in-kringloop-gevonden-koningspython-terug-bij-baasje-krijgt-verse-muis",
-    "type": "article",
-    "title": "In kringloop gevonden koningspython terug bij baasje: 'Krijgt verse muis'",
-    "subtitle": null,
-    "published_at": "2023-08-03T20:50:32+02:00",
-    "updated_at": "2023-08-03T21:00:06+02:00",
-    "media_id": "dggxzrpalhvp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6275137/in-kringloop-gevonden-koningspython-terug-bij-baasje-krijgt-verse-muis.html",
     "open_new_window": false,
     "partner": null
   }
