@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275499,
+    "slug": "griekspoor-grijpt-naast-zijn-grootste-toernooizege-ooit-na-topweek-in-washington",
+    "type": "article",
+    "title": "Griekspoor grijpt naast zijn grootste toernooizege ooit na topweek in Washington",
+    "subtitle": null,
+    "published_at": "2023-08-07T06:42:15+02:00",
+    "updated_at": "2023-08-07T06:45:10+02:00",
+    "media_id": "xytxr0aa9qbi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6275499/griekspoor-grijpt-naast-zijn-grootste-toernooizege-ooit-na-topweek-in-washington.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275240,
     "slug": "zo-kan-ai-kanker-ontdekken-of-voorspellen-bij-mensen",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Zelfs Pogacar trekt wit weg na wegrit WK: 'Het duurde mij twee rondjes te lang'",
     "subtitle": null,
     "published_at": "2023-08-07T06:27:48+02:00",
-    "updated_at": "2023-08-07T06:27:49+02:00",
+    "updated_at": "2023-08-07T06:38:05+02:00",
     "media_id": "44ixfbmadjks",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Militaire junta sluit luchtruim Niger om militair ingrijpen te voorkomen",
     "subtitle": null,
     "published_at": "2023-08-07T05:58:40+02:00",
-    "updated_at": "2023-08-07T06:31:15+02:00",
+    "updated_at": "2023-08-07T06:51:10+02:00",
     "media_id": "5vsxamqan55z",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6275476/ajax-verliest-weer-maar-steijn-heeft-goed-gevoel-kan-alleen-maar-beter-gaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275475,
-    "slug": "van-aert-baalt-van-onbegrijpelijke-regels-bij-wk-maar-mathieu-was-de-sterkste",
-    "type": "article",
-    "title": "Van Aert baalt van 'onbegrijpelijke' regels bij WK: 'Maar Mathieu was de sterkste'",
-    "subtitle": null,
-    "published_at": "2023-08-06T19:32:59+02:00",
-    "updated_at": "2023-08-06T20:49:46+02:00",
-    "media_id": "ztxx1f4amp24",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6275475/van-aert-baalt-van-onbegrijpelijke-regels-bij-wk-maar-mathieu-was-de-sterkste.html",
     "open_new_window": false,
     "partner": null
   }
