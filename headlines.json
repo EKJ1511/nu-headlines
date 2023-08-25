@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278096,
+    "slug": "huisarts-die-patientes-misbruikte-moet-na-nieuwe-meldingen-stoppen-met-werk",
+    "type": "article",
+    "title": "Huisarts die patiëntes misbruikte moet na nieuwe meldingen stoppen met werk",
+    "subtitle": null,
+    "published_at": "2023-08-25T19:33:37+02:00",
+    "updated_at": "2023-08-25T19:33:39+02:00",
+    "media_id": "hu9xc2batvz5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6278096/huisarts-die-patientes-misbruikte-moet-na-nieuwe-meldingen-stoppen-met-werk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278092,
     "slug": "nog-vierhonderd-mensen-vermist-op-hawai-na-verwoestende-natuurbranden",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "Ricciardo breekt pols bij crash op Zandvoort, Lawson debuteert als vervanger",
     "subtitle": null,
     "published_at": "2023-08-25T17:21:46+02:00",
-    "updated_at": "2023-08-25T19:09:10+02:00",
+    "updated_at": "2023-08-25T19:30:31+02:00",
     "media_id": "u9cx3ava7wqw",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Voetbalwereld geschokt na vurige speech omstreden Spaanse bondsvoorzitter",
     "subtitle": null,
     "published_at": "2023-08-25T16:24:55+02:00",
-    "updated_at": "2023-08-25T18:43:52+02:00",
+    "updated_at": "2023-08-25T19:30:09+02:00",
     "media_id": "9x7xdaraninx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6278059/gesprongen-waterleiding-in-india-spuwt-water-zo-hoog-als-flatgebouw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278047,
-    "slug": "poetin-dwingt-huurlingen-zoals-wagner-strijders-trouw-te-zweren-aan-rusland",
-    "type": "article",
-    "title": "Poetin dwingt huurlingen zoals Wagner-strijders trouw te zweren aan Rusland",
-    "subtitle": null,
-    "published_at": "2023-08-25T15:31:45+02:00",
-    "updated_at": "2023-08-25T17:40:21+02:00",
-    "media_id": "mvexu03azeoe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6278047/poetin-dwingt-huurlingen-zoals-wagner-strijders-trouw-te-zweren-aan-rusland.html",
     "open_new_window": false,
     "partner": null
   }
