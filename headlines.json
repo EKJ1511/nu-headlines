@@ -1,12 +1,35 @@
 [
   {
-    "id": 6278276,
-    "slug": "drie-oekraiense-piloten-onder-wie-megatalent-juice-omgekomen-bij-botsing",
+    "id": 6278033,
+    "slug": "ik-kijk-de-f1-race-liever-op-televisie-dan-op-het-circuit",
     "type": "article",
-    "title": "Drie Oekraïense piloten, onder wie 'megatalent JUICE', omgekomen bij botsing",
+    "title": "'Ik kijk de F1-race liever op televisie dan op het circuit'",
+    "subtitle": "Stelling",
+    "published_at": "2023-08-27T08:21:06+02:00",
+    "updated_at": "2023-08-27T08:21:07+02:00",
+    "media_id": "6tqxzutafss2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6278033/ik-kijk-de-f1-race-liever-op-televisie-dan-op-het-circuit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278276,
+    "slug": "megatalent-juice-en-twee-andere-oekraiense-piloten-omgekomen-bij-botsing",
+    "type": "article",
+    "title": "'Megatalent' JUICE en twee andere Oekraïense piloten omgekomen bij botsing",
     "subtitle": null,
     "published_at": "2023-08-27T08:16:57+02:00",
-    "updated_at": "2023-08-27T08:16:58+02:00",
+    "updated_at": "2023-08-27T08:30:15+02:00",
     "media_id": "h2ex73paldo2",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6278276/drie-oekraiense-piloten-onder-wie-megatalent-juice-omgekomen-bij-botsing.html",
+    "url": "/buitenland/6278276/megatalent-juice-en-twee-andere-oekraiense-piloten-omgekomen-bij-botsing.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Uit nood in een dure bezemkast? Dit kun je doen aan hoge kamerhuur",
     "subtitle": "NU+",
     "published_at": "2023-08-27T05:02:41+02:00",
-    "updated_at": "2023-08-27T05:02:42+02:00",
+    "updated_at": "2023-08-27T08:32:16+02:00",
     "media_id": "60nxoqbaypyh",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Dieven beklimmen Zwitserse berg om 400 euro te stelen van klimvereniging",
     "subtitle": null,
     "published_at": "2023-08-26T23:34:39+02:00",
-    "updated_at": "2023-08-27T08:13:37+02:00",
+    "updated_at": "2023-08-27T08:28:53+02:00",
     "media_id": "gyxxbtbayq6x",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6278264/hartono-verliest-in-laatste-voorronde-en-kan-us-open-debuut-dit-jaar-vergeten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278263,
-    "slug": "sifan-hassan-kan-leven-zonder-goud-op-wk-ik-geloof-niet-in-magie",
-    "type": "article",
-    "title": "Sifan Hassan kan leven zonder goud op WK: 'Ik geloof niet in magie'",
-    "subtitle": null,
-    "published_at": "2023-08-26T23:23:37+02:00",
-    "updated_at": "2023-08-26T23:29:14+02:00",
-    "media_id": "mfgxq75a9tf6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6278263/sifan-hassan-kan-leven-zonder-goud-op-wk-ik-geloof-niet-in-magie.html",
     "open_new_window": false,
     "partner": null
   }
