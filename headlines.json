@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278975,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-09-01T05:51:10+02:00",
+    "updated_at": "2023-09-01T05:51:11+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6278975/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278974,
     "slug": "verdachten-die-schrijver-pim-lammers-voor-verhaal-met-dood-bedreigden-staan-terecht",
     "type": "article",
@@ -420,7 +443,7 @@
     "title": "KNMI eert vertrekkende NOS-weerman Gerrit Hiemstra met eigen storm",
     "subtitle": null,
     "published_at": "2023-08-31T21:09:14+02:00",
-    "updated_at": "2023-09-01T05:07:05+02:00",
+    "updated_at": "2023-09-01T05:36:53+02:00",
     "media_id": "4ifxg01awa88",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6278953/knmi-eert-vertrekkende-nos-weerman-gerrit-hiemstra-met-eigen-storm.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278952,
-    "slug": "twente-neemt-met-nieuw-verlies-tegen-fenerbahce-afscheid-van-europees-toneel",
-    "type": "article",
-    "title": "Twente neemt met nieuw verlies tegen Fenerbahçe afscheid van Europees toneel",
-    "subtitle": null,
-    "published_at": "2023-08-31T20:59:44+02:00",
-    "updated_at": "2023-08-31T21:06:18+02:00",
-    "media_id": "q6bxuspa931x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6278952/twente-neemt-met-nieuw-verlies-tegen-fenerbahce-afscheid-van-europees-toneel.html",
     "open_new_window": false,
     "partner": null
   }
