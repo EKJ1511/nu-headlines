@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279196,
+    "slug": "coureurs-maken-zich-op-voor-derde-vrije-training-in-monza",
+    "type": "article",
+    "title": "Coureurs maken zich op voor derde vrije training in Monza",
+    "subtitle": "Liveblog",
+    "published_at": "2023-09-02T12:02:16+02:00",
+    "updated_at": "2023-09-02T12:13:22+02:00",
+    "media_id": "ke3xcemawd77",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Italië",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6279196/coureurs-maken-zich-op-voor-derde-vrije-training-in-monza.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279190,
     "slug": "rusland-houdt-opnieuw-schijnverkiezingen-in-bezette-oekraiense-gebieden",
     "type": "article",
@@ -374,7 +397,7 @@
     "title": "Waarom natuur in de wijk belangrijk is (en niet alleen voor bijen en vogels)",
     "subtitle": "NU+",
     "published_at": "2023-09-02T05:06:10+02:00",
-    "updated_at": "2023-09-02T07:52:10+02:00",
+    "updated_at": "2023-09-02T11:55:22+02:00",
     "media_id": "um6x5smatf8x",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6279102/waarom-eieren-in-je-supermarkt-opeens-vaker-wit-zijn-dan-bruin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279112,
-    "slug": "vooruitblik-campagne-op-papier-is-omtzigt-de-ideale-politicus",
-    "type": "article",
-    "title": "Vooruitblik campagne: 'Op papier is Omtzigt de ideale politicus'",
-    "subtitle": null,
-    "published_at": "2023-09-02T04:59:55+02:00",
-    "updated_at": "2023-09-02T09:54:50+02:00",
-    "media_id": "jq0xw6ba2jh3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6279112/vooruitblik-campagne-op-papier-is-omtzigt-de-ideale-politicus.html",
     "open_new_window": false,
     "partner": null
   }
