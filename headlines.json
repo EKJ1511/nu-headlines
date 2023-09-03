@@ -1,5 +1,51 @@
 [
   {
+    "id": 6279349,
+    "slug": "steijn-na-onrustige-transferperiode-ajax-mislintat-heeft-andere-keuzes-gemaakt",
+    "type": "article",
+    "title": "Steijn na onrustige transferperiode Ajax: 'Mislintat heeft andere keuzes gemaakt'",
+    "subtitle": null,
+    "published_at": "2023-09-03T18:35:47+02:00",
+    "updated_at": "2023-09-03T18:35:49+02:00",
+    "media_id": "mksx0qma9ea7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279349/steijn-na-onrustige-transferperiode-ajax-mislintat-heeft-andere-keuzes-gemaakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279345,
+    "slug": "volleybalsters-verrassen-met-ek-brons-en-gaan-vol-vertrouwen-naar-okt",
+    "type": "article",
+    "title": "Volleybalsters verrassen met EK-brons en gaan vol vertrouwen naar OKT",
+    "subtitle": null,
+    "published_at": "2023-09-03T18:26:34+02:00",
+    "updated_at": "2023-09-03T18:30:29+02:00",
+    "media_id": "r7xx0qyae9ls",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6279345/volleybalsters-verrassen-met-ek-brons-en-gaan-vol-vertrouwen-naar-okt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279347,
     "slug": "antwerp-en-van-bommel-verspelen-ondanks-treffer-ekkelenkamp-opnieuw-punten",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Verstappen had nooit gedacht dat het mogelijk was om record Vettel te breken",
     "subtitle": null,
     "published_at": "2023-09-03T17:10:54+02:00",
-    "updated_at": "2023-09-03T18:00:21+02:00",
+    "updated_at": "2023-09-03T18:22:17+02:00",
     "media_id": "kayx8ckapesv",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6279319/man-klimt-uit-onder-water-gelopen-auto-in-mexico-na-zware-regenval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279318,
-    "slug": "reacties-na-historische-zege-verstappen-in-monza",
-    "type": "article",
-    "title": "Reacties na historische zege Verstappen in Monza",
-    "subtitle": "Liveblog",
-    "published_at": "2023-09-03T14:13:01+02:00",
-    "updated_at": "2023-09-03T16:46:08+02:00",
-    "media_id": "71cxv5aatszh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Italië",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6279318/reacties-na-historische-zege-verstappen-in-monza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279300,
-    "slug": "oppermachtig-feyenoord-bezorgt-fc-utrecht-slechtste-seizoensstart-in-historie",
-    "type": "article",
-    "title": "Oppermachtig Feyenoord bezorgt FC Utrecht slechtste seizoensstart in historie",
-    "subtitle": null,
-    "published_at": "2023-09-03T14:12:34+02:00",
-    "updated_at": "2023-09-03T17:08:28+02:00",
-    "media_id": "n8pxg8janzrd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279300/oppermachtig-feyenoord-bezorgt-fc-utrecht-slechtste-seizoensstart-in-historie.html",
     "open_new_window": false,
     "partner": null
   }
