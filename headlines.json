@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279473,
+    "slug": "zelfs-op-rustdag-gedoe-rond-vuelta-renners-door-noodweer-pas-s-nachts-in-hotel",
+    "type": "article",
+    "title": "Zelfs op rustdag gedoe rond Vuelta: renners door noodweer pas 's nachts in hotel",
+    "subtitle": null,
+    "published_at": "2023-09-04T16:03:48+02:00",
+    "updated_at": "2023-09-04T16:03:49+02:00",
+    "media_id": "6hwx8xlaidwz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6279473/zelfs-op-rustdag-gedoe-rond-vuelta-renners-door-noodweer-pas-s-nachts-in-hotel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279472,
     "slug": "kooij-en-van-aert-herhalen-huzarenstukje-in-groot-brittannie-van-poppel-tweede",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "Duitse bondskanselier Scholz loopt rond met ooglapje: 'Kijk uit naar de memes'",
     "subtitle": null,
     "published_at": "2023-09-04T13:40:57+02:00",
-    "updated_at": "2023-09-04T15:27:39+02:00",
+    "updated_at": "2023-09-04T15:53:17+02:00",
     "media_id": "7k0x0wialubt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6279437/art-rooijakkers-vraagt-zijn-vriendin-karlijn-ten-huwelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279439,
-    "slug": "ook-halsema-veroordeelt-schokkende-ontgroening-lange-weg-te-gaan",
-    "type": "article",
-    "title": "Ook Halsema veroordeelt schokkende ontgroening: 'Lange weg te gaan'",
-    "subtitle": null,
-    "published_at": "2023-09-04T12:29:13+02:00",
-    "updated_at": "2023-09-04T15:35:13+02:00",
-    "media_id": "onhxhpfaxvzp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6279439/ook-halsema-veroordeelt-schokkende-ontgroening-lange-weg-te-gaan.html",
     "open_new_window": false,
     "partner": null
   }
