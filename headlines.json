@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279745,
+    "slug": "koeman-laat-flekken-keepen-in-belangrijk-ek-kwalificatieduel-met-griekenland",
+    "type": "article",
+    "title": "Koeman laat Flekken keepen in belangrijk EK-kwalificatieduel met Griekenland",
+    "subtitle": null,
+    "published_at": "2023-09-06T14:10:46+02:00",
+    "updated_at": "2023-09-06T14:29:13+02:00",
+    "media_id": "t3dx7fyalk2o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279745/koeman-laat-flekken-keepen-in-belangrijk-ek-kwalificatieduel-met-griekenland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279748,
     "slug": "bekijk-hier-live-de-persconferentie-van-koeman-en-de-jong",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Man na 47 jaar vrijgesproken van verkrachting: 'Eindelijk écht vrij'",
     "subtitle": "Video",
     "published_at": "2023-09-06T13:33:06+02:00",
-    "updated_at": "2023-09-06T13:33:07+02:00",
+    "updated_at": "2023-09-06T14:24:33+02:00",
     "media_id": "dq2xhwzajxa8",
     "duration": "0:50",
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Oekraïense economie groeit, meer ondernemers in het land dan voor oorlog",
     "subtitle": null,
     "published_at": "2023-09-06T12:04:49+02:00",
-    "updated_at": "2023-09-06T12:27:34+02:00",
+    "updated_at": "2023-09-06T14:06:39+02:00",
     "media_id": "ut9xv5rah7zf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6279715/duitse-industrie-krijgt-opnieuw-een-knauw-door-fors-minder-orders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279712,
-    "slug": "persoon-na-enkele-uren-met-hoogwerker-van-waalbrug-gehaald",
-    "type": "article",
-    "title": "Persoon na enkele uren met hoogwerker van Waalbrug gehaald",
-    "subtitle": null,
-    "published_at": "2023-09-06T10:03:07+02:00",
-    "updated_at": "2023-09-06T13:39:31+02:00",
-    "media_id": "ojyxyv0ac99r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6279712/persoon-na-enkele-uren-met-hoogwerker-van-waalbrug-gehaald.html",
     "open_new_window": false,
     "partner": null
   }
