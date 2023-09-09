@@ -1,12 +1,35 @@
 [
   {
+    "id": 6280218,
+    "slug": "het-wonder-van-roeister-oldenburg-in-een-jaar-van-nekwervelbreuk-naar-wk-titel",
+    "type": "article",
+    "title": "Het wonder van roeister Oldenburg: in één jaar van nekwervelbreuk naar WK-titel",
+    "subtitle": null,
+    "published_at": "2023-09-09T18:08:07+02:00",
+    "updated_at": "2023-09-09T18:14:06+02:00",
+    "media_id": "upext7eab903",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6280218/het-wonder-van-roeister-oldenburg-in-een-jaar-van-nekwervelbreuk-naar-wk-titel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280214,
     "slug": "emotionele-evenepoel-neemt-revanche-voor-offday-met-grandioze-zege-in-vuelta",
     "type": "article",
     "title": "Emotionele Evenepoel neemt revanche voor offday met grandioze zege in Vuelta",
     "subtitle": null,
     "published_at": "2023-09-09T17:51:26+02:00",
-    "updated_at": "2023-09-09T17:51:28+02:00",
+    "updated_at": "2023-09-09T18:15:16+02:00",
     "media_id": "sesx4zlavbwr",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Bestuur Partij voor de Dieren wil Esther Ouwehand niet langer als lijsttrekker",
     "subtitle": null,
     "published_at": "2023-09-09T15:09:23+02:00",
-    "updated_at": "2023-09-09T17:22:17+02:00",
+    "updated_at": "2023-09-09T18:21:32+02:00",
     "media_id": "x7dxy2fa71qv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/vragenoproep/6280188/was-jij-in-marokko-tijdens-de-aardbeving-deel-je-verhaal-met-ons.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280027,
-    "slug": "inheemse-bomen-en-struiken-maken-stad-tot-paradijs-voor-vlinders-en-bijen",
-    "type": "article",
-    "title": "Inheemse bomen en struiken maken stad tot paradijs voor vlinders en bijen",
-    "subtitle": "NU+",
-    "published_at": "2023-09-09T12:16:37+02:00",
-    "updated_at": "2023-09-09T14:58:58+02:00",
-    "media_id": "eu4xnfwamoos",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6280027/inheemse-bomen-en-struiken-maken-stad-tot-paradijs-voor-vlinders-en-bijen.html",
     "open_new_window": false,
     "partner": null
   }
