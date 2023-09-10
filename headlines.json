@@ -1,12 +1,35 @@
 [
   {
+    "id": 6280342,
+    "slug": "afgetreden-rubiales-houdt-vast-aan-onschuld-maar-heeft-geen-zin-om-te-blijven",
+    "type": "article",
+    "title": "Afgetreden Rubiales houdt vast aan onschuld: 'Maar heeft geen zin om te blijven'",
+    "subtitle": null,
+    "published_at": "2023-09-10T23:32:24+02:00",
+    "updated_at": "2023-09-10T23:32:25+02:00",
+    "media_id": "lnjxf7ba5k2l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6280342/afgetreden-rubiales-houdt-vast-aan-onschuld-maar-heeft-geen-zin-om-te-blijven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280339,
     "slug": "van-dijk-zag-oranje-terugkomen-na-dramatische-start-daar-ben-ik-wel-trots-op",
     "type": "article",
     "title": "Van Dijk zag Oranje terugkomen na dramatische start: 'Daar ben ik wel trots op'",
     "subtitle": null,
     "published_at": "2023-09-10T23:08:57+02:00",
-    "updated_at": "2023-09-10T23:13:06+02:00",
+    "updated_at": "2023-09-10T23:30:12+02:00",
     "media_id": "1mxx00haropm",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Oranje knokt zich langs Ierland na belabberde start en blijft op koers voor EK",
     "subtitle": null,
     "published_at": "2023-09-10T22:42:19+02:00",
-    "updated_at": "2023-09-10T22:53:28+02:00",
+    "updated_at": "2023-09-10T23:23:40+02:00",
     "media_id": "tg4xnbhaj1u2",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Omstreden Spaanse voetbalbestuurder Rubiales stapt op na wekenlange rel",
     "subtitle": null,
     "published_at": "2023-09-10T22:08:00+02:00",
-    "updated_at": "2023-09-10T23:06:31+02:00",
+    "updated_at": "2023-09-10T23:24:20+02:00",
     "media_id": "mkax225al3c8",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Reacties na belangrijke zege Oranje op Ierland",
     "subtitle": "Liveblog",
     "published_at": "2023-09-10T19:07:15+02:00",
-    "updated_at": "2023-09-10T22:44:25+02:00",
+    "updated_at": "2023-09-10T23:31:20+02:00",
     "media_id": "uemx0hzau34y",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6280309/van-aert-bekroont-droomweek-jumbo-visma-met-eindzege-in-groot-brittannie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280013,
-    "slug": "pakistaan-riep-op-wilders-te-doden-voor-21000-euro-morgen-hoort-hij-zijn-straf",
-    "type": "article",
-    "title": "Pakistaan riep op Wilders te doden voor 21.000 euro: morgen hoort hij zijn straf",
-    "subtitle": null,
-    "published_at": "2023-09-10T17:15:12+02:00",
-    "updated_at": "2023-09-10T17:15:13+02:00",
-    "media_id": "ygkxd1qazzpm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6280013/pakistaan-riep-op-wilders-te-doden-voor-21000-euro-morgen-hoort-hij-zijn-straf.html",
     "open_new_window": false,
     "partner": null
   }
