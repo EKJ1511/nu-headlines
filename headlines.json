@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280501,
+    "slug": "waarom-er-in-de-zomer-vaak-hoosbuien-zijn",
+    "type": "video",
+    "title": "Waarom er in de zomer vaak hoosbuien zijn",
+    "subtitle": "Explainer",
+    "published_at": "2023-09-12T06:51:14+02:00",
+    "updated_at": "2023-09-12T06:51:16+02:00",
+    "media_id": "eybxxwkayaz1",
+    "duration": "1:30",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6280501/waarom-er-in-de-zomer-vaak-hoosbuien-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280500,
     "slug": "acteur-josh-duhamel-verwacht-eerste-kind-met-tweede-echtgenote-audra",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6280497,
-    "slug": "consumentenbond-sleept-google-voor-de-rechter-om-privacyregels",
+    "slug": "consumentenbond-sleept-google-voor-de-rechter-wegens-privacyregels",
     "type": "article",
-    "title": "Consumentenbond sleept Google voor de rechter om privacyregels",
+    "title": "Consumentenbond sleept Google voor de rechter wegens privacyregels",
     "subtitle": null,
     "published_at": "2023-09-12T06:08:44+02:00",
-    "updated_at": "2023-09-12T06:08:45+02:00",
+    "updated_at": "2023-09-12T06:40:52+02:00",
     "media_id": "hgsxe5ravsnx",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6280497/consumentenbond-sleept-google-voor-de-rechter-om-privacyregels.html",
+    "url": "/tech/6280497/consumentenbond-sleept-google-voor-de-rechter-wegens-privacyregels.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +185,12 @@
   },
   {
     "id": 6280493,
-    "slug": "tweede-kamer-wil-dat-minister-datum-doorstroomtoets-aanpast-voor-carnaval",
+    "slug": "tweede-kamer-wil-dat-de-minister-de-doorstroomtoets-verschuift-voor-carnaval",
     "type": "article",
-    "title": "Tweede Kamer wil dat minister datum doorstroomtoets aanpast voor carnaval",
+    "title": "Tweede Kamer wil dat de minister de doorstroomtoets verschuift voor carnaval",
     "subtitle": null,
     "published_at": "2023-09-12T05:18:24+02:00",
-    "updated_at": "2023-09-12T05:18:25+02:00",
+    "updated_at": "2023-09-12T06:43:25+02:00",
     "media_id": "uh4xgbrati89",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": "m1mxhujaaiwg",
       "partner": null
     },
-    "url": "/carnaval/6280493/tweede-kamer-wil-dat-minister-datum-doorstroomtoets-aanpast-voor-carnaval.html",
+    "url": "/carnaval/6280493/tweede-kamer-wil-dat-de-minister-de-doorstroomtoets-verschuift-voor-carnaval.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Meer dan helft van online platformen vertellen niet hoe ze je keuze beïnvloeden",
     "subtitle": null,
     "published_at": "2023-09-12T00:00:15+02:00",
-    "updated_at": "2023-09-12T05:18:53+02:00",
+    "updated_at": "2023-09-12T06:42:56+02:00",
     "media_id": "2mcxb37avpoz",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Veilig Thuis boos dat politie A12-kinderen aanmeldt: 'Protest is geen mishandeling'",
     "subtitle": null,
     "published_at": "2023-09-11T23:30:00+02:00",
-    "updated_at": "2023-09-12T06:03:08+02:00",
+    "updated_at": "2023-09-12T06:34:37+02:00",
     "media_id": "jt0x7yaa52io",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6280486/bedenker-ian-wilmut-van-wereldberoemd-gekloond-schaap-dolly-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280485,
-    "slug": "feyenoorder-hancko-scoort-na-acht-tellen-voor-slowakije-recordzege-portugal",
-    "type": "article",
-    "title": "Feyenoorder Hancko scoort na acht tellen voor Slowakije, recordzege Portugal",
-    "subtitle": null,
-    "published_at": "2023-09-11T21:01:10+02:00",
-    "updated_at": "2023-09-12T00:02:39+02:00",
-    "media_id": "f3wx2eha1aak",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280485/feyenoorder-hancko-scoort-na-acht-tellen-voor-slowakije-recordzege-portugal.html",
     "open_new_window": false,
     "partner": null
   }
