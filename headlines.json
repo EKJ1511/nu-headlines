@@ -1,5 +1,28 @@
 [
   {
+    "id": 6281877,
+    "slug": "elektronicawinkel-bcc-vraagt-faillissement-aan",
+    "type": "article",
+    "title": "Elektronicawinkel BCC vraagt faillissement aan",
+    "subtitle": null,
+    "published_at": "2023-09-21T12:51:45+02:00",
+    "updated_at": "2023-09-21T12:51:46+02:00",
+    "media_id": "lsaxrzea9g8m",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6281877/elektronicawinkel-bcc-vraagt-faillissement-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281870,
     "slug": "ieren-gooien-duizend-laarzen-in-de-lucht-voor-wereldrecord",
     "type": "video",
@@ -98,7 +121,7 @@
     "title": "Recordaantal egels waargenomen bij landelijke telling",
     "subtitle": null,
     "published_at": "2023-09-21T11:57:40+02:00",
-    "updated_at": "2023-09-21T12:33:22+02:00",
+    "updated_at": "2023-09-21T12:51:12+02:00",
     "media_id": "waaxisgaaw3k",
     "duration": null,
     "canonical_section": {
@@ -346,13 +369,13 @@
   },
   {
     "id": 6281845,
-    "slug": "rutte-verdedigt-verdeling-van-miljarden-het-is-en-en",
+    "slug": "bbb-leider-van-der-plas-en-rutte-botsen-in-stekelig-stikstofdebatje",
     "type": "article",
-    "title": "Rutte verdedigt verdeling van miljarden: 'Het is én-én'",
+    "title": "BBB-leider Van der Plas en Rutte botsen in stekelig stikstofdebatje",
     "subtitle": "Liveblog",
     "published_at": "2023-09-21T10:16:51+02:00",
-    "updated_at": "2023-09-21T11:09:56+02:00",
-    "media_id": "sk9xy2wa44x6",
+    "updated_at": "2023-09-21T12:40:14+02:00",
+    "media_id": "pqsxuw4ai0u8",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6281845/rutte-verdedigt-verdeling-van-miljarden-het-is-en-en.html",
+    "url": "/politiek/6281845/bbb-leider-van-der-plas-en-rutte-botsen-in-stekelig-stikstofdebatje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6281824/uitgebrand-vrachtschip-fremantle-highway-verlaat-eemshaven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281823,
-    "slug": "verstappen-kijkt-vooruit-na-domper-singapore-kunnen-alle-races-nu-winnen",
-    "type": "article",
-    "title": "Verstappen kijkt vooruit na domper Singapore: 'Kunnen alle races nu winnen'",
-    "subtitle": null,
-    "published_at": "2023-09-21T08:55:01+02:00",
-    "updated_at": "2023-09-21T11:14:16+02:00",
-    "media_id": "6d4x757av711",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6281823/verstappen-kijkt-vooruit-na-domper-singapore-kunnen-alle-races-nu-winnen.html",
     "open_new_window": false,
     "partner": null
   }
