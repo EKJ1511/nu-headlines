@@ -1,24 +1,47 @@
 [
   {
-    "id": 6282163,
-    "slug": "unieke-beelden-tonen-gezonken-wo-ii-vliegdekschip-in-vs",
-    "type": "video",
-    "title": "Unieke beelden tonen gezonken WO II-vliegdekschip in VS",
-    "subtitle": "Video",
-    "published_at": "2023-09-22T21:51:48+02:00",
-    "updated_at": "2023-09-22T21:51:49+02:00",
-    "media_id": "m9xxurqa50h1",
-    "duration": "0:42",
+    "id": 6282155,
+    "slug": "ook-canada-schroeft-steun-oekraine-op-aanval-op-russische-vloot",
+    "type": "article",
+    "title": "Ook Canada schroeft steun Oekraïne op, aanval op Russische vloot",
+    "subtitle": "Overzicht",
+    "published_at": "2023-09-22T22:01:04+02:00",
+    "updated_at": "2023-09-22T22:01:21+02:00",
+    "media_id": "236xq64ap0ai",
+    "duration": null,
     "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
       "type": "default",
-      "name": "Video's",
-      "style": null,
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6282163/unieke-beelden-tonen-gezonken-wo-ii-vliegdekschip-in-vs.html",
+    "url": "/spanningen-oekraine/6282155/ook-canada-schroeft-steun-oekraine-op-aanval-op-russische-vloot.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282161,
+    "slug": "go-ahead-nestelt-zich-in-subtop-van-eredivisie-dankzij-zege-op-fortuna",
+    "type": "article",
+    "title": "Go Ahead nestelt zich in subtop van Eredivisie dankzij zege op Fortuna",
+    "subtitle": null,
+    "published_at": "2023-09-22T21:58:32+02:00",
+    "updated_at": "2023-09-22T22:09:53+02:00",
+    "media_id": "x9vx3fnadjsa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6282161/go-ahead-nestelt-zich-in-subtop-van-eredivisie-dankzij-zege-op-fortuna.html",
     "open_new_window": false,
     "partner": null
   },
@@ -185,13 +208,13 @@
   },
   {
     "id": 6282150,
-    "slug": "oranje-ziet-belgie-razendsnel-op-1-1-komen-in-nations-league",
+    "slug": "tijd-dringt-voor-oranje-in-nations-league-duel-met-belgie",
     "type": "article",
-    "title": "Oranje ziet België razendsnel op 1-1 komen in Nations League",
+    "title": "Tijd dringt voor Oranje in Nations League-duel met België",
     "subtitle": "Liveblog",
     "published_at": "2023-09-22T19:58:00+02:00",
-    "updated_at": "2023-09-22T21:52:22+02:00",
-    "media_id": "8l1x5zlawxq6",
+    "updated_at": "2023-09-22T22:11:32+02:00",
+    "media_id": "10nx5u3aotlx",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6282150/oranje-ziet-belgie-razendsnel-op-1-1-komen-in-nations-league.html",
+    "url": "/voetbal/6282150/tijd-dringt-voor-oranje-in-nations-league-duel-met-belgie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,12 +254,12 @@
   },
   {
     "id": 6282147,
-    "slug": "go-ahead-verdubbelt-marge-tegen-fortuna",
+    "slug": "reacties-na-klinkende-zege-go-ahead-tegen-fortuna",
     "type": "article",
-    "title": "Go Ahead verdubbelt marge tegen Fortuna",
+    "title": "Reacties na klinkende zege Go Ahead tegen Fortuna",
     "subtitle": "Liveblog",
     "published_at": "2023-09-22T19:40:06+02:00",
-    "updated_at": "2023-09-22T21:36:06+02:00",
+    "updated_at": "2023-09-22T22:07:15+02:00",
     "media_id": "u8fxqfvahtq2",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6282147/go-ahead-verdubbelt-marge-tegen-fortuna.html",
+    "url": "/voetbal/6282147/reacties-na-klinkende-zege-go-ahead-tegen-fortuna.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6282127/kamer-past-wetsvoorstel-om-asiellocaties-over-nederland-te-spreiden-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282134,
-    "slug": "stakingen-bij-amerikaanse-autofabrieken-worden-uitgebreid-maar-niet-bij-ford",
-    "type": "article",
-    "title": "Stakingen bij Amerikaanse autofabrieken worden uitgebreid, maar niet bij Ford",
-    "subtitle": null,
-    "published_at": "2023-09-22T18:10:48+02:00",
-    "updated_at": "2023-09-22T18:11:13+02:00",
-    "media_id": "myfx7bfa1ddo",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6282134/stakingen-bij-amerikaanse-autofabrieken-worden-uitgebreid-maar-niet-bij-ford.html",
     "open_new_window": false,
     "partner": null
   }
