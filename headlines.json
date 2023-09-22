@@ -1,5 +1,51 @@
 [
   {
+    "id": 6282002,
+    "slug": "bijna-iedereen-in-europa-ademt-vervuilde-lucht-in-zo-kan-het-beter",
+    "type": "article",
+    "title": "Bijna iedereen in Europa ademt vervuilde lucht in, zo kan het beter",
+    "subtitle": null,
+    "published_at": "2023-09-22T08:52:23+02:00",
+    "updated_at": "2023-09-22T08:52:25+02:00",
+    "media_id": "yhbxyz1aicck",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6282002/bijna-iedereen-in-europa-ademt-vervuilde-lucht-in-zo-kan-het-beter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281928,
+    "slug": "door-de-algemene-beschouwingen-stem-ik-op-een-andere-partij",
+    "type": "article",
+    "title": "'Door de Algemene Beschouwingen stem ik op een andere partij'",
+    "subtitle": "Stelling",
+    "published_at": "2023-09-22T08:52:08+02:00",
+    "updated_at": "2023-09-22T08:52:09+02:00",
+    "media_id": "wmmxlcuawx16",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6281928/door-de-algemene-beschouwingen-stem-ik-op-een-andere-partij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282001,
     "slug": "bus-op-zn-kant-naast-weg-in-vs-na-dodelijke-crash",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Jack Osbourne is getrouwd met zijn vriendin Aree",
     "subtitle": null,
     "published_at": "2023-09-22T08:11:53+02:00",
-    "updated_at": "2023-09-22T08:11:55+02:00",
+    "updated_at": "2023-09-22T08:36:00+02:00",
     "media_id": "le3x1boa5etc",
     "duration": null,
     "canonical_section": {
@@ -47,12 +93,12 @@
   },
   {
     "id": 6281997,
-    "slug": "inhoudelijke-behandeling-van-jarenlang-marengo-proces-nadert-vrijdag-ontknoping",
+    "slug": "inhoudelijke-behandeling-van-megaproces-rond-ridouan-taghi-nadert-ontknoping",
     "type": "article",
-    "title": "Inhoudelijke behandeling van jarenlang Marengo-proces nadert vrijdag ontknoping",
+    "title": "Inhoudelijke behandeling van megaproces rond Ridouan Taghi nadert ontknoping",
     "subtitle": null,
     "published_at": "2023-09-22T07:52:50+02:00",
-    "updated_at": "2023-09-22T07:52:51+02:00",
+    "updated_at": "2023-09-22T08:31:50+02:00",
     "media_id": "i1zxalgaz2cu",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6281997/inhoudelijke-behandeling-van-jarenlang-marengo-proces-nadert-vrijdag-ontknoping.html",
+    "url": "/binnenland/6281997/inhoudelijke-behandeling-van-megaproces-rond-ridouan-taghi-nadert-ontknoping.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +144,7 @@
     "title": "Lizzo nogmaals aangeklaagd voor onveilige werksfeer tijdens haar tour",
     "subtitle": null,
     "published_at": "2023-09-22T07:43:53+02:00",
-    "updated_at": "2023-09-22T07:43:54+02:00",
+    "updated_at": "2023-09-22T08:31:12+02:00",
     "media_id": "rcxx7reakcru",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Recessie in Nederland iets minder groot dan eerder gedacht",
     "subtitle": null,
     "published_at": "2023-09-22T07:36:41+02:00",
-    "updated_at": "2023-09-22T07:47:01+02:00",
+    "updated_at": "2023-09-22T08:52:09+02:00",
     "media_id": "lj1x9fta08vi",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Voor het eerst sinds 2012 meer witte neushoorns in Afrika, ook meer zwarte",
     "subtitle": null,
     "published_at": "2023-09-22T06:39:05+02:00",
-    "updated_at": "2023-09-22T06:44:52+02:00",
+    "updated_at": "2023-09-22T08:25:42+02:00",
     "media_id": "pgjx5mqairpt",
     "duration": null,
     "canonical_section": {
@@ -259,19 +305,19 @@
     "title": "Minder studenten lenen voor hun studie nu de basisbeurs weer is ingevoerd",
     "subtitle": null,
     "published_at": "2023-09-22T05:40:44+02:00",
-    "updated_at": "2023-09-22T07:54:25+02:00",
+    "updated_at": "2023-09-22T08:36:38+02:00",
     "media_id": "i1qxogca8vtn",
     "duration": null,
     "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
+      "id": 99,
+      "slug": "economie",
       "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
+      "name": "Economie",
+      "style": "nuzakelijk",
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6281985/minder-studenten-lenen-voor-hun-studie-nu-de-basisbeurs-weer-is-ingevoerd.html",
+    "url": "/economie/6281985/minder-studenten-lenen-voor-hun-studie-nu-de-basisbeurs-weer-is-ingevoerd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -349,9 +395,9 @@
     "slug": "duncan-laurence-was-overrompeld-door-felle-kritiek-het-was-pittig",
     "type": "article",
     "title": "Duncan Laurence was 'overrompeld' door felle kritiek: 'Het was pittig'",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2023-09-22T05:06:41+02:00",
-    "updated_at": "2023-09-22T06:40:09+02:00",
+    "updated_at": "2023-09-22T08:46:50+02:00",
     "media_id": "06oxr38aq3g8",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6281909/waardoor-ter-apel-opnieuw-zo-vol-zit-met-jongere-asielzoekers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281976,
-    "slug": "taylor-na-gemiste-kansen-tegen-marseille-op-mn-donder-gekregen-van-brobbey",
-    "type": "article",
-    "title": "Taylor na gemiste kansen tegen Marseille: 'Op m'n donder gekregen van Brobbey'",
-    "subtitle": null,
-    "published_at": "2023-09-22T00:33:07+02:00",
-    "updated_at": "2023-09-22T07:50:06+02:00",
-    "media_id": "rfjxwq5apg18",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281976/taylor-na-gemiste-kansen-tegen-marseille-op-mn-donder-gekregen-van-brobbey.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281895,
-    "slug": "prijzen-van-koophuizen-stijgen-voor-derde-maand-op-rij",
-    "type": "article",
-    "title": "Prijzen van koophuizen stijgen voor derde maand op rij",
-    "subtitle": null,
-    "published_at": "2023-09-22T00:01:09+02:00",
-    "updated_at": "2023-09-22T00:31:11+02:00",
-    "media_id": "3knxr74aaof1",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6281895/prijzen-van-koophuizen-stijgen-voor-derde-maand-op-rij.html",
     "open_new_window": false,
     "partner": null
   }
