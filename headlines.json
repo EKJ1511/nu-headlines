@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282292,
+    "slug": "bosz-vond-psv-ondanks-ruime-zege-niet-goed-kwamen-niet-aan-het-voetballen",
+    "type": "article",
+    "title": "Bosz vond PSV ondanks ruime zege niet goed: 'Kwamen niet aan het voetballen'",
+    "subtitle": null,
+    "published_at": "2023-09-23T22:48:06+02:00",
+    "updated_at": "2023-09-23T22:48:41+02:00",
+    "media_id": "p5ux76oasyvy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6282292/bosz-vond-psv-ondanks-ruime-zege-niet-goed-kwamen-niet-aan-het-voetballen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282290,
     "slug": "hoe-de-nachttrein-een-comeback-maakt-hier-kun-je-in-2023-naartoe",
     "type": "video",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6282285,
-    "slug": "juventus-onderuit-tegen-sassuolo-reijnders-keert-terug-in-basis-en-wint-met-milan",
+    "slug": "juventus-verrassend-onderuit-reijnders-keert-terug-in-basis-en-wint-met-milan",
     "type": "article",
-    "title": "Juventus onderuit tegen Sassuolo, Reijnders keert terug in basis en wint met Milan",
+    "title": "Juventus verrassend onderuit, Reijnders keert terug in basis en wint met Milan",
     "subtitle": null,
     "published_at": "2023-09-23T21:44:38+02:00",
-    "updated_at": "2023-09-23T21:59:14+02:00",
+    "updated_at": "2023-09-23T22:50:24+02:00",
     "media_id": "2g0xpmsaput9",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6282285/juventus-onderuit-tegen-sassuolo-reijnders-keert-terug-in-basis-en-wint-met-milan.html",
+    "url": "/voetbal/6282285/juventus-verrassend-onderuit-reijnders-keert-terug-in-basis-en-wint-met-milan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6282263/volleybalsters-bij-zege-met-3-0-of-3-1-in-slotduel-okt-zeker-van-spelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282265,
-    "slug": "moordverdachte-schiet-in-de-lach-als-hij-na-32-jaar-wordt-opgepakt",
-    "type": "video",
-    "title": "Moordverdachte schiet in de lach als hij na 32 jaar wordt opgepakt",
-    "subtitle": "Video",
-    "published_at": "2023-09-23T17:30:29+02:00",
-    "updated_at": "2023-09-23T19:48:29+02:00",
-    "media_id": "u4nx3jgaoq84",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6282265/moordverdachte-schiet-in-de-lach-als-hij-na-32-jaar-wordt-opgepakt.html",
     "open_new_window": false,
     "partner": null
   }
