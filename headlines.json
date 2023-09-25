@@ -1,12 +1,35 @@
 [
   {
+    "id": 6282565,
+    "slug": "liefhebbers-van-beroemde-oude-fietsen-gaan-strijd-met-elkaar-aan",
+    "type": "video",
+    "title": "Liefhebbers van beroemde oude fietsen gaan strijd met elkaar aan",
+    "subtitle": "Video",
+    "published_at": "2023-09-25T21:48:21+02:00",
+    "updated_at": "2023-09-25T21:48:22+02:00",
+    "media_id": "oznxuz1au4r4",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6282565/liefhebbers-van-beroemde-oude-fietsen-gaan-strijd-met-elkaar-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282564,
     "slug": "rvc-voorzitter-eringa-denkt-niet-aan-vertrek-bij-ajax-wat-los-je-daarmee-op",
     "type": "article",
     "title": "Rvc-voorzitter Eringa denkt niet aan vertrek bij Ajax: 'Wat los je daarmee op?",
     "subtitle": null,
     "published_at": "2023-09-25T21:30:30+02:00",
-    "updated_at": "2023-09-25T21:30:31+02:00",
+    "updated_at": "2023-09-25T21:34:53+02:00",
     "media_id": "fd4xr5ta8hji",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Na Philip Freriks vertrekt ook Maarten van Rossem in 2025 bij De slimste mens",
     "subtitle": null,
     "published_at": "2023-09-25T21:19:20+02:00",
-    "updated_at": "2023-09-25T21:30:14+02:00",
+    "updated_at": "2023-09-25T21:46:32+02:00",
     "media_id": "pkixrufay4nq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nuverder/6282071/niet-veel-geld-te-besteden-maar-toch-gezond-eten-dat-doe-je-zo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282473,
-    "slug": "nederlands-oudste-olifant-irma-was-behulpzame-oma-met-koninklijk-tintje",
-    "type": "article",
-    "title": "Nederlands oudste olifant Irma was behulpzame oma met 'koninklijk' tintje",
-    "subtitle": "NU+",
-    "published_at": "2023-09-25T17:04:50+02:00",
-    "updated_at": "2023-09-25T17:56:59+02:00",
-    "media_id": "yodxnxhakvaz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6282473/nederlands-oudste-olifant-irma-was-behulpzame-oma-met-koninklijk-tintje.html",
     "open_new_window": false,
     "partner": null
   }
