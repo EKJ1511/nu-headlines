@@ -1,12 +1,58 @@
 [
   {
+    "id": 6282771,
+    "slug": "nederlandse-film-sweet-dreams-maakt-kans-op-european-film-awards",
+    "type": "article",
+    "title": "Nederlandse film Sweet Dreams maakt kans op European Film Awards",
+    "subtitle": null,
+    "published_at": "2023-09-27T10:35:28+02:00",
+    "updated_at": "2023-09-27T10:35:29+02:00",
+    "media_id": "6qkxzo2a863e",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6282771/nederlandse-film-sweet-dreams-maakt-kans-op-european-film-awards.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282751,
+    "slug": "fabriek-chemours-aansprakelijk-voor-pfas-vervuiling-in-omgeving-dordrecht",
+    "type": "article",
+    "title": "Fabriek Chemours aansprakelijk voor pfas-vervuiling in omgeving Dordrecht",
+    "subtitle": null,
+    "published_at": "2023-09-27T10:35:08+02:00",
+    "updated_at": "2023-09-27T10:35:55+02:00",
+    "media_id": "w0lxwsja4ttp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6282751/fabriek-chemours-aansprakelijk-voor-pfas-vervuiling-in-omgeving-dordrecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282766,
     "slug": "baanwielrenner-hoogland-valt-tien-jaar-oud-wereldrecord-op-kilometer-aan",
     "type": "article",
     "title": "Baanwielrenner Hoogland valt tien jaar oud wereldrecord op kilometer aan",
     "subtitle": null,
     "published_at": "2023-09-27T10:19:10+02:00",
-    "updated_at": "2023-09-27T10:19:11+02:00",
+    "updated_at": "2023-09-27T10:28:19+02:00",
     "media_id": "ez0xgiuaxzew",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6282740/bas-van-der-schot-wint-inktspotprijs-voor-beste-politieke-tekening.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282682,
-    "slug": "door-deze-tactiek-lukt-het-oekraine-om-de-krim-nu-harder-te-raken",
-    "type": "video",
-    "title": "Door deze tactiek lukt het Oekraïne om de Krim nu harder te raken",
-    "subtitle": "Explainer",
-    "published_at": "2023-09-27T06:32:08+02:00",
-    "updated_at": "2023-09-27T06:32:10+02:00",
-    "media_id": "9b4xhj2aeljr",
-    "duration": "1:55",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6282682/door-deze-tactiek-lukt-het-oekraine-om-de-krim-nu-harder-te-raken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282739,
-    "slug": "bijna-zomers-vandaag-later-deze-week-wisselvallig-weer",
-    "type": "article",
-    "title": "Bijna zomers vandaag, later deze week wisselvallig weer",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-09-27T06:03:44+02:00",
-    "updated_at": "2023-09-27T07:35:50+02:00",
-    "media_id": "e2hxoclalhd7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6282739/bijna-zomers-vandaag-later-deze-week-wisselvallig-weer.html",
     "open_new_window": false,
     "partner": null
   }
