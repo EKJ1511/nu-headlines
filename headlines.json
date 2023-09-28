@@ -1,13 +1,36 @@
 [
   {
-    "id": 6282936,
-    "slug": "contract-veldwijk-ontbonden-in-zuid-korea-na-rijden-onder-invloed",
+    "id": 6282803,
+    "slug": "steun-voor-financieel-kwetsbaren-verschilt-honderden-euros-per-gemeente",
     "type": "article",
-    "title": "Contract Veldwijk ontbonden in Zuid-Korea na rijden onder invloed",
+    "title": "Steun voor financieel kwetsbaren verschilt honderden euro's per gemeente",
+    "subtitle": null,
+    "published_at": "2023-09-28T10:16:23+02:00",
+    "updated_at": "2023-09-28T10:16:27+02:00",
+    "media_id": "bffxkjfao4cx",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6282803/steun-voor-financieel-kwetsbaren-verschilt-honderden-euros-per-gemeente.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282936,
+    "slug": "contract-veldwijk-alsnog-ontbonden-in-zuid-korea-na-rijden-onder-invloed",
+    "type": "article",
+    "title": "Contract Veldwijk alsnog ontbonden in Zuid-Korea na rijden onder invloed",
     "subtitle": null,
     "published_at": "2023-09-28T09:51:38+02:00",
-    "updated_at": "2023-09-28T09:51:39+02:00",
-    "media_id": "22nxb41azq7a",
+    "updated_at": "2023-09-28T10:20:30+02:00",
+    "media_id": "a8lxmkna6zyg",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6282936/contract-veldwijk-ontbonden-in-zuid-korea-na-rijden-onder-invloed.html",
+    "url": "/voetbal/6282936/contract-veldwijk-alsnog-ontbonden-in-zuid-korea-na-rijden-onder-invloed.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "PSV'er Veerman kijkt niet uit naar duel met Volendam: 'Zit weinig gevoel meer bij'",
     "subtitle": null,
     "published_at": "2023-09-28T09:50:27+02:00",
-    "updated_at": "2023-09-28T09:50:29+02:00",
+    "updated_at": "2023-09-28T09:54:39+02:00",
     "media_id": "m5rx6uzavxz8",
     "duration": null,
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6282923,
-    "slug": "hittegolven-en-volop-zon-september-was-tropischer-dan-zomermaand-augustus",
+    "slug": "hittegolven-en-volop-zon-september-is-tropischer-dan-zomermaand-augustus",
     "type": "article",
-    "title": "Hittegolven en volop zon: september was tropischer dan zomermaand augustus",
+    "title": "Hittegolven en volop zon: september is tropischer dan zomermaand augustus",
     "subtitle": null,
     "published_at": "2023-09-28T08:51:40+02:00",
-    "updated_at": "2023-09-28T09:51:37+02:00",
+    "updated_at": "2023-09-28T09:56:37+02:00",
     "media_id": "mjoxzloamk5c",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6282923/hittegolven-en-volop-zon-september-was-tropischer-dan-zomermaand-augustus.html",
+    "url": "/binnenland/6282923/hittegolven-en-volop-zon-september-is-tropischer-dan-zomermaand-augustus.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Rente kan volgens Nederlandse ECB-directeur nog verder omhoog",
     "subtitle": null,
     "published_at": "2023-09-28T08:49:48+02:00",
-    "updated_at": "2023-09-28T09:01:06+02:00",
+    "updated_at": "2023-09-28T10:13:56+02:00",
     "media_id": "1bkxy1qaauhp",
     "duration": null,
     "canonical_section": {
@@ -192,7 +215,7 @@
     "published_at": "2023-09-28T08:10:18+02:00",
     "updated_at": "2023-09-28T08:10:19+02:00",
     "media_id": "p00xx7wadak2",
-    "duration": "0:58",
+    "duration": "0:57",
     "canonical_section": {
       "id": 1772431,
       "slug": "videos",
@@ -374,7 +397,7 @@
     "title": "Roest keert alleen terug in achtervolgingsploeg als er heel veel verandert",
     "subtitle": "NU+",
     "published_at": "2023-09-28T06:08:17+02:00",
-    "updated_at": "2023-09-28T08:10:14+02:00",
+    "updated_at": "2023-09-28T10:20:22+02:00",
     "media_id": "hayx68pao8en",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6282910/weer-fijn-nazomerweer-en-het-weekend-belooft-ook-al-veel-goeds.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282909,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-09-28T05:18:02+02:00",
-    "updated_at": "2023-09-28T05:18:03+02:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6282909/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
