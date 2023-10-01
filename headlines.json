@@ -1,12 +1,35 @@
 [
   {
+    "id": 6283404,
+    "slug": "turnsters-verwachten-dat-recordscore-bij-wk-genoeg-is-voor-olympisch-ticket",
+    "type": "article",
+    "title": "Turnsters verwachten dat recordscore bij WK genoeg is voor olympisch ticket",
+    "subtitle": null,
+    "published_at": "2023-10-01T18:34:58+02:00",
+    "updated_at": "2023-10-01T18:35:00+02:00",
+    "media_id": "7ilxkn1amtdl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6283404/turnsters-verwachten-dat-recordscore-bij-wk-genoeg-is-voor-olympisch-ticket.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283402,
     "slug": "pkk-eist-verantwoordelijkheid-op-voor-zelfmoordaanslag-in-ankara",
     "type": "article",
     "title": "PKK eist verantwoordelijkheid op voor zelfmoordaanslag in Ankara",
     "subtitle": null,
     "published_at": "2023-10-01T18:11:39+02:00",
-    "updated_at": "2023-10-01T18:13:18+02:00",
+    "updated_at": "2023-10-01T18:21:03+02:00",
     "media_id": "bc5xzgla4akc",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6283388,
-    "slug": "excelsior-wint-rotterdamse-derby-in-slotseconde-hansson-leidt-heracles-naar-zege",
+    "slug": "excelsior-in-slotseconde-langs-sparta-hansson-leidt-heracles-naar-zege",
     "type": "article",
-    "title": "Excelsior wint Rotterdamse derby in slotseconde, Hansson leidt Heracles naar zege",
+    "title": "Excelsior in slotseconde langs Sparta, Hansson leidt Heracles naar zege",
     "subtitle": null,
     "published_at": "2023-10-01T16:30:41+02:00",
-    "updated_at": "2023-10-01T18:00:40+02:00",
+    "updated_at": "2023-10-01T18:35:52+02:00",
     "media_id": "o24x5ngasdbd",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6283388/excelsior-wint-rotterdamse-derby-in-slotseconde-hansson-leidt-heracles-naar-zege.html",
+    "url": "/voetbal/6283388/excelsior-in-slotseconde-langs-sparta-hansson-leidt-heracles-naar-zege.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6283381/vitesse-doorbreekt-dramatische-serie-met-late-zege-op-nec-in-gelderse-derby.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283379,
-    "slug": "fc-twente-vrouwen-drukt-feyenoord-dieper-in-problemen-psv-haalt-uit-tegen-az",
-    "type": "article",
-    "title": "FC Twente Vrouwen drukt Feyenoord dieper in problemen, PSV haalt uit tegen AZ",
-    "subtitle": null,
-    "published_at": "2023-10-01T14:24:05+02:00",
-    "updated_at": "2023-10-01T15:23:22+02:00",
-    "media_id": "87vxyb7aoma4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6283379/fc-twente-vrouwen-drukt-feyenoord-dieper-in-problemen-psv-haalt-uit-tegen-az.html",
     "open_new_window": false,
     "partner": null
   }
