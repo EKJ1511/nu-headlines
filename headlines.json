@@ -1,12 +1,35 @@
 [
   {
+    "id": 6283722,
+    "slug": "slot-verwacht-dat-bijlow-na-direct-na-interlandperiode-oranje-rentree-kan-maken",
+    "type": "article",
+    "title": "Slot verwacht dat Bijlow na direct na interlandperiode Oranje rentree kan maken",
+    "subtitle": null,
+    "published_at": "2023-10-03T19:30:11+02:00",
+    "updated_at": "2023-10-03T19:30:53+02:00",
+    "media_id": "rbyx141anbiv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6283722/slot-verwacht-dat-bijlow-na-direct-na-interlandperiode-oranje-rentree-kan-maken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283721,
     "slug": "only-murders-in-the-building-krijgt-vierde-seizoen",
     "type": "article",
     "title": "Only Murders in the Building krijgt vierde seizoen",
     "subtitle": null,
     "published_at": "2023-10-03T19:16:50+02:00",
-    "updated_at": "2023-10-03T19:16:51+02:00",
+    "updated_at": "2023-10-03T19:22:29+02:00",
     "media_id": "7aexnb2asm4d",
     "duration": null,
     "canonical_section": {
@@ -139,13 +162,13 @@
   },
   {
     "id": 6283715,
-    "slug": "psv-telt-af-naar-duel-met-sevilla-sheraldo-becker-scoort-voor-union",
+    "slug": "sheraldo-becker-ontketend-bij-union-berlin-psv-telt-af-naar-sevilla",
     "type": "article",
-    "title": "PSV telt af naar duel met Sevilla, Sheraldo Becker scoort voor Union",
+    "title": "Sheraldo Becker ontketend bij Union Berlin, PSV telt af naar Sevilla",
     "subtitle": "Liveblog",
     "published_at": "2023-10-03T18:18:38+02:00",
-    "updated_at": "2023-10-03T19:17:48+02:00",
-    "media_id": "9ffxxr3aa352",
+    "updated_at": "2023-10-03T19:29:27+02:00",
+    "media_id": "5xrxzx5aigh8",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6283715/psv-telt-af-naar-duel-met-sevilla-sheraldo-becker-scoort-voor-union.html",
+    "url": "/voetbal/6283715/sheraldo-becker-ontketend-bij-union-berlin-psv-telt-af-naar-sevilla.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6283692/vijftien-maanden-cel-voor-jonge-ouders-die-baby-levend-achterlieten-in-container.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283678,
-    "slug": "europees-parlement-houdt-hoekstra-in-spanning-en-komt-met-extra-vragen",
-    "type": "article",
-    "title": "Europees Parlement houdt Hoekstra in spanning en komt met extra vragen",
-    "subtitle": null,
-    "published_at": "2023-10-03T15:32:07+02:00",
-    "updated_at": "2023-10-03T17:21:17+02:00",
-    "media_id": "acwxtkra8oc7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6283678/europees-parlement-houdt-hoekstra-in-spanning-en-komt-met-extra-vragen.html",
     "open_new_window": false,
     "partner": null
   }
