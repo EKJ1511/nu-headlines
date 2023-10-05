@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283910,
+    "slug": "napoleon-versus-de-romeinen-aan-wie-zouden-we-vaker-moeten-denken",
+    "type": "article",
+    "title": "Napoleon versus de Romeinen: aan wie zouden we vaker moeten denken?",
+    "subtitle": "NU+",
+    "published_at": "2023-10-05T09:37:25+02:00",
+    "updated_at": "2023-10-05T09:37:26+02:00",
+    "media_id": "z50xeywahcij",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6283910/napoleon-versus-de-romeinen-aan-wie-zouden-we-vaker-moeten-denken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283945,
     "slug": "leger-des-heils-komt-met-eenmalige-glossy-de-majoor",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6283859/niet-alles-in-de-supermarkt-wordt-duurder-maar-de-kruidnoot-wel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283874,
-    "slug": "verkoop-van-nieuwbouwhuizen-volledig-ingestort-in-tweede-kwartaal",
-    "type": "article",
-    "title": "Verkoop van nieuwbouwhuizen volledig ingestort in tweede kwartaal",
-    "subtitle": null,
-    "published_at": "2023-10-05T00:03:09+02:00",
-    "updated_at": "2023-10-05T08:37:46+02:00",
-    "media_id": "r4sxwp0a63nm",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6283874/verkoop-van-nieuwbouwhuizen-volledig-ingestort-in-tweede-kwartaal.html",
     "open_new_window": false,
     "partner": null
   }
