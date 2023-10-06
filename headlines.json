@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284090,
+    "slug": "voor-175000-euro-een-nieuwbouwhuis-deze-woningfabriek-maakt-het",
+    "type": "video",
+    "title": "Voor 175.000 euro een nieuwbouwhuis: deze woningfabriek maakt het",
+    "subtitle": "Explainer",
+    "published_at": "2023-10-06T06:34:15+02:00",
+    "updated_at": "2023-10-06T06:34:16+02:00",
+    "media_id": "x7pxs46atpos",
+    "duration": "2:46",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6284090/voor-175000-euro-een-nieuwbouwhuis-deze-woningfabriek-maakt-het.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284096,
     "slug": "arrestaties-na-wedstrijd-az-legia-warschau-ook-vooraf-heftig-geweld-in-alkmaar",
     "type": "article",
@@ -231,12 +254,12 @@
   },
   {
     "id": 6284091,
-    "slug": "politie-legia-supporters-gebruikten-heftig-geweld-voor-wedstrijd-tegen-az",
+    "slug": "legia-supporters-gebruikten-heftig-geweld-voor-wedstrijd-tegen-az",
     "type": "article",
-    "title": "Politie: Legia-supporters gebruikten 'heftig geweld' voor wedstrijd tegen AZ",
+    "title": "Legia-supporters gebruikten 'heftig geweld' voor wedstrijd tegen AZ",
     "subtitle": null,
     "published_at": "2023-10-05T23:52:15+02:00",
-    "updated_at": "2023-10-06T00:21:08+02:00",
+    "updated_at": "2023-10-06T06:32:04+02:00",
     "media_id": "3skxlbva77cv",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6284091/politie-legia-supporters-gebruikten-heftig-geweld-voor-wedstrijd-tegen-az.html",
+    "url": "/binnenland/6284091/legia-supporters-gebruikten-heftig-geweld-voor-wedstrijd-tegen-az.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6284083/steijn-ziet-ajax-uit-de-crisis-kruipen-de-rust-keert-terug-in-de-club.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284073,
-    "slug": "biden-niet-enige-die-zn-hond-niet-aankan-herder-is-niet-zomaar-een-hond",
-    "type": "article",
-    "title": "Biden niet enige die z'n hond niet aankan: 'Herder is niet zomaar een hond'",
-    "subtitle": "NU+",
-    "published_at": "2023-10-05T21:14:30+02:00",
-    "updated_at": "2023-10-05T21:14:31+02:00",
-    "media_id": "ixgxmrva0i72",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6284073/biden-niet-enige-die-zn-hond-niet-aankan-herder-is-niet-zomaar-een-hond.html",
     "open_new_window": false,
     "partner": null
   }
