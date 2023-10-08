@@ -1,12 +1,35 @@
 [
   {
+    "id": 6284453,
+    "slug": "mensen-in-meerdere-steden-de-straat-op-voor-pro-palestijnse-demonstraties",
+    "type": "video",
+    "title": "Mensen in meerdere steden de straat op voor pro-Palestijnse demonstraties",
+    "subtitle": "Video",
+    "published_at": "2023-10-08T17:31:48+02:00",
+    "updated_at": "2023-10-08T17:31:49+02:00",
+    "media_id": "9etx6jnajxb9",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284453/mensen-in-meerdere-steden-de-straat-op-voor-pro-palestijnse-demonstraties.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284451,
     "slug": "flaters-van-dijk-en-gravenberch-bij-puntenverlies-liverpool-tegen-brighton",
     "type": "article",
     "title": "Flaters Van Dijk en Gravenberch bij puntenverlies Liverpool tegen Brighton",
     "subtitle": null,
     "published_at": "2023-10-08T17:10:38+02:00",
-    "updated_at": "2023-10-08T17:12:48+02:00",
+    "updated_at": "2023-10-08T17:21:26+02:00",
     "media_id": "uzyxshcaw5e6",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Sifan Hassan in fenomenaal Europees record ook de beste bij marathon Chicago",
     "subtitle": null,
     "published_at": "2023-10-08T16:47:52+02:00",
-    "updated_at": "2023-10-08T17:01:24+02:00",
+    "updated_at": "2023-10-08T17:29:57+02:00",
     "media_id": "m82xk9sasyne",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "FIA grijpt weer in na zorgen om banden: drie pitstops noodzakelijk in Qatar",
     "subtitle": null,
     "published_at": "2023-10-08T16:42:52+02:00",
-    "updated_at": "2023-10-08T16:52:10+02:00",
+    "updated_at": "2023-10-08T17:19:24+02:00",
     "media_id": "r4gx6qvap7h3",
     "duration": null,
     "canonical_section": {
@@ -162,13 +185,13 @@
   },
   {
     "id": 6284442,
-    "slug": "keniaan-kelvin-kiptum-verplettert-wereldrecord-op-marathon-van-kipchoge",
+    "slug": "keniaan-kelvin-kiptum-verplettert-wereldrecord-van-kipchoge-op-marathon",
     "type": "article",
-    "title": "Keniaan Kelvin Kiptum verplettert wereldrecord op marathon van Kipchoge",
+    "title": "Keniaan Kelvin Kiptum verplettert wereldrecord van Kipchoge op marathon",
     "subtitle": null,
     "published_at": "2023-10-08T16:36:20+02:00",
-    "updated_at": "2023-10-08T17:15:30+02:00",
-    "media_id": "g5zxqhzacawz",
+    "updated_at": "2023-10-08T17:30:21+02:00",
+    "media_id": "ut9xu5eao175",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6284442/keniaan-kelvin-kiptum-verplettert-wereldrecord-op-marathon-van-kipchoge.html",
+    "url": "/sport-overig/6284442/keniaan-kelvin-kiptum-verplettert-wereldrecord-van-kipchoge-op-marathon.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6284334/reacties-na-sensationele-zege-hassan-bij-marathon-in-chicago.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284428,
-    "slug": "verliezen-op-israelische-en-saoedische-beurs-na-aanval-van-hamas",
-    "type": "article",
-    "title": "Verliezen op Israëlische en Saoedische beurs na aanval van Hamas",
-    "subtitle": null,
-    "published_at": "2023-10-08T14:25:36+02:00",
-    "updated_at": "2023-10-08T14:38:52+02:00",
-    "media_id": "l2txs1fasu5u",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6284428/verliezen-op-israelische-en-saoedische-beurs-na-aanval-van-hamas.html",
     "open_new_window": false,
     "partner": null
   }
