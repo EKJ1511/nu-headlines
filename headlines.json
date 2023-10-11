@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284904,
+    "slug": "nog-niet-alle-nederlanders-in-israel-weten-of-ze-teruggehaald-kunnen-worden",
+    "type": "article",
+    "title": "Nog niet alle Nederlanders in Israël weten of ze teruggehaald kunnen worden",
+    "subtitle": null,
+    "published_at": "2023-10-11T16:52:10+02:00",
+    "updated_at": "2023-10-11T16:52:36+02:00",
+    "media_id": "bscxowaa0fr2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6284904/nog-niet-alle-nederlanders-in-israel-weten-of-ze-teruggehaald-kunnen-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284841,
     "slug": "lezers-over-werkgevers-bij-rouw-na-de-begrafenis-nam-ik-ontslag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6284877/fred-van-leer-staat-volgend-jaar-weer-twee-keer-in-ahoy-met-show.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284872,
-    "slug": "intermarche-circus-wanty-haalt-renners-uit-chinese-koers-na-racistisch-gebaar",
-    "type": "article",
-    "title": "Intermarché-Circus-Wanty haalt renners uit Chinese koers na racistisch gebaar",
-    "subtitle": null,
-    "published_at": "2023-10-11T14:26:44+02:00",
-    "updated_at": "2023-10-11T16:44:56+02:00",
-    "media_id": "temxkyra9qdg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6284872/intermarche-circus-wanty-haalt-renners-uit-chinese-koers-na-racistisch-gebaar.html",
     "open_new_window": false,
     "partner": null
   }
