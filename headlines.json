@@ -1,5 +1,51 @@
 [
   {
+    "id": 6285133,
+    "slug": "hoe-herken-je-in-een-stroom-van-nieuws-nog-wat-echt-en-vooral-nep-is",
+    "type": "article",
+    "title": "Hoe herken je in een stroom van nieuws nog wat echt (en vooral nep) is?",
+    "subtitle": "NU+",
+    "published_at": "2023-10-13T11:51:46+02:00",
+    "updated_at": "2023-10-13T11:51:47+02:00",
+    "media_id": "muex627a0wbg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779236,
+      "slug": "nuverder",
+      "type": "default",
+      "name": "Dagelijks leven",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nuverder/6285133/hoe-herken-je-in-een-stroom-van-nieuws-nog-wat-echt-en-vooral-nep-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285152,
+    "slug": "iconisch-spa-francorchamps-tot-zeker-2025-onderdeel-van-formule-1-kalender",
+    "type": "article",
+    "title": "Iconisch Spa-Francorchamps tot zeker 2025 onderdeel van Formule 1-kalender",
+    "subtitle": null,
+    "published_at": "2023-10-13T11:36:12+02:00",
+    "updated_at": "2023-10-13T11:47:49+02:00",
+    "media_id": "t44xubxaya8d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6285152/iconisch-spa-francorchamps-tot-zeker-2025-onderdeel-van-formule-1-kalender.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285148,
     "slug": "eekhoorns-bijen-en-zalmen-sieren-nieuwe-britse-munten-met-koning-charles",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6285113/schotten-snappen-niets-van-omslag-gozubuyuk-dat-verandert-de-hele-avond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285098,
-    "slug": "italiaanse-schrijver-moet-boete-betalen-voor-beledigen-premier",
-    "type": "article",
-    "title": "Italiaanse schrijver moet boete betalen voor beledigen premier",
-    "subtitle": null,
-    "published_at": "2023-10-13T08:08:35+02:00",
-    "updated_at": "2023-10-13T08:08:36+02:00",
-    "media_id": "0vwxjiraf4v5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6285098/italiaanse-schrijver-moet-boete-betalen-voor-beledigen-premier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285112,
-    "slug": "jonge-huizenkopers-slaan-vaker-toe-op-krappe-woningmarkt",
-    "type": "article",
-    "title": "Jonge huizenkopers slaan vaker toe op krappe woningmarkt",
-    "subtitle": null,
-    "published_at": "2023-10-13T07:53:46+02:00",
-    "updated_at": "2023-10-13T11:18:51+02:00",
-    "media_id": "7kwxhcvaalmj",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6285112/jonge-huizenkopers-slaan-vaker-toe-op-krappe-woningmarkt.html",
     "open_new_window": false,
     "partner": null
   }
