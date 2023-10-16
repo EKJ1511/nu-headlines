@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285560,
+    "slug": "nederland-exporteert-dit-jaar-minder-bloemen-en-planten",
+    "type": "article",
+    "title": "Nederland exporteert dit jaar minder bloemen en planten",
+    "subtitle": null,
+    "published_at": "2023-10-16T16:32:14+02:00",
+    "updated_at": "2023-10-16T16:33:20+02:00",
+    "media_id": "nv0x9ksaxzj5",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6285560/nederland-exporteert-dit-jaar-minder-bloemen-en-planten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285556,
     "slug": "dave-roelvink-moet-langer-in-afkickkliniek-blijven",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Patrick van Leeuwen al na drie maanden ontslagen als trainer van Shakhtar",
     "subtitle": null,
     "published_at": "2023-10-16T16:05:27+02:00",
-    "updated_at": "2023-10-16T16:12:08+02:00",
+    "updated_at": "2023-10-16T16:21:23+02:00",
     "media_id": "v9oxz0pa760s",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Trein neemt verkeerde afslag: Europarlementariërs per ongeluk in Disneyland",
     "subtitle": null,
     "published_at": "2023-10-16T15:21:10+02:00",
-    "updated_at": "2023-10-16T15:21:12+02:00",
+    "updated_at": "2023-10-16T16:31:20+02:00",
     "media_id": "oylx3fwaths9",
     "duration": null,
     "canonical_section": {
@@ -415,12 +438,12 @@
   },
   {
     "id": 6285060,
-    "slug": "is-het-slim-voor-alles-een-pijnstiller-te-slikken",
+    "slug": "is-het-slim-voor-elke-kwaal-een-pijnstiller-te-slikken",
     "type": "article",
-    "title": "Is het slim voor alles een pijnstiller te slikken?",
+    "title": "Is het slim voor elke kwaal een pijnstiller te slikken?",
     "subtitle": "NU+",
     "published_at": "2023-10-16T13:27:49+02:00",
-    "updated_at": "2023-10-16T13:27:50+02:00",
+    "updated_at": "2023-10-16T16:31:59+02:00",
     "media_id": "sn0xoi8abf5r",
     "duration": null,
     "canonical_section": {
@@ -432,30 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/nuverder/6285060/is-het-slim-voor-alles-een-pijnstiller-te-slikken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285527,
-    "slug": "succescoach-van-van-aert-stapt-net-als-roglic-van-jumbo-visma-over-naar-bora",
-    "type": "article",
-    "title": "Succescoach van Van Aert stapt net als Roglic van Jumbo-Visma over naar BORA",
-    "subtitle": null,
-    "published_at": "2023-10-16T12:55:51+02:00",
-    "updated_at": "2023-10-16T15:34:27+02:00",
-    "media_id": "j0rx015a612p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6285527/succescoach-van-van-aert-stapt-net-als-roglic-van-jumbo-visma-over-naar-bora.html",
+    "url": "/nuverder/6285060/is-het-slim-voor-elke-kwaal-een-pijnstiller-te-slikken.html",
     "open_new_window": false,
     "partner": null
   }
