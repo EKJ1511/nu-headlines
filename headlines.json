@@ -1,5 +1,28 @@
 [
   {
+    "id": 6286346,
+    "slug": "real-speler-vinicius-racistisch-bejegend-door-man-en-kind-bij-duel-met-sevilla",
+    "type": "article",
+    "title": "Real-speler Vinícius racistisch bejegend door man en kind bij duel met Sevilla",
+    "subtitle": null,
+    "published_at": "2023-10-22T08:53:06+02:00",
+    "updated_at": "2023-10-22T08:53:07+02:00",
+    "media_id": "xgqx6pia9262",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286346/real-speler-vinicius-racistisch-bejegend-door-man-en-kind-bij-duel-met-sevilla.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286344,
     "slug": "slot-neemt-zorgen-over-gimenez-weg-vlak-voor-duel-feyenoord-met-lazio",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6286341,
-    "slug": "israel-intensiveert-luchtaanvallen-op-gaza-vn-hoopt-op-nieuw-hulpkonvooi",
+    "slug": "israel-intensiveert-luchtaanvallen-vn-hoopt-op-nieuw-hulpkonvooi",
     "type": "article",
-    "title": "Israël intensiveert luchtaanvallen op Gaza, VN hoopt op nieuw hulpkonvooi",
+    "title": "Israël intensiveert luchtaanvallen, VN hoopt op nieuw hulpkonvooi",
     "subtitle": "Liveblog",
     "published_at": "2023-10-22T07:35:37+02:00",
-    "updated_at": "2023-10-22T07:57:52+02:00",
+    "updated_at": "2023-10-22T08:51:30+02:00",
     "media_id": "cklx2caaap86",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6286341/israel-intensiveert-luchtaanvallen-op-gaza-vn-hoopt-op-nieuw-hulpkonvooi.html",
+    "url": "/buitenland/6286341/israel-intensiveert-luchtaanvallen-vn-hoopt-op-nieuw-hulpkonvooi.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6286329/feyenoord-klopt-vitesse-maar-ziet-gimenez-uitvallen-in-aanloop-naar-cl-duel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286328,
-    "slug": "ontketende-pavlidis-helpt-az-met-eredivisie-record-en-hattrick-langs-heerenveen",
-    "type": "article",
-    "title": "Ontketende Pavlidis helpt AZ met Eredivisie-record en hattrick langs Heerenveen",
-    "subtitle": null,
-    "published_at": "2023-10-21T22:54:28+02:00",
-    "updated_at": "2023-10-21T23:31:35+02:00",
-    "media_id": "ytsxgipajla1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6286328/ontketende-pavlidis-helpt-az-met-eredivisie-record-en-hattrick-langs-heerenveen.html",
     "open_new_window": false,
     "partner": null
   }
