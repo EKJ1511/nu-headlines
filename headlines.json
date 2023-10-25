@@ -1,5 +1,28 @@
 [
   {
+    "id": 6286785,
+    "slug": "judas-priest-volgend-jaar-met-nieuwe-tour-in-afas-live",
+    "type": "article",
+    "title": "Judas Priest volgend jaar met nieuwe tour in AFAS Live",
+    "subtitle": null,
+    "published_at": "2023-10-25T11:39:50+02:00",
+    "updated_at": "2023-10-25T11:39:51+02:00",
+    "media_id": "ifwxmsfansi3",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6286785/judas-priest-volgend-jaar-met-nieuwe-tour-in-afas-live.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286786,
     "slug": "ontsnapte-kudde-lamas-en-alpacas-rent-over-britse-weg",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Clubpsycholoog Almere City die kritiek had op Ajax-staf weer aan het werk",
     "subtitle": null,
     "published_at": "2023-10-25T11:17:17+02:00",
-    "updated_at": "2023-10-25T11:31:30+02:00",
+    "updated_at": "2023-10-25T11:50:16+02:00",
     "media_id": "c9dxzemak884",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6286746/zus-celine-dion-optimistisch-over-herstel-zangeres-ze-wil-weer-optreden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286675,
-    "slug": "ik-zou-meedoen-aan-een-staking-tegen-de-loonkloof",
-    "type": "article",
-    "title": "'Ik zou meedoen aan een staking tegen de loonkloof'",
-    "subtitle": "Stelling",
-    "published_at": "2023-10-25T07:56:43+02:00",
-    "updated_at": "2023-10-25T10:34:26+02:00",
-    "media_id": "ffsxeriad9mo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6286675/ik-zou-meedoen-aan-een-staking-tegen-de-loonkloof.html",
     "open_new_window": false,
     "partner": null
   }
