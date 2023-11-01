@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287832,
+    "slug": "duitse-politicus-doet-aangifte-tegen-mazraoui-vanwege-pro-palestijns-bericht",
+    "type": "article",
+    "title": "Duitse politicus doet aangifte tegen Mazraoui vanwege pro-Palestijns bericht",
+    "subtitle": null,
+    "published_at": "2023-11-01T14:33:57+01:00",
+    "updated_at": "2023-11-01T14:34:28+01:00",
+    "media_id": "hblxgdga6aoi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6287832/duitse-politicus-doet-aangifte-tegen-mazraoui-vanwege-pro-palestijns-bericht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287829,
     "slug": "facebook-en-instagram-moeten-stoppen-met-persoonlijke-advertenties",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6287793/zeven-medewerkers-schiphol-opgepakt-voor-drugssmokkel-via-vliegveld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287792,
-    "slug": "saoedi-arabie-denkt-dat-wk-in-zowel-zomer-als-winter-gehouden-kan-worden",
-    "type": "article",
-    "title": "Saoedi-Arabië denkt dat WK in zowel zomer als winter gehouden kan worden",
-    "subtitle": null,
-    "published_at": "2023-11-01T10:18:49+01:00",
-    "updated_at": "2023-11-01T10:18:50+01:00",
-    "media_id": "ysnx9hza81ei",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6287792/saoedi-arabie-denkt-dat-wk-in-zowel-zomer-als-winter-gehouden-kan-worden.html",
     "open_new_window": false,
     "partner": null
   }
