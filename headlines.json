@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288106,
+    "slug": "vrachtwagen-verliest-honderden-kratjes-bier-vlakbij-heinekenbrouwerij",
+    "type": "video",
+    "title": "Vrachtwagen verliest honderden kratjes bier vlakbij Heinekenbrouwerij",
+    "subtitle": "Video",
+    "published_at": "2023-11-03T11:36:33+01:00",
+    "updated_at": "2023-11-03T11:36:34+01:00",
+    "media_id": "umixo2xatps0",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288106/vrachtwagen-verliest-honderden-kratjes-bier-vlakbij-heinekenbrouwerij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288101,
-    "slug": "honderden-bierkratten-uit-vrachtwagen-gevallen-op-n11",
+    "slug": "honderden-bierkratten-uit-vrachtwagen-gevallen-op-n11-bij-zoeterwoude-rijndijk",
     "type": "article",
-    "title": "Honderden bierkratten uit vrachtwagen gevallen op N11",
+    "title": "Honderden bierkratten uit vrachtwagen gevallen op N11 bij Zoeterwoude-Rijndijk",
     "subtitle": null,
     "published_at": "2023-11-03T11:08:20+01:00",
-    "updated_at": "2023-11-03T11:08:22+01:00",
+    "updated_at": "2023-11-03T11:37:01+01:00",
     "media_id": "ybsxlvqayi1q",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6288101/honderden-bierkratten-uit-vrachtwagen-gevallen-op-n11.html",
+    "url": "/binnenland/6288101/honderden-bierkratten-uit-vrachtwagen-gevallen-op-n11-bij-zoeterwoude-rijndijk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Jumbo-Visma-talent Hessmann test ook positief op B-staal en kan schorsing verwachten",
     "subtitle": null,
     "published_at": "2023-11-03T11:06:42+01:00",
-    "updated_at": "2023-11-03T11:19:37+01:00",
+    "updated_at": "2023-11-03T11:22:57+01:00",
     "media_id": "tt0xutpabp2a",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Astronaut die maanmissie met Apollo 13 redde overleden",
     "subtitle": null,
     "published_at": "2023-11-03T10:51:32+01:00",
-    "updated_at": "2023-11-03T10:55:55+01:00",
+    "updated_at": "2023-11-03T11:36:29+01:00",
     "media_id": "049xluyawdan",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Doden op VN-locaties door aanvallen, Israël stuurt Palestijnse werkers naar Gaza",
     "subtitle": null,
     "published_at": "2023-11-03T09:11:03+01:00",
-    "updated_at": "2023-11-03T09:11:04+01:00",
+    "updated_at": "2023-11-03T11:26:29+01:00",
     "media_id": "znfxqcdak1y1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6288068/doden-op-vn-locaties-door-aanvallen-israel-stuurt-palestijnse-werkers-naar-gaza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288069,
-    "slug": "apple-verkoopt-minder-ipads-en-mac-computers-en-ziet-daardoor-omzet-dalen",
-    "type": "article",
-    "title": "Apple verkoopt minder iPads en Mac-computers en ziet daardoor omzet dalen",
-    "subtitle": null,
-    "published_at": "2023-11-03T08:58:35+01:00",
-    "updated_at": "2023-11-03T08:58:36+01:00",
-    "media_id": "rzaxn1waciev",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6288069/apple-verkoopt-minder-ipads-en-mac-computers-en-ziet-daardoor-omzet-dalen.html",
     "open_new_window": false,
     "partner": null
   }
