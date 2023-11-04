@@ -1,5 +1,51 @@
 [
   {
+    "id": 6288267,
+    "slug": "duitse-minister-vierdaagse-werkweek-zal-welvaart-niet-verbeteren",
+    "type": "article",
+    "title": "Duitse minister: vierdaagse werkweek zal welvaart niet verbeteren",
+    "subtitle": null,
+    "published_at": "2023-11-04T11:46:57+01:00",
+    "updated_at": "2023-11-04T11:46:58+01:00",
+    "media_id": "gvzxkn9akexw",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6288267/duitse-minister-vierdaagse-werkweek-zal-welvaart-niet-verbeteren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288266,
+    "slug": "knsb-benadrukt-belang-van-wereldbekers-na-afzegging-ploeg-van-schouten",
+    "type": "article",
+    "title": "KNSB benadrukt belang van wereldbekers na afzegging ploeg van Schouten",
+    "subtitle": null,
+    "published_at": "2023-11-04T11:45:37+01:00",
+    "updated_at": "2023-11-04T11:45:38+01:00",
+    "media_id": "2e6xfmxamsuu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6288266/knsb-benadrukt-belang-van-wereldbekers-na-afzegging-ploeg-van-schouten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288121,
     "slug": "we-eten-meer-en-zwaarder-zo-zorg-je-voor-een-minder-vol-gevoel",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Een doodgeschoten wolf betekent nog geen vrij loslopend schaap",
     "subtitle": null,
     "published_at": "2023-11-04T11:31:38+01:00",
-    "updated_at": "2023-11-04T11:33:02+01:00",
+    "updated_at": "2023-11-04T11:45:45+01:00",
     "media_id": "nslxn2ca6p7q",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Elfjarige jongen overleden na metershoge val van klimmuur in Amsterdam",
     "subtitle": null,
     "published_at": "2023-11-04T11:08:21+01:00",
-    "updated_at": "2023-11-04T11:34:18+01:00",
+    "updated_at": "2023-11-04T11:37:33+01:00",
     "media_id": "qlzx6mca3145",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Busje rijdt meerdere keren in op pui gemeentehuis Rhenen, dader spoorloos",
     "subtitle": null,
     "published_at": "2023-11-04T10:44:24+01:00",
-    "updated_at": "2023-11-04T11:31:27+01:00",
+    "updated_at": "2023-11-04T11:37:04+01:00",
     "media_id": "4dvx1ybafhns",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/gezondheid/6288226/suriname-krijgt-internationale-prijs-voor-succesvolle-aanpak-malaria.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288224,
-    "slug": "acteur-matthew-perry-vrijdag-in-besloten-kring-begraven-in-los-angeles",
-    "type": "article",
-    "title": "Acteur Matthew Perry vrijdag in besloten kring begraven in Los Angeles",
-    "subtitle": null,
-    "published_at": "2023-11-04T06:09:37+01:00",
-    "updated_at": "2023-11-04T11:11:56+01:00",
-    "media_id": "6q7xpo8av8ur",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6288224/acteur-matthew-perry-vrijdag-in-besloten-kring-begraven-in-los-angeles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288223,
-    "slug": "komiek-russell-brand-in-vs-aangeklaagd-om-grensoverschrijdend-gedrag",
-    "type": "article",
-    "title": "Komiek Russell Brand in VS aangeklaagd om grensoverschrijdend gedrag",
-    "subtitle": null,
-    "published_at": "2023-11-04T06:04:13+01:00",
-    "updated_at": "2023-11-04T09:27:50+01:00",
-    "media_id": "m1oxofma7icp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1775009,
-      "slug": "metoo",
-      "type": "default",
-      "name": "#metoo",
-      "style": "nu",
-      "media_id": "m1mxmqea7g3b",
-      "partner": null
-    },
-    "url": "/metoo/6288223/komiek-russell-brand-in-vs-aangeklaagd-om-grensoverschrijdend-gedrag.html",
     "open_new_window": false,
     "partner": null
   }
