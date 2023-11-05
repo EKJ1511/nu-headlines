@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288432,
+    "slug": "nageeye-liet-glutenvrij-dieet-varen-en-kreeg-steek-in-de-zij-bij-marathon-new-york",
+    "type": "article",
+    "title": "Nageeye liet glutenvrij dieet varen en kreeg steek in de zij bij marathon New York",
+    "subtitle": null,
+    "published_at": "2023-11-05T22:16:39+01:00",
+    "updated_at": "2023-11-05T22:31:06+01:00",
+    "media_id": "x2mxjaeaondm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6288432/nageeye-liet-glutenvrij-dieet-varen-en-kreeg-steek-in-de-zij-bij-marathon-new-york.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288433,
     "slug": "verstappen-zingt-na-winst-tom-jones-over-de-boordradio",
     "type": "video",
     "title": "Verstappen zingt na winst Tom Jones over de boordradio",
     "subtitle": "Video",
     "published_at": "2023-11-05T22:15:07+01:00",
-    "updated_at": "2023-11-05T22:15:09+01:00",
+    "updated_at": "2023-11-05T22:23:06+01:00",
     "media_id": "zdlxjl8a9bnd",
     "duration": "1:19",
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Verstappen zag Norris 'opeens' dichtbij komen, maar had toch zijn marge in Brazilië",
     "subtitle": null,
     "published_at": "2023-11-05T21:47:20+01:00",
-    "updated_at": "2023-11-05T21:47:39+01:00",
+    "updated_at": "2023-11-05T22:19:00+01:00",
     "media_id": "d1txrrfal2v6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6288404/saoedi-arabie-en-rusland-blijven-bij-verlaging-eigen-olieproductie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288403,
-    "slug": "dallinga-scoort-en-mist-penalty-bij-pijnlijke-nederlaag-toulouse",
-    "type": "article",
-    "title": "Dallinga scoort én mist penalty bij pijnlijke nederlaag Toulouse",
-    "subtitle": null,
-    "published_at": "2023-11-05T17:38:47+01:00",
-    "updated_at": "2023-11-05T17:50:20+01:00",
-    "media_id": "mahxpzva6s7z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6288403/dallinga-scoort-en-mist-penalty-bij-pijnlijke-nederlaag-toulouse.html",
     "open_new_window": false,
     "partner": null
   }
