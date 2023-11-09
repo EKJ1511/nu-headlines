@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289066,
+    "slug": "robert-de-niro-vrijgesproken-van-beschuldigingen-door-voormalig-assistent",
+    "type": "article",
+    "title": "Robert de Niro vrijgesproken van beschuldigingen door voormalig assistent",
+    "subtitle": null,
+    "published_at": "2023-11-09T23:38:29+01:00",
+    "updated_at": "2023-11-09T23:38:30+01:00",
+    "media_id": "zkqxwnfahfs2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6289066/robert-de-niro-vrijgesproken-van-beschuldigingen-door-voormalig-assistent.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289065,
     "slug": "van-t-schip-lijdt-eerste-nederlaag-met-ajax-maar-heb-heel-goede-dingen-gezien",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6288815/robbie-williams-openhartig-in-documentaire-ik-leefde-op-een-banaan-per-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289036,
-    "slug": "judoka-meyer-moet-zich-met-olympisch-jaar-in-zicht-laten-opereren-aan-knie",
-    "type": "article",
-    "title": "Judoka Meyer moet zich met olympisch jaar in zicht laten opereren aan knie",
-    "subtitle": null,
-    "published_at": "2023-11-09T18:42:23+01:00",
-    "updated_at": "2023-11-09T18:42:25+01:00",
-    "media_id": "rj9xfyiaddmx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6289036/judoka-meyer-moet-zich-met-olympisch-jaar-in-zicht-laten-opereren-aan-knie.html",
     "open_new_window": false,
     "partner": null
   }
