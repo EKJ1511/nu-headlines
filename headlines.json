@@ -1,12 +1,35 @@
 [
   {
+    "id": 6290866,
+    "slug": "zeldzame-microscoop-gemaakt-door-antoni-van-leeuwenhoek-te-koop",
+    "type": "article",
+    "title": "Zeldzame microscoop gemaakt door Antoni van Leeuwenhoek te koop",
+    "subtitle": null,
+    "published_at": "2023-11-22T20:27:12+01:00",
+    "updated_at": "2023-11-22T20:27:14+01:00",
+    "media_id": "kfcxz82a28s5",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6290866/zeldzame-microscoop-gemaakt-door-antoni-van-leeuwenhoek-te-koop.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290879,
     "slug": "tour-de-france-winnaar-jan-ullrich-geeft-dopinggebruik-toe-ik-voel-me-schuldig",
     "type": "article",
     "title": "Tour de France-winnaar Jan Ullrich geeft dopinggebruik toe: 'Ik voel me schuldig'",
     "subtitle": null,
     "published_at": "2023-11-22T20:14:47+01:00",
-    "updated_at": "2023-11-22T20:14:57+01:00",
+    "updated_at": "2023-11-22T20:32:46+01:00",
     "media_id": "cuixcjhandu4",
     "duration": null,
     "canonical_section": {
@@ -392,12 +415,12 @@
   },
   {
     "id": 6290791,
-    "slug": "nog-een-uur-tot-eerste-exitpoll-zo-werkt-het",
+    "slug": "wachten-op-eerste-exitpoll-zo-werkt-het",
     "type": "video",
-    "title": "Nog een uur tot eerste exitpoll: zo werkt het",
+    "title": "Wachten op eerste exitpoll: zo werkt het",
     "subtitle": "Explainer",
     "published_at": "2023-11-22T17:00:45+01:00",
-    "updated_at": "2023-11-22T20:01:22+01:00",
+    "updated_at": "2023-11-22T20:19:05+01:00",
     "media_id": "devxmuqatc8c",
     "duration": "1:04",
     "canonical_section": {
@@ -409,7 +432,7 @@
       "media_id": "vh7x4xray27h",
       "partner": null
     },
-    "url": "/tweede-kamerverkiezingen-2023/6290791/nog-een-uur-tot-eerste-exitpoll-zo-werkt-het.html",
+    "url": "/tweede-kamerverkiezingen-2023/6290791/wachten-op-eerste-exitpoll-zo-werkt-het.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6290846/rob-kemps-over-vriendin-stephanie-raakt-me-op-manier-die-anderen-niet-lukte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290839,
-    "slug": "tijdschema-afsluitende-gp-abu-dhabi-hoe-laat-komt-verstappen-in-actie",
-    "type": "article",
-    "title": "Tijdschema afsluitende GP Abu Dhabi: Hoe laat komt Verstappen in actie?",
-    "subtitle": null,
-    "published_at": "2023-11-22T16:40:42+01:00",
-    "updated_at": "2023-11-22T18:05:29+01:00",
-    "media_id": "gl4x7k1a1zhh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6290839/tijdschema-afsluitende-gp-abu-dhabi-hoe-laat-komt-verstappen-in-actie.html",
     "open_new_window": false,
     "partner": null
   }
