@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290863,
+    "slug": "finland-sluit-bijna-alle-grensovergangen-met-rusland-vanwege-migrantenstroom",
+    "type": "article",
+    "title": "Finland sluit bijna alle grensovergangen met Rusland vanwege migrantenstroom",
+    "subtitle": null,
+    "published_at": "2023-11-22T18:34:03+01:00",
+    "updated_at": "2023-11-22T18:34:04+01:00",
+    "media_id": "3bxxcqraybeh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6290863/finland-sluit-bijna-alle-grensovergangen-met-rusland-vanwege-migrantenstroom.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290858,
     "slug": "guns-n-roses-zanger-axl-rose-aangeklaagd-wegens-seksueel-misbruik",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6290855,
-    "slug": "djokovic-kritisch-op-organisatie-davis-cup-in-spanje-toernooi-moet-rondreizen",
+    "slug": "djokovic-kritisch-op-organisatie-davis-cup-in-spanje-vier-jaar-op-rij-is-te-veel",
     "type": "article",
-    "title": "Djokovic kritisch op organisatie Davis Cup in Spanje: 'Toernooi moet rondreizen'",
+    "title": "Djokovic kritisch op organisatie Davis Cup in Spanje: 'Vier jaar op rij is te veel'",
     "subtitle": null,
     "published_at": "2023-11-22T17:34:36+01:00",
-    "updated_at": "2023-11-22T18:01:18+01:00",
+    "updated_at": "2023-11-22T18:34:22+01:00",
     "media_id": "is5xeq0a7q2q",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6290855/djokovic-kritisch-op-organisatie-davis-cup-in-spanje-toernooi-moet-rondreizen.html",
+    "url": "/tennis/6290855/djokovic-kritisch-op-organisatie-davis-cup-in-spanje-vier-jaar-op-rij-is-te-veel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6290823/celtic-krijgt-boete-van-uefa-vanwege-fans-die-met-palestijnse-vlag-wapperden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290824,
-    "slug": "federer-schiet-vol-door-lofzang-andrea-bocelli",
-    "type": "video",
-    "title": "Federer schiet vol door lofzang Andrea Bocelli",
-    "subtitle": "Video",
-    "published_at": "2023-11-22T14:25:59+01:00",
-    "updated_at": "2023-11-22T16:05:00+01:00",
-    "media_id": "e6fx2b6a3nj4",
-    "duration": "1:05",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290824/federer-schiet-vol-door-lofzang-andrea-bocelli.html",
     "open_new_window": false,
     "partner": null
   }
