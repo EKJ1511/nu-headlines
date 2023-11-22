@@ -1,12 +1,35 @@
 [
   {
+    "id": 6290870,
+    "slug": "presentatrice-charlotte-nijs-in-verwachting-van-tweede-kindje",
+    "type": "article",
+    "title": "Presentatrice Charlotte Nijs in verwachting van tweede kindje",
+    "subtitle": null,
+    "published_at": "2023-11-22T19:45:45+01:00",
+    "updated_at": "2023-11-22T19:45:46+01:00",
+    "media_id": "0p4xrlaae20q",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6290870/presentatrice-charlotte-nijs-in-verwachting-van-tweede-kindje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290872,
-    "slug": "judeska-warm-onthaalt-bij-opening-van-fc-kip-in-rotterdam",
+    "slug": "judeska-warm-onthaald-bij-opening-fc-kip-in-rotterdam",
     "type": "video",
-    "title": "Judeska warm onthaalt bij opening van FC Kip in Rotterdam",
+    "title": "Judeska warm onthaald bij opening FC Kip in Rotterdam",
     "subtitle": "Video",
     "published_at": "2023-11-22T19:37:04+01:00",
-    "updated_at": "2023-11-22T19:37:06+01:00",
+    "updated_at": "2023-11-22T19:40:56+01:00",
     "media_id": "xmaxzgfa6eg4",
     "duration": "0:53",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6290872/judeska-warm-onthaalt-bij-opening-van-fc-kip-in-rotterdam.html",
+    "url": "/videos/6290872/judeska-warm-onthaald-bij-opening-fc-kip-in-rotterdam.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6290832/polman-belde-al-met-teruggekeerde-handbalster-broch-met-haar-meer-kans.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290838,
-    "slug": "zelensky-waarschuwt-voor-lastige-verdedigingsoperatie-tegen-russen",
-    "type": "article",
-    "title": "Zelensky waarschuwt voor lastige verdedigingsoperatie tegen Russen",
-    "subtitle": null,
-    "published_at": "2023-11-22T16:05:15+01:00",
-    "updated_at": "2023-11-22T19:24:14+01:00",
-    "media_id": "tzqxyjxa6lpp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6290838/zelensky-waarschuwt-voor-lastige-verdedigingsoperatie-tegen-russen.html",
     "open_new_window": false,
     "partner": null
   }
