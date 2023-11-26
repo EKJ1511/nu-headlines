@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290962,
+    "slug": "dit-kun-je-doen-voor-een-ander-die-eenzaam-is",
+    "type": "article",
+    "title": "Dit kun je doen voor een ander die eenzaam is",
+    "subtitle": "NU+",
+    "published_at": "2023-11-26T08:40:49+01:00",
+    "updated_at": "2023-11-26T08:40:50+01:00",
+    "media_id": "mh2xs76a89wg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779328,
+      "slug": "slimmer-leven",
+      "type": "default",
+      "name": "Slimmer leven",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/slimmer-leven/6290962/dit-kun-je-doen-voor-een-ander-die-eenzaam-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291352,
     "slug": "vooruitblik-gp-abu-dhabi-finisht-verstappen-zijn-droomseizoen-in-stijl",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "Dit staat er nog op het spel in de laatste Formule 1-race van het seizoen",
     "subtitle": "NU+",
     "published_at": "2023-11-26T05:06:20+01:00",
-    "updated_at": "2023-11-26T08:22:45+01:00",
+    "updated_at": "2023-11-26T08:45:46+01:00",
     "media_id": "fc0xjqja04iu",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Ajax boekt tegen dolend Vitesse grootste zege in negen maanden",
     "subtitle": null,
     "published_at": "2023-11-25T22:57:57+01:00",
-    "updated_at": "2023-11-26T08:15:45+01:00",
+    "updated_at": "2023-11-26T08:51:55+01:00",
     "media_id": "zyjxxdkadhyf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6291364/handgeschreven-teksten-van-david-bowie-onder-de-hamer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291363,
-    "slug": "handbalsters-boeken-in-aanloop-naar-wk-nipte-oefenzege-op-hongarije",
-    "type": "article",
-    "title": "Handbalsters boeken in aanloop naar WK nipte oefenzege op Hongarije",
-    "subtitle": null,
-    "published_at": "2023-11-25T21:27:19+01:00",
-    "updated_at": "2023-11-25T22:16:49+01:00",
-    "media_id": "5bwxxfkad3id",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6291363/handbalsters-boeken-in-aanloop-naar-wk-nipte-oefenzege-op-hongarije.html",
     "open_new_window": false,
     "partner": null
   }
