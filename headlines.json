@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291464,
+    "slug": "ouwejan-teruggezet-naar-beloftenploeg-schalke-04-vanwege-respectloos-gedrag",
+    "type": "article",
+    "title": "Ouwejan teruggezet naar beloftenploeg Schalke 04 vanwege 'respectloos gedrag'",
+    "subtitle": null,
+    "published_at": "2023-11-26T21:22:39+01:00",
+    "updated_at": "2023-11-26T21:22:40+01:00",
+    "media_id": "lblxr83awu98",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6291464/ouwejan-teruggezet-naar-beloftenploeg-schalke-04-vanwege-respectloos-gedrag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291463,
     "slug": "ten-hag-geniet-van-omhaal-garnacho-maar-hij-is-nog-geen-ronaldo-of-rooney",
     "type": "article",
@@ -282,7 +305,7 @@
     "title": "Real aan kop dankzij prachtgoals Rodrygo, Sevilla onderuit richting duel met PSV",
     "subtitle": null,
     "published_at": "2023-11-26T18:14:38+01:00",
-    "updated_at": "2023-11-26T21:09:25+01:00",
+    "updated_at": "2023-11-26T21:30:54+01:00",
     "media_id": "cxbx0q3a9or8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6291433/united-van-ten-hag-boekt-mede-dankzij-wondergoal-garnacho-derde-zege-op-rij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291422,
-    "slug": "handbalsters-verliezen-nipt-van-hongarije-in-uitzwaaiwedstrijd-voor-wk",
-    "type": "article",
-    "title": "Handbalsters verliezen nipt van Hongarije in uitzwaaiwedstrijd voor WK",
-    "subtitle": null,
-    "published_at": "2023-11-26T16:49:56+01:00",
-    "updated_at": "2023-11-26T18:19:04+01:00",
-    "media_id": "svmxhazasvpe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291422/handbalsters-verliezen-nipt-van-hongarije-in-uitzwaaiwedstrijd-voor-wk.html",
     "open_new_window": false,
     "partner": null
   }
