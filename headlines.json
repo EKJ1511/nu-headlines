@@ -1,12 +1,35 @@
 [
   {
-    "id": 6291699,
-    "slug": "radiozender-giel-beelen-nu-overal-op-fm-te-horen-met-nieuwe-muziek",
+    "id": 6291714,
+    "slug": "black-friday-was-geen-groot-succes-in-de-winkelstraten-wel-online",
     "type": "article",
-    "title": "Radiozender Giel Beelen nu overal op FM te horen, met nieuwe muziek",
+    "title": "Black Friday was geen groot succes in de winkelstraten, wel online",
+    "subtitle": null,
+    "published_at": "2023-11-28T16:51:26+01:00",
+    "updated_at": "2023-11-28T16:51:27+01:00",
+    "media_id": "s2lxxv9afplu",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6291714/black-friday-was-geen-groot-succes-in-de-winkelstraten-wel-online.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291699,
+    "slug": "radiozender-giel-beelen-nu-overal-op-fm-te-horen-met-andere-muziek",
+    "type": "article",
+    "title": "Radiozender Giel Beelen nu overal op FM te horen, met andere muziek",
     "subtitle": null,
     "published_at": "2023-11-28T16:20:42+01:00",
-    "updated_at": "2023-11-28T16:32:19+01:00",
+    "updated_at": "2023-11-28T16:36:59+01:00",
     "media_id": "8brx5oxa7t8q",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6291699/radiozender-giel-beelen-nu-overal-op-fm-te-horen-met-nieuwe-muziek.html",
+    "url": "/media/6291699/radiozender-giel-beelen-nu-overal-op-fm-te-horen-met-andere-muziek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,13 +70,13 @@
   },
   {
     "id": 6291702,
-    "slug": "drievoudig-oranje-international-marcellis-mentaal-begeleider-topdarters-op-wk",
+    "slug": "oud-international-dirk-marcellis-begeleidt-darters-als-van-barneveld-op-wk",
     "type": "article",
-    "title": "Drievoudig Oranje-international Marcellis mentaal begeleider topdarters op WK",
+    "title": "Oud-international Dirk Marcellis begeleidt darters als Van Barneveld op WK",
     "subtitle": null,
     "published_at": "2023-11-28T16:15:00+01:00",
-    "updated_at": "2023-11-28T16:15:02+01:00",
-    "media_id": "hmdxvs9ahrrd",
+    "updated_at": "2023-11-28T16:52:03+01:00",
+    "media_id": "evpxl6oafxdf",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6291702/drievoudig-oranje-international-marcellis-mentaal-begeleider-topdarters-op-wk.html",
+    "url": "/sport-overig/6291702/oud-international-dirk-marcellis-begeleidt-darters-als-van-barneveld-op-wk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6291679/oekraine-en-baltische-staten-boycotten-ovse-overleg-omdat-rusland-komt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291680,
-    "slug": "agent-die-veel-te-hard-reed-en-dodelijk-ongeluk-veroorzaakte-krijgt-taakstraf",
-    "type": "article",
-    "title": "Agent die veel te hard reed en dodelijk ongeluk veroorzaakte krijgt taakstraf",
-    "subtitle": null,
-    "published_at": "2023-11-28T14:01:50+01:00",
-    "updated_at": "2023-11-28T15:37:42+01:00",
-    "media_id": "7byxp4ba6a8c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6291680/agent-die-veel-te-hard-reed-en-dodelijk-ongeluk-veroorzaakte-krijgt-taakstraf.html",
     "open_new_window": false,
     "partner": null
   }
