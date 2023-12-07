@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293006,
+    "slug": "powned-voorzitter-overweegt-klacht-tegen-politie-na-voorval-op-ameland",
+    "type": "article",
+    "title": "PowNed-voorzitter overweegt klacht tegen politie na voorval op Ameland",
+    "subtitle": null,
+    "published_at": "2023-12-07T10:31:53+01:00",
+    "updated_at": "2023-12-07T10:31:57+01:00",
+    "media_id": "hh3xra0aecjg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6293006/powned-voorzitter-overweegt-klacht-tegen-politie-na-voorval-op-ameland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293000,
     "slug": "reddingsactie-voor-scheve-toren-gaat-italiaanse-stad-bologna-miljoenen-kosten",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Een op zes huiseigenaren leende voor aankoop van woning geld bij familie",
     "subtitle": null,
     "published_at": "2023-12-07T09:19:21+01:00",
-    "updated_at": "2023-12-07T09:19:40+01:00",
+    "updated_at": "2023-12-07T10:24:33+01:00",
     "media_id": "s16x59paxiib",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6292975/zon-laat-zich-vandaag-wel-zien-maar-zal-nauwelijks-te-voelen-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292974,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-12-07T05:13:22+01:00",
-    "updated_at": "2023-12-07T05:13:23+01:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778843,
-      "slug": "login-vereist",
-      "type": "default",
-      "name": "login-vereist",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/login-vereist/6292974/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
