@@ -1,12 +1,35 @@
 [
   {
+    "id": 6293986,
+    "slug": "nieuwe-film-van-new-kids-team-te-zien-op-filmfestival-rotterdam",
+    "type": "article",
+    "title": "Nieuwe film van New Kids-team te zien op Filmfestival Rotterdam",
+    "subtitle": null,
+    "published_at": "2023-12-14T08:50:24+01:00",
+    "updated_at": "2023-12-14T08:50:26+01:00",
+    "media_id": "gahxs8uaickb",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6293986/nieuwe-film-van-new-kids-team-te-zien-op-filmfestival-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293984,
     "slug": "meer-mensen-genaturaliseerd-tot-nederlander-voornamelijk-syriers",
     "type": "article",
     "title": "Meer mensen genaturaliseerd tot Nederlander, voornamelijk Syriërs",
     "subtitle": null,
     "published_at": "2023-12-14T08:32:53+01:00",
-    "updated_at": "2023-12-14T08:32:55+01:00",
+    "updated_at": "2023-12-14T08:46:12+01:00",
     "media_id": "antxtppax2hy",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Wieffer genadeloos voor Feyenoord na verlies bij Celtic: 'Zo winnen we nooit wat'",
     "subtitle": null,
     "published_at": "2023-12-14T07:57:40+01:00",
-    "updated_at": "2023-12-14T08:05:57+01:00",
+    "updated_at": "2023-12-14T08:51:00+01:00",
     "media_id": "aulx2hgaey5s",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6293977,
-    "slug": "oprah-winfrey-showt-nieuwe-look-medicijnen-helpen-me-op-gewicht-te-blijven",
+    "slug": "oprah-winfrey-is-flink-afgevallen-medicijnen-helpen-me-op-gewicht-te-blijven",
     "type": "article",
-    "title": "Oprah Winfrey showt nieuwe look: 'Medicijnen helpen me op gewicht te blijven'",
+    "title": "Oprah Winfrey is flink afgevallen: 'Medicijnen helpen me op gewicht te blijven'",
     "subtitle": null,
     "published_at": "2023-12-14T07:15:32+01:00",
-    "updated_at": "2023-12-14T07:41:23+01:00",
+    "updated_at": "2023-12-14T08:49:55+01:00",
     "media_id": "yg8x3m7aqksx",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6293977/oprah-winfrey-showt-nieuwe-look-medicijnen-helpen-me-op-gewicht-te-blijven.html",
+    "url": "/achterklap/6293977/oprah-winfrey-is-flink-afgevallen-medicijnen-helpen-me-op-gewicht-te-blijven.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Volop Nederlanders en kleurrijke spelers: dit moet je weten over WK darts",
     "subtitle": "NU+",
     "published_at": "2023-12-14T05:05:35+01:00",
-    "updated_at": "2023-12-14T07:21:10+01:00",
+    "updated_at": "2023-12-14T08:36:46+01:00",
     "media_id": "x51xo1jann73",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Kabinet ontraadt motie van Yesilgöz over spreidingswet asielopvang",
     "subtitle": null,
     "published_at": "2023-12-14T00:22:52+01:00",
-    "updated_at": "2023-12-14T07:08:06+01:00",
+    "updated_at": "2023-12-14T08:46:28+01:00",
     "media_id": "1shxk2fa8tis",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6293971/kabinet-ontraadt-motie-van-yesilgoz-over-spreidingswet-asielopvang.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293970,
-    "slug": "weer-sportgeweld-in-turkije-volleybalsters-verwond-door-boze-toeschouwers",
-    "type": "article",
-    "title": "Wéér sportgeweld in Turkije: volleybalsters verwond door boze toeschouwers",
-    "subtitle": null,
-    "published_at": "2023-12-13T23:57:29+01:00",
-    "updated_at": "2023-12-13T23:57:39+01:00",
-    "media_id": "xbtxqp5ahx4d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6293970/weer-sportgeweld-in-turkije-volleybalsters-verwond-door-boze-toeschouwers.html",
     "open_new_window": false,
     "partner": null
   }
