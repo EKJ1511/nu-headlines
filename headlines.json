@@ -1,12 +1,58 @@
 [
   {
+    "id": 6294606,
+    "slug": "bosz-kijkt-uit-naar-reunie-met-dortmund-bvb-coach-ziet-grote-kans-op-kwartfinale",
+    "type": "article",
+    "title": "Bosz kijkt uit naar reünie met Dortmund, BVB-coach ziet grote kans op kwartfinale",
+    "subtitle": null,
+    "published_at": "2023-12-18T14:41:34+01:00",
+    "updated_at": "2023-12-18T14:41:35+01:00",
+    "media_id": "mbhx9nfaqwl8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6294606/bosz-kijkt-uit-naar-reunie-met-dortmund-bvb-coach-ziet-grote-kans-op-kwartfinale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294604,
+    "slug": "maxime-meiland-gaat-geen-bemiddelingstraject-aan-met-vermeende-verkrachter",
+    "type": "article",
+    "title": "Maxime Meiland gaat geen bemiddelingstraject aan met vermeende verkrachter",
+    "subtitle": null,
+    "published_at": "2023-12-18T14:26:17+01:00",
+    "updated_at": "2023-12-18T14:26:18+01:00",
+    "media_id": "k9fx28ja3kgc",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6294604/maxime-meiland-gaat-geen-bemiddelingstraject-aan-met-vermeende-verkrachter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294588,
     "slug": "ajax-neemt-het-op-tegen-bodglimt-in-tussenronde-conference-league",
     "type": "article",
     "title": "Ajax neemt het op tegen Bodø/Glimt in tussenronde Conference League",
     "subtitle": null,
     "published_at": "2023-12-18T14:16:45+01:00",
-    "updated_at": "2023-12-18T14:22:56+01:00",
+    "updated_at": "2023-12-18T14:48:49+01:00",
     "media_id": "zr6xygxaedrl",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Dertig jaar cel voor dubbele moord in Zwols McDonald's-restaurant",
     "subtitle": null,
     "published_at": "2023-12-18T13:27:03+01:00",
-    "updated_at": "2023-12-18T13:57:35+01:00",
+    "updated_at": "2023-12-18T14:35:35+01:00",
     "media_id": "hwnxes0absan",
     "duration": null,
     "canonical_section": {
@@ -213,8 +259,8 @@
     "title": "Ook oliemaatschappij BP vaart voorlopig niet meer over de Rode Zee",
     "subtitle": null,
     "published_at": "2023-12-18T13:00:02+01:00",
-    "updated_at": "2023-12-18T13:00:04+01:00",
-    "media_id": "helxi8oab5sr",
+    "updated_at": "2023-12-18T14:50:47+01:00",
+    "media_id": "ni1x18va9gme",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6294575/australische-dorpen-van-buitenwereld-afgesneden-door-overstroming.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294573,
-    "slug": "live-europese-lotingen-na-psv-en-feyenoord-is-ajax-aan-de-beurt",
-    "type": "article",
-    "title": "Live Europese lotingen | Na PSV en Feyenoord is Ajax aan de beurt",
-    "subtitle": null,
-    "published_at": "2023-12-18T11:39:39+01:00",
-    "updated_at": "2023-12-18T13:55:55+01:00",
-    "media_id": "ymjxtp5a1mbt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6294573/live-europese-lotingen-na-psv-en-feyenoord-is-ajax-aan-de-beurt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294570,
-    "slug": "honderden-kerstmannen-fietsen-door-rome-voor-goed-doel",
-    "type": "video",
-    "title": "Honderden kerstmannen fietsen door Rome voor goed doel",
-    "subtitle": "Video",
-    "published_at": "2023-12-18T11:13:01+01:00",
-    "updated_at": "2023-12-18T11:13:23+01:00",
-    "media_id": "podxt7ja1g89",
-    "duration": "0:31",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6294570/honderden-kerstmannen-fietsen-door-rome-voor-goed-doel.html",
     "open_new_window": false,
     "partner": null
   }
