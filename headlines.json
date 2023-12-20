@@ -1,5 +1,28 @@
 [
   {
+    "id": 6294910,
+    "slug": "water-metershoog-de-lucht-in-na-gesprongen-waterleiding-in-den-haag",
+    "type": "video",
+    "title": "Water metershoog de lucht in na gesprongen waterleiding in Den Haag",
+    "subtitle": "Video",
+    "published_at": "2023-12-20T13:53:18+01:00",
+    "updated_at": "2023-12-20T13:53:19+01:00",
+    "media_id": "g75xrjrab642",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6294910/water-metershoog-de-lucht-in-na-gesprongen-waterleiding-in-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294903,
     "slug": "acht-jaar-cel-en-tbs-voor-leraar-die-online-zeventig-kinderen-seksueel-misbruikte",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Historisch Fries gemaal gehuld in stoom na opstarten",
     "subtitle": "Video",
     "published_at": "2023-12-20T12:43:43+01:00",
-    "updated_at": "2023-12-20T12:43:44+01:00",
+    "updated_at": "2023-12-20T13:40:16+01:00",
     "media_id": "hmexnzsa41t8",
     "duration": "0:48",
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "'Onschuldige' Sanil B. richt zich tot OM in Mallorca-zaak: 'Kunt u wel slapen?'",
     "subtitle": null,
     "published_at": "2023-12-20T11:31:26+01:00",
-    "updated_at": "2023-12-20T13:28:15+01:00",
+    "updated_at": "2023-12-20T13:38:22+01:00",
     "media_id": "3n7x90ta78tl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6294862/autos-drijven-over-ondergelopen-amerikaanse-parkeerplaats.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294860,
-    "slug": "pc-hooft-prijs-voor-poezie-gaat-naar-dichter-astrid-lampe",
-    "type": "article",
-    "title": "P.C. Hooft-prijs voor poëzie gaat naar dichter Astrid Lampe",
-    "subtitle": null,
-    "published_at": "2023-12-20T09:55:56+01:00",
-    "updated_at": "2023-12-20T09:55:57+01:00",
-    "media_id": "isbx1h4adlfx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6294860/pc-hooft-prijs-voor-poezie-gaat-naar-dichter-astrid-lampe.html",
     "open_new_window": false,
     "partner": null
   }
