@@ -1,12 +1,35 @@
 [
   {
+    "id": 6294917,
+    "slug": "tot-zeven-jaar-cel-voor-betrokkenen-bij-martelcontainers-in-west-brabant",
+    "type": "article",
+    "title": "Tot zeven jaar cel voor betrokkenen bij martelcontainers in West-Brabant",
+    "subtitle": null,
+    "published_at": "2023-12-20T14:53:43+01:00",
+    "updated_at": "2023-12-20T14:53:46+01:00",
+    "media_id": "ku8x36za1qgj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6294917/tot-zeven-jaar-cel-voor-betrokkenen-bij-martelcontainers-in-west-brabant.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294915,
     "slug": "asielopvang-in-hotel-uden-zeker-twee-dagen-uitgesteld-door-rechter",
     "type": "article",
     "title": "Asielopvang in hotel Uden zeker twee dagen uitgesteld door rechter",
     "subtitle": null,
     "published_at": "2023-12-20T14:22:57+01:00",
-    "updated_at": "2023-12-20T14:33:00+01:00",
+    "updated_at": "2023-12-20T14:38:09+01:00",
     "media_id": "gotxvjqaxzyb",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Desi Bouterse krijgt ook in hoger beroep twintig jaar cel voor Decembermoorden",
     "subtitle": null,
     "published_at": "2023-12-20T14:19:25+01:00",
-    "updated_at": "2023-12-20T14:32:36+01:00",
+    "updated_at": "2023-12-20T14:51:00+01:00",
     "media_id": "6ptxbbqamnuj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6294883/moeder-en-kind-ontsnappen-maar-net-aan-autocrash-in-vk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294781,
-    "slug": "op-kamers-of-langer-bij-je-ouders-praat-mee-over-uit-huis-gaan",
-    "type": "article",
-    "title": "Op kamers of langer bij je ouders? Praat mee over uit huis gaan",
-    "subtitle": "Praat mee",
-    "published_at": "2023-12-20T11:01:26+01:00",
-    "updated_at": "2023-12-20T11:02:43+01:00",
-    "media_id": "4qvxicvawmvz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6294781/op-kamers-of-langer-bij-je-ouders-praat-mee-over-uit-huis-gaan.html",
     "open_new_window": false,
     "partner": null
   }
