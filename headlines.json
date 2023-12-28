@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295855,
+    "slug": "vs-stuurt-voorlopig-laatste-steunpakket-naar-oekraine-congres-ligt-dwars",
+    "type": "article",
+    "title": "VS stuurt voorlopig laatste steunpakket naar Oekraïne, Congres ligt dwars",
+    "subtitle": null,
+    "published_at": "2023-12-28T10:42:38+01:00",
+    "updated_at": "2023-12-28T10:42:40+01:00",
+    "media_id": "km9xy58anag0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6295855/vs-stuurt-voorlopig-laatste-steunpakket-naar-oekraine-congres-ligt-dwars.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295853,
     "slug": "passagiersvliegtuig-landt-per-ongeluk-op-bevroren-rivier-in-rusland",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6295323/de-wagner-group-zette-poetin-voor-schut-wat-doen-de-strijders-nu.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295819,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-12-28T05:34:25+01:00",
-    "updated_at": "2023-12-28T05:34:27+01:00",
-    "media_id": "vunx81iava32",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779164,
-      "slug": "het-woord",
-      "type": "default",
-      "name": "Het Woord",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/het-woord/6295819/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
