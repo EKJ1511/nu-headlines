@@ -1,5 +1,51 @@
 [
   {
+    "id": 6296375,
+    "slug": "bitcoin-koers-bereikt-hoogste-stand-in-bijna-twee-jaar-tijd",
+    "type": "article",
+    "title": "Bitcoin-koers bereikt hoogste stand in bijna twee jaar tijd",
+    "subtitle": null,
+    "published_at": "2024-01-02T08:51:52+01:00",
+    "updated_at": "2024-01-02T08:51:53+01:00",
+    "media_id": "hy2xm5qafzx2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6296375/bitcoin-koers-bereikt-hoogste-stand-in-bijna-twee-jaar-tijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296374,
+    "slug": "dode-en-tientallen-gewonden-bij-russische-aanvallen-op-oekraiense-steden",
+    "type": "article",
+    "title": "Dode en tientallen gewonden bij Russische aanvallen op Oekraïense steden",
+    "subtitle": null,
+    "published_at": "2024-01-02T08:44:02+01:00",
+    "updated_at": "2024-01-02T08:44:03+01:00",
+    "media_id": "i47xi98ayms5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6296374/dode-en-tientallen-gewonden-bij-russische-aanvallen-op-oekraiense-steden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296370,
     "slug": "moeizaam-einde-van-matig-jaar-voor-nederlandse-industrie",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6296355/scorende-gakpo-en-uitblinker-salah-leiden-liverpool-naar-zege-op-newcastle.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296353,
-    "slug": "twaalf-mensen-opgepakt-na-plunderen-politiebus-antwerpen-op-oudejaarsavond",
-    "type": "article",
-    "title": "Twaalf mensen opgepakt na plunderen politiebus Antwerpen op Oudejaarsavond",
-    "subtitle": null,
-    "published_at": "2024-01-01T22:51:24+01:00",
-    "updated_at": "2024-01-01T23:06:49+01:00",
-    "media_id": "px4xk3gae1mu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296353/twaalf-mensen-opgepakt-na-plunderen-politiebus-antwerpen-op-oudejaarsavond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296354,
-    "slug": "stunt-op-wk-darts-michael-van-gerwen-uitgeschakeld-door-scott-williams",
-    "type": "video",
-    "title": "Stunt op WK darts: Michael van Gerwen uitgeschakeld door Scott Williams",
-    "subtitle": "Video",
-    "published_at": "2024-01-01T22:49:56+01:00",
-    "updated_at": "2024-01-01T22:49:57+01:00",
-    "media_id": "nqwx4pfaq0b3",
-    "duration": "2:01",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6296354/stunt-op-wk-darts-michael-van-gerwen-uitgeschakeld-door-scott-williams.html",
     "open_new_window": false,
     "partner": null
   }
