@@ -1,12 +1,35 @@
 [
   {
+    "id": 6296372,
+    "slug": "depressie-en-sociale-isolatie-verhogen-risico-op-dementie-op-jonge-leeftijd",
+    "type": "article",
+    "title": "Depressie en sociale isolatie verhogen risico op dementie op jonge leeftijd",
+    "subtitle": null,
+    "published_at": "2024-01-02T08:59:22+01:00",
+    "updated_at": "2024-01-02T08:59:23+01:00",
+    "media_id": "p7sx7qkaldkf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6296372/depressie-en-sociale-isolatie-verhogen-risico-op-dementie-op-jonge-leeftijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296375,
     "slug": "bitcoin-koers-bereikt-hoogste-stand-in-bijna-twee-jaar-tijd",
     "type": "article",
     "title": "Bitcoin-koers bereikt hoogste stand in bijna twee jaar tijd",
     "subtitle": null,
     "published_at": "2024-01-02T08:51:52+01:00",
-    "updated_at": "2024-01-02T08:51:53+01:00",
+    "updated_at": "2024-01-02T09:22:27+01:00",
     "media_id": "hy2xm5qafzx2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6296356/freek-jansen-geeft-fvd-kamerzetel-voor-half-jaar-aan-pepijn-van-houwelingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296355,
-    "slug": "scorende-gakpo-en-uitblinker-salah-leiden-liverpool-naar-zege-op-newcastle",
-    "type": "article",
-    "title": "Scorende Gakpo en uitblinker Salah leiden Liverpool naar zege op Newcastle",
-    "subtitle": null,
-    "published_at": "2024-01-01T22:58:27+01:00",
-    "updated_at": "2024-01-02T08:07:08+01:00",
-    "media_id": "62nxlqaau3wc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6296355/scorende-gakpo-en-uitblinker-salah-leiden-liverpool-naar-zege-op-newcastle.html",
     "open_new_window": false,
     "partner": null
   }
