@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296599,
+    "slug": "ademende-robot-nu-vergoed-door-verzekering-einde-slaapproblemen",
+    "type": "video",
+    "title": "Ademende robot nu vergoed door verzekering: einde slaapproblemen?",
+    "subtitle": "Explainer",
+    "published_at": "2024-01-04T06:35:38+01:00",
+    "updated_at": "2024-01-04T06:35:39+01:00",
+    "media_id": "x0px82bai68v",
+    "duration": "2:30",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6296599/ademende-robot-nu-vergoed-door-verzekering-einde-slaapproblemen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296653,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Rechtbank VS geeft namen vrij van mensen die banden hadden met Jeffrey Epstein",
     "subtitle": null,
     "published_at": "2024-01-04T05:38:01+01:00",
-    "updated_at": "2024-01-04T05:56:48+01:00",
+    "updated_at": "2024-01-04T06:22:03+01:00",
     "media_id": "xkvxijyafoi5",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Trump officieel in beroep tegen uitsluiting voorverkiezingen Colorado",
     "subtitle": null,
     "published_at": "2024-01-04T00:09:58+01:00",
-    "updated_at": "2024-01-04T00:09:59+01:00",
+    "updated_at": "2024-01-04T06:34:14+01:00",
     "media_id": "i9pxmi0ar1kj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6296643/honderden-dode-vissen-drijven-in-chinees-meer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296639,
-    "slug": "international-merel-van-dongen-kiest-voor-opvallende-overstap-naar-monterrey",
-    "type": "article",
-    "title": "International Merel van Dongen kiest voor opvallende overstap naar Monterrey",
-    "subtitle": null,
-    "published_at": "2024-01-03T21:46:30+01:00",
-    "updated_at": "2024-01-03T21:52:50+01:00",
-    "media_id": "x54x2v2a9tk7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6296639/international-merel-van-dongen-kiest-voor-opvallende-overstap-naar-monterrey.html",
     "open_new_window": false,
     "partner": null
   }
