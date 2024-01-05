@@ -1,12 +1,35 @@
 [
   {
+    "id": 6296871,
+    "slug": "nederlandse-schaatssters-pakken-ek-goud-op-teamsprint-na-moeizame-race",
+    "type": "article",
+    "title": "Nederlandse schaatssters pakken EK-goud op teamsprint na moeizame race",
+    "subtitle": null,
+    "published_at": "2024-01-05T19:53:45+01:00",
+    "updated_at": "2024-01-05T19:53:47+01:00",
+    "media_id": "sghxhihav9xo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6296871/nederlandse-schaatssters-pakken-ek-goud-op-teamsprint-na-moeizame-race.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296870,
     "slug": "presentator-khalid-kasem-legt-voorlopig-werk-neer-bij-bnnvara-na-beschuldiging-omkoping",
     "type": "article",
     "title": "Presentator Khalid Kasem legt voorlopig werk neer bij BNNVARA na beschuldiging omkoping",
     "subtitle": null,
     "published_at": "2024-01-05T19:12:31+01:00",
-    "updated_at": "2024-01-05T19:37:00+01:00",
+    "updated_at": "2024-01-05T19:43:28+01:00",
     "media_id": "sy3x7q8a7fg6",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "OM onderzoekt minder geweldszaken rondom jaarwisseling dan vorig jaar",
     "subtitle": null,
     "published_at": "2024-01-05T19:05:28+01:00",
-    "updated_at": "2024-01-05T19:24:21+01:00",
+    "updated_at": "2024-01-05T19:40:20+01:00",
     "media_id": "1txx1gdalvyg",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6296863,
-    "slug": "live-ek-schaatsen-vrouwen-trappen-eerste-dag-af-op-teamsprint",
+    "slug": "live-ek-schaatsen-na-hectische-aanloop-gaan-mannen-voor-plak-op-achtervolging",
     "type": "article",
-    "title": "Live EK schaatsen | Vrouwen trappen eerste dag af op teamsprint",
+    "title": "Live EK schaatsen | Na hectische aanloop gaan mannen voor plak op achtervolging",
     "subtitle": null,
     "published_at": "2024-01-05T18:58:53+01:00",
-    "updated_at": "2024-01-05T19:26:36+01:00",
+    "updated_at": "2024-01-05T19:52:10+01:00",
     "media_id": "9w5xzsqau84d",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6296863/live-ek-schaatsen-vrouwen-trappen-eerste-dag-af-op-teamsprint.html",
+    "url": "/schaatsen/6296863/live-ek-schaatsen-na-hectische-aanloop-gaan-mannen-voor-plak-op-achtervolging.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formatie-2023/6296836/pvv-vvd-nsc-en-bbb-formeren-vanaf-komende-dinsdag-verder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296848,
-    "slug": "amateurs-hercules-spelen-na-bekerstunt-tegen-ajax-niet-opnieuw-in-galgenwaard",
-    "type": "article",
-    "title": "Amateurs Hercules spelen na bekerstunt tegen Ajax niet opnieuw in Galgenwaard",
-    "subtitle": null,
-    "published_at": "2024-01-05T15:25:04+01:00",
-    "updated_at": "2024-01-05T15:25:06+01:00",
-    "media_id": "8xax2bjatfa4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6296848/amateurs-hercules-spelen-na-bekerstunt-tegen-ajax-niet-opnieuw-in-galgenwaard.html",
     "open_new_window": false,
     "partner": null
   }
