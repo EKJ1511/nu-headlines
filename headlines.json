@@ -1,12 +1,35 @@
 [
   {
-    "id": 6297001,
-    "slug": "judd-apatow-noemt-keuze-oscarcomite-over-barbie-beledigend",
+    "id": 6296999,
+    "slug": "defensie-blijft-stenen-droppen-om-water-bij-beschadigde-dam-maastricht-af-te-remmen",
     "type": "article",
-    "title": "Judd Apatow noemt keuze Oscarcomité over Barbie ‘beledigend’",
+    "title": "Defensie blijft stenen droppen om water bij beschadigde dam Maastricht af te remmen",
+    "subtitle": null,
+    "published_at": "2024-01-07T11:50:56+01:00",
+    "updated_at": "2024-01-07T11:50:57+01:00",
+    "media_id": "ftix3gba2fbj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6296999/defensie-blijft-stenen-droppen-om-water-bij-beschadigde-dam-maastricht-af-te-remmen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297001,
+    "slug": "judd-apatow-noemt-besluit-oscarcomite-over-classificatie-barbie-beledigend",
+    "type": "article",
+    "title": "Judd Apatow noemt besluit Oscarcomité over classificatie Barbie 'beledigend'",
     "subtitle": null,
     "published_at": "2024-01-07T11:31:40+01:00",
-    "updated_at": "2024-01-07T11:31:42+01:00",
+    "updated_at": "2024-01-07T11:42:24+01:00",
     "media_id": "fa5xf0qaboi5",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6297001/judd-apatow-noemt-keuze-oscarcomite-over-barbie-beledigend.html",
+    "url": "/film/6297001/judd-apatow-noemt-besluit-oscarcomite-over-classificatie-barbie-beledigend.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Club reist 26 uur en 14.000 kilometer voor Frans bekerduel en verliest met 12-0",
     "subtitle": null,
     "published_at": "2024-01-07T08:48:13+01:00",
-    "updated_at": "2024-01-07T09:40:22+01:00",
+    "updated_at": "2024-01-07T11:50:20+01:00",
     "media_id": "hinx0slad531",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6296983/reddingswerkers-japan-halen-week-na-beving-90-jarige-vrouw-levend-uit-puin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296982,
-    "slug": "motsneeuw-en-vrieskou-leiden-periode-van-winterweer-in",
-    "type": "article",
-    "title": "Motsneeuw en vrieskou leiden periode van winterweer in",
-    "subtitle": "Weerbericht ",
-    "published_at": "2024-01-07T06:35:09+01:00",
-    "updated_at": "2024-01-07T10:45:04+01:00",
-    "media_id": "2joxyb6adch2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6296982/motsneeuw-en-vrieskou-leiden-periode-van-winterweer-in.html",
     "open_new_window": false,
     "partner": null
   }
