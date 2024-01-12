@@ -1,5 +1,51 @@
 [
   {
+    "id": 6297567,
+    "slug": "cryptohandelaar-uit-hengelo-verduistert-miljoenen-euros-van-honderden-mensen",
+    "type": "article",
+    "title": "Cryptohandelaar uit Hengelo verduistert miljoenen euro's van honderden mensen",
+    "subtitle": null,
+    "published_at": "2024-01-12T10:52:36+01:00",
+    "updated_at": "2024-01-12T10:52:38+01:00",
+    "media_id": "zlbxnc9a9j2j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6297567/cryptohandelaar-uit-hengelo-verduistert-miljoenen-euros-van-honderden-mensen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297569,
+    "slug": "israel-in-genocidezaak-enige-oplossing-is-eliminatie-van-hamas",
+    "type": "video",
+    "title": "Israël in genocidezaak: 'Enige oplossing is eliminatie van Hamas'",
+    "subtitle": "Video",
+    "published_at": "2024-01-12T10:43:43+01:00",
+    "updated_at": "2024-01-12T10:43:44+01:00",
+    "media_id": "nbrxcg6awnez",
+    "duration": "1:14",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297569/israel-in-genocidezaak-enige-oplossing-is-eliminatie-van-hamas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297561,
     "slug": "wie-zijn-de-houthis-die-schepen-op-de-rode-zee-aanvallen",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Onderzoekers vinden 2.500 jaar oude 'verloren stad' in Amazonegebied Ecuador",
     "subtitle": null,
     "published_at": "2024-01-12T10:00:53+01:00",
-    "updated_at": "2024-01-12T10:04:55+01:00",
+    "updated_at": "2024-01-12T10:33:58+01:00",
     "media_id": "58mxo11ax1u6",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/het-woord/6297536/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297226,
-    "slug": "froukje-vindt-liedjes-schrijven-moeilijker-worden-ben-minder-onbevangen",
-    "type": "article",
-    "title": "Froukje vindt liedjes schrijven moeilijker worden: 'Ben minder onbevangen'",
-    "subtitle": "NU+",
-    "published_at": "2024-01-12T05:07:16+01:00",
-    "updated_at": "2024-01-12T10:15:54+01:00",
-    "media_id": "m6rxupzavtd1",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6297226/froukje-vindt-liedjes-schrijven-moeilijker-worden-ben-minder-onbevangen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297229,
-    "slug": "kenners-voorspellen-ajax-haalt-az-in-saibari-ruim-60-miljoen-euro-waard",
-    "type": "article",
-    "title": "Kenners voorspellen: 'Ajax haalt AZ in, Saibari ruim 60 miljoen euro waard'",
-    "subtitle": "NU+",
-    "published_at": "2024-01-12T05:06:21+01:00",
-    "updated_at": "2024-01-12T05:15:47+01:00",
-    "media_id": "wyrxa1pacz56",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297229/kenners-voorspellen-ajax-haalt-az-in-saibari-ruim-60-miljoen-euro-waard.html",
     "open_new_window": false,
     "partner": null
   }
