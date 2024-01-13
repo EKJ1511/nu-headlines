@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297707,
+    "slug": "wat-je-online-deelt-van-je-priveleven-mag-geen-consequenties-hebben-voor-je-werk",
+    "type": "article",
+    "title": "'Wat je online deelt van je privéleven, mag geen consequenties hebben voor je werk'",
+    "subtitle": "Stelling",
+    "published_at": "2024-01-13T16:30:25+01:00",
+    "updated_at": "2024-01-13T16:30:35+01:00",
+    "media_id": "kr6x36la3w0v",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6297707/wat-je-online-deelt-van-je-priveleven-mag-geen-consequenties-hebben-voor-je-werk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297711,
     "slug": "vorming-van-sterren-is-afgelopen-tien-miljard-jaar-niet-veranderd",
     "type": "article",
@@ -29,8 +52,8 @@
     "title": "Live Eredivisie | Sparta wil bij Fortuna weer eens competitieduel winnen",
     "subtitle": null,
     "published_at": "2024-01-13T15:57:41+01:00",
-    "updated_at": "2024-01-13T16:03:07+01:00",
-    "media_id": "78nxp3ra6wf0",
+    "updated_at": "2024-01-13T16:21:43+01:00",
+    "media_id": "5vexgg4ad0sw",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -259,7 +282,7 @@
     "title": "China-kritische partij die voor Taiwanese onafhankelijkheid is wint verkiezingen",
     "subtitle": null,
     "published_at": "2024-01-13T13:44:22+01:00",
-    "updated_at": "2024-01-13T16:11:58+01:00",
+    "updated_at": "2024-01-13T16:20:13+01:00",
     "media_id": "iczxb3yasftn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6297577/personeelstekort-blijft-groot-veel-monteurs-boas-en-zorgmedewerkers-gezocht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297690,
-    "slug": "man-die-zichzelf-in-biografie-herkent-doet-tweede-aangifte-tegen-maxime-meiland",
-    "type": "article",
-    "title": "Man die zichzelf in biografie herkent, doet tweede aangifte tegen Maxime Meiland",
-    "subtitle": null,
-    "published_at": "2024-01-13T11:56:12+01:00",
-    "updated_at": "2024-01-13T12:53:29+01:00",
-    "media_id": "k9fx28ja3kgc",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6297690/man-die-zichzelf-in-biografie-herkent-doet-tweede-aangifte-tegen-maxime-meiland.html",
     "open_new_window": false,
     "partner": null
   }
