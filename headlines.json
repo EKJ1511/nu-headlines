@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297725,
+    "slug": "handballers-maken-korte-metten-met-bosnie-en-bereiken-hoofdfase-ek",
+    "type": "article",
+    "title": "Handballers maken korte metten met Bosnië en bereiken hoofdfase EK",
+    "subtitle": null,
+    "published_at": "2024-01-13T19:34:22+01:00",
+    "updated_at": "2024-01-13T19:34:23+01:00",
+    "media_id": "8p0xm5barn5s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6297725/handballers-maken-korte-metten-met-bosnie-en-bereiken-hoofdfase-ek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297617,
     "slug": "de-techmode-van-2024-zelfs-je-huisdier-krijgt-kunstmatige-intelligentie",
     "type": "article",
@@ -29,8 +52,8 @@
     "title": "Lavreysen overklast Hoogland in titanenduel en bereikt sprintfinale op EK",
     "subtitle": null,
     "published_at": "2024-01-13T18:49:51+01:00",
-    "updated_at": "2024-01-13T19:18:18+01:00",
-    "media_id": "rw7xsmka8gee",
+    "updated_at": "2024-01-13T19:28:38+01:00",
+    "media_id": "awwxnfga8omy",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -75,7 +98,7 @@
     "title": "Pegida-voorman raakt gewond bij poging tot koranverbranding in Arnhem",
     "subtitle": null,
     "published_at": "2024-01-13T18:41:53+01:00",
-    "updated_at": "2024-01-13T19:03:00+01:00",
+    "updated_at": "2024-01-13T19:31:05+01:00",
     "media_id": "dg3xg43ai0mr",
     "duration": null,
     "canonical_section": {
@@ -346,13 +369,13 @@
   },
   {
     "id": 6297709,
-    "slug": "live-eredivisie-az-beleeft-droomstart-tegen-fc-twente-in-strijd-om-plek-drie",
+    "slug": "live-eredivisie-fc-twente-maakt-1-1-tegen-az-in-strijd-om-derde-plaats",
     "type": "article",
-    "title": "Live Eredivisie | AZ beleeft droomstart tegen FC Twente in strijd om plek drie",
+    "title": "Live Eredivisie | FC Twente maakt 1-1 tegen AZ in strijd om derde plaats",
     "subtitle": null,
     "published_at": "2024-01-13T15:57:41+01:00",
-    "updated_at": "2024-01-13T19:12:42+01:00",
-    "media_id": "ns5xk4satdmh",
+    "updated_at": "2024-01-13T19:34:09+01:00",
+    "media_id": "mpax4wja3no6",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6297709/live-eredivisie-az-beleeft-droomstart-tegen-fc-twente-in-strijd-om-plek-drie.html",
+    "url": "/voetbal/6297709/live-eredivisie-fc-twente-maakt-1-1-tegen-az-in-strijd-om-derde-plaats.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6297699/nederlanders-grijpen-naast-ek-goud-op-1500-meter-zilver-boer-op-500-meter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297706,
-    "slug": "maastrichtse-woonbootbewoners-die-terug-naar-huis-mochten-zitten-zonder-water",
-    "type": "article",
-    "title": "Maastrichtse woonbootbewoners die terug naar huis mochten zitten zonder water",
-    "subtitle": null,
-    "published_at": "2024-01-13T15:03:42+01:00",
-    "updated_at": "2024-01-13T15:12:56+01:00",
-    "media_id": "edyx88laqafk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6297706/maastrichtse-woonbootbewoners-die-terug-naar-huis-mochten-zitten-zonder-water.html",
     "open_new_window": false,
     "partner": null
   }
