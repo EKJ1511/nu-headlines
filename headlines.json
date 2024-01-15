@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297849,
+    "slug": "verslaggever-eline-de-zeeuw-nieuwe-presentatrice-bij-nos-sport",
+    "type": "article",
+    "title": "Verslaggever Eline de Zeeuw nieuwe presentatrice bij NOS Sport",
+    "subtitle": null,
+    "published_at": "2024-01-15T10:53:43+01:00",
+    "updated_at": "2024-01-15T10:53:44+01:00",
+    "media_id": "8vbxoofa09k5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6297849/verslaggever-eline-de-zeeuw-nieuwe-presentatrice-bij-nos-sport.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297840,
     "slug": "radio-dj-dennis-ruyer-stapt-toch-niet-over-naar-joe",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Vrachtschepen met vloeibaar gas uit Qatar stoppen vlak voor Rode Zee met varen",
     "subtitle": null,
     "published_at": "2024-01-15T09:08:53+01:00",
-    "updated_at": "2024-01-15T10:11:40+01:00",
+    "updated_at": "2024-01-15T10:40:05+01:00",
     "media_id": "9msxtf6a5f3t",
     "duration": null,
     "canonical_section": {
@@ -397,8 +420,8 @@
     "title": "Susan Visser en Danny de Munk in nieuw seizoen Het Perfecte Plaatje Op Reis",
     "subtitle": null,
     "published_at": "2024-01-15T06:52:34+01:00",
-    "updated_at": "2024-01-15T08:42:32+01:00",
-    "media_id": "blfxkv1aatjs",
+    "updated_at": "2024-01-15T10:49:14+01:00",
+    "media_id": "shux2g6aw9ji",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6297818/uniek-kijkje-in-het-kunstdepot-van-het-rijksmuseum-en-paleis-het-loo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297700,
-    "slug": "ex-militair-lemmen-28-fietst-na-een-profjaar-al-voor-beste-ploeg-ter-wereld",
-    "type": "article",
-    "title": "Ex-militair Lemmen (28) fietst na één profjaar al voor beste ploeg ter wereld",
-    "subtitle": "NU+",
-    "published_at": "2024-01-15T06:10:56+01:00",
-    "updated_at": "2024-01-15T07:51:43+01:00",
-    "media_id": "5g2xmc2a0ir9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6297700/ex-militair-lemmen-28-fietst-na-een-profjaar-al-voor-beste-ploeg-ter-wereld.html",
     "open_new_window": false,
     "partner": null
   }
