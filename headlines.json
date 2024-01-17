@@ -1,5 +1,74 @@
 [
   {
+    "id": 6298100,
+    "slug": "apple-mag-appmakers-in-vs-niet-meer-verbieden-andere-betaalwijze-te-promoten",
+    "type": "article",
+    "title": "Apple mag appmakers in VS niet meer verbieden andere betaalwijze te promoten",
+    "subtitle": null,
+    "published_at": "2024-01-17T09:52:18+01:00",
+    "updated_at": "2024-01-17T09:52:21+01:00",
+    "media_id": "hdjx447afzce",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6298100/apple-mag-appmakers-in-vs-niet-meer-verbieden-andere-betaalwijze-te-promoten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298106,
+    "slug": "douane-heeft-in-2023-meer-cocaine-onderschept-dan-jaar-ervoor",
+    "type": "article",
+    "title": "Douane heeft in 2023 meer cocaïne onderschept dan jaar ervoor",
+    "subtitle": null,
+    "published_at": "2024-01-17T09:52:15+01:00",
+    "updated_at": "2024-01-17T09:52:26+01:00",
+    "media_id": "bw4xx1ua0ttr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6298106/douane-heeft-in-2023-meer-cocaine-onderschept-dan-jaar-ervoor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298096,
+    "slug": "minder-treinen-naar-het-zuiden-vanwege-sneeuw-ochtendspits-valt-mee",
+    "type": "article",
+    "title": "Minder treinen naar het zuiden vanwege sneeuw, ochtendspits valt mee",
+    "subtitle": null,
+    "published_at": "2024-01-17T09:27:56+01:00",
+    "updated_at": "2024-01-17T09:49:10+01:00",
+    "media_id": "rmrxfl6af645",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6298096/minder-treinen-naar-het-zuiden-vanwege-sneeuw-ochtendspits-valt-mee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298094,
     "slug": "az-rekent-pas-na-penaltys-af-met-amateurs-quick-boys-schaamte-overheerst",
     "type": "article",
@@ -29,7 +98,7 @@
     "title": "Auto’s geborgen na dodelijk schietincident in Weiteveen",
     "subtitle": "Video",
     "published_at": "2024-01-17T09:01:55+01:00",
-    "updated_at": "2024-01-17T09:01:57+01:00",
+    "updated_at": "2024-01-17T09:41:22+01:00",
     "media_id": "j9txi6ja16ja",
     "duration": "0:46",
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Sylvie Meis is niet meer samen met ondernemer Wim Beelen",
     "subtitle": null,
     "published_at": "2024-01-17T08:53:54+01:00",
-    "updated_at": "2024-01-17T08:57:33+01:00",
+    "updated_at": "2024-01-17T09:50:33+01:00",
     "media_id": "uc5xzguak9t1",
     "duration": null,
     "canonical_section": {
@@ -70,12 +139,12 @@
   },
   {
     "id": 6298092,
-    "slug": "israel-claimt-terreurcel-op-westelijke-jordaanoever-te-hebben-uitgeschakeld",
+    "slug": "israel-voert-luchtaanval-uit-op-westelijke-jordaanoever",
     "type": "article",
-    "title": "Israël claimt terreurcel op Westelijke Jordaanoever te hebben uitgeschakeld",
+    "title": "Israël voert luchtaanval uit op Westelijke Jordaanoever",
     "subtitle": null,
     "published_at": "2024-01-17T08:50:38+01:00",
-    "updated_at": "2024-01-17T08:51:31+01:00",
+    "updated_at": "2024-01-17T09:52:54+01:00",
     "media_id": "94ox9ugat0yi",
     "duration": null,
     "canonical_section": {
@@ -87,7 +156,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6298092/israel-claimt-terreurcel-op-westelijke-jordaanoever-te-hebben-uitgeschakeld.html",
+    "url": "/midden-oostenconflict/6298092/israel-voert-luchtaanval-uit-op-westelijke-jordaanoever.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +282,7 @@
     "title": "Jesper de Jong maatje te klein voor Sinner in tweede ronde Australian Open",
     "subtitle": null,
     "published_at": "2024-01-17T07:11:23+01:00",
-    "updated_at": "2024-01-17T08:21:15+01:00",
+    "updated_at": "2024-01-17T09:29:29+01:00",
     "media_id": "abkxd8cak4a4",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/het-woord/6298081/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298053,
-    "slug": "documentaire-over-van-der-plas-geeft-bijzonder-inkijkje-politiek-is-keihard",
-    "type": "article",
-    "title": "Documentaire over Van der Plas geeft bijzonder inkijkje: 'Politiek is keihard'",
-    "subtitle": "NU+",
-    "published_at": "2024-01-17T05:02:40+01:00",
-    "updated_at": "2024-01-17T09:18:31+01:00",
-    "media_id": "rkgxw1ca8f78",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6298053/documentaire-over-van-der-plas-geeft-bijzonder-inkijkje-politiek-is-keihard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297887,
-    "slug": "mogen-derdelanders-uit-oekraine-blijven-of-niet-einde-welles-nietesspel-in-zicht",
-    "type": "article",
-    "title": "Mogen derdelanders uit Oekraïne blijven of niet? Einde welles-nietesspel in zicht",
-    "subtitle": null,
-    "published_at": "2024-01-17T05:01:54+01:00",
-    "updated_at": "2024-01-17T07:37:11+01:00",
-    "media_id": "qecxx4dazqsa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6297887/mogen-derdelanders-uit-oekraine-blijven-of-niet-einde-welles-nietesspel-in-zicht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298048,
-    "slug": "waarom-het-zo-vaak-fout-ging-met-zaaddonorbanken-en-sjoemeldoktoren",
-    "type": "article",
-    "title": "Waarom het zo vaak fout ging met zaaddonorbanken en 'sjoemeldoktoren'",
-    "subtitle": null,
-    "published_at": "2024-01-17T05:01:11+01:00",
-    "updated_at": "2024-01-17T09:03:34+01:00",
-    "media_id": "24xxbk7awmu4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6298048/waarom-het-zo-vaak-fout-ging-met-zaaddonorbanken-en-sjoemeldoktoren.html",
     "open_new_window": false,
     "partner": null
   }
