@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298583,
+    "slug": "knmi-waarschuwt-voor-verraderlijke-gladheid-door-ijzel",
+    "type": "article",
+    "title": "KNMI waarschuwt voor verraderlijke gladheid door ijzel",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-01-21T05:44:23+01:00",
+    "updated_at": "2024-01-21T05:44:25+01:00",
+    "media_id": "mwsx4x5auig5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6298583/knmi-waarschuwt-voor-verraderlijke-gladheid-door-ijzel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298582,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6298569/emotionele-toney-scoort-bij-rentree-na-maandenlange-schorsing-vanwege-gokken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298568,
-    "slug": "huijsen-en-karsdorp-winnen-met-roma-eerste-duel-zonder-ontslagen-mourinho",
-    "type": "article",
-    "title": "Huijsen en Karsdorp winnen met Roma eerste duel zonder ontslagen Mourinho",
-    "subtitle": null,
-    "published_at": "2024-01-20T20:01:59+01:00",
-    "updated_at": "2024-01-20T20:58:12+01:00",
-    "media_id": "zxvxmakau4l3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6298568/huijsen-en-karsdorp-winnen-met-roma-eerste-duel-zonder-ontslagen-mourinho.html",
     "open_new_window": false,
     "partner": null
   }
