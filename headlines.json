@@ -1,5 +1,51 @@
 [
   {
+    "id": 6298737,
+    "slug": "gerard-depardieu-wordt-niet-vervolgd-voor-vermeende-aanranding-van-actrice",
+    "type": "article",
+    "title": "Gérard Depardieu wordt niet vervolgd voor vermeende aanranding van actrice",
+    "subtitle": null,
+    "published_at": "2024-01-22T15:53:22+01:00",
+    "updated_at": "2024-01-22T15:53:23+01:00",
+    "media_id": "firxo31ag6qo",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6298737/gerard-depardieu-wordt-niet-vervolgd-voor-vermeende-aanranding-van-actrice.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298736,
+    "slug": "grote-zingende-menigte-demonstreert-in-berlijn-tegen-extreemrechts",
+    "type": "video",
+    "title": "Grote zingende menigte demonstreert in Berlijn tegen extreemrechts",
+    "subtitle": "Video",
+    "published_at": "2024-01-22T15:36:42+01:00",
+    "updated_at": "2024-01-22T15:36:43+01:00",
+    "media_id": "0yix8w3a4is6",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298736/grote-zingende-menigte-demonstreert-in-berlijn-tegen-extreemrechts.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298735,
     "slug": "eredivisie-duel-tussen-almere-city-en-fortuna-wordt-woensdagavond-ingehaald",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Australië stopt vanwege misbruik met gouden visa voor buitenlandse investeerders",
     "subtitle": null,
     "published_at": "2024-01-22T15:25:29+01:00",
-    "updated_at": "2024-01-22T15:36:15+01:00",
+    "updated_at": "2024-01-22T15:37:36+01:00",
     "media_id": "39jxi2bamwvf",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6298717/common-en-jennifer-hudson-bevestigen-hun-relatie-in-talkshow.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298699,
-    "slug": "energienoodfonds-is-weer-geopend-en-dit-keer-beschikbaar-voor-meer-mensen",
-    "type": "article",
-    "title": "Energienoodfonds is weer geopend en dit keer beschikbaar voor meer mensen",
-    "subtitle": null,
-    "published_at": "2024-01-22T12:08:11+01:00",
-    "updated_at": "2024-01-22T15:07:40+01:00",
-    "media_id": "56jxpxbagsk5",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6298699/energienoodfonds-is-weer-geopend-en-dit-keer-beschikbaar-voor-meer-mensen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298716,
-    "slug": "ruim-68000-mensen-meldden-zich-als-gedupeerde-van-het-toeslagenschandaal",
-    "type": "article",
-    "title": "Ruim 68.000 mensen meldden zich als gedupeerde van het toeslagenschandaal",
-    "subtitle": null,
-    "published_at": "2024-01-22T11:51:13+01:00",
-    "updated_at": "2024-01-22T12:20:29+01:00",
-    "media_id": "chtxjz3aksyg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6298716/ruim-68000-mensen-meldden-zich-als-gedupeerde-van-het-toeslagenschandaal.html",
     "open_new_window": false,
     "partner": null
   }
