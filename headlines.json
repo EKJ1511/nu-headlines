@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299011,
+    "slug": "blind-met-revelatie-girona-uitgeschakeld-in-kwartfinales-spaanse-beker",
+    "type": "article",
+    "title": "Blind met revelatie Girona uitgeschakeld in kwartfinales Spaanse beker",
+    "subtitle": null,
+    "published_at": "2024-01-24T21:32:37+01:00",
+    "updated_at": "2024-01-24T21:32:38+01:00",
+    "media_id": "mfkx11fazyfw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299011/blind-met-revelatie-girona-uitgeschakeld-in-kwartfinales-spaanse-beker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299010,
     "slug": "treinverkeer-van-en-naar-schiphol-ligt-plat-door-kapotte-bovenleiding",
     "type": "article",
@@ -70,13 +93,13 @@
   },
   {
     "id": 6299008,
-    "slug": "live-cl-vrouwen-ajax-komt-snel-op-achterstand-tegen-psg",
+    "slug": "live-cl-vrouwen-leuchter-maakt-aansluitingstreffer-voor-ajax-tegen-psg",
     "type": "article",
-    "title": "Live CL Vrouwen | Ajax komt snel op achterstand tegen PSG",
+    "title": "Live CL Vrouwen | Leuchter maakt aansluitingstreffer voor Ajax tegen PSG",
     "subtitle": null,
     "published_at": "2024-01-24T20:31:29+01:00",
-    "updated_at": "2024-01-24T21:17:28+01:00",
-    "media_id": "rwvxs3ja487l",
+    "updated_at": "2024-01-24T21:32:01+01:00",
+    "media_id": "ei0x10caetkn",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6299008/live-cl-vrouwen-ajax-komt-snel-op-achterstand-tegen-psg.html",
+    "url": "/voetbal/6299008/live-cl-vrouwen-leuchter-maakt-aansluitingstreffer-voor-ajax-tegen-psg.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,13 +254,13 @@
   },
   {
     "id": 6299000,
-    "slug": "live-knvb-beker-feyenoord-leidt-bij-rust-dankzij-timber-in-kraker-tegen-psv",
+    "slug": "live-knvb-beker-feyenoord-verdedigt-na-rust-kleine-voorsprong-tegen-psv",
     "type": "article",
-    "title": "Live KNVB-beker | Feyenoord leidt bij rust dankzij Timber in kraker tegen PSV",
+    "title": "Live KNVB-beker | Feyenoord verdedigt na rust kleine voorsprong tegen PSV",
     "subtitle": null,
     "published_at": "2024-01-24T19:23:52+01:00",
-    "updated_at": "2024-01-24T20:51:21+01:00",
-    "media_id": "cidxrl2ae66o",
+    "updated_at": "2024-01-24T21:29:44+01:00",
+    "media_id": "1agxcc0antx5",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6299000/live-knvb-beker-feyenoord-leidt-bij-rust-dankzij-timber-in-kraker-tegen-psv.html",
+    "url": "/voetbal/6299000/live-knvb-beker-feyenoord-verdedigt-na-rust-kleine-voorsprong-tegen-psv.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6298994/carlos-alcaraz-buigt-voor-ontketende-alexander-zverev-op-australian-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298990,
-    "slug": "oekraine-bevestigt-noch-ontkent-dat-gevangenen-zijn-overleden-bij-vliegtuigcrash",
-    "type": "article",
-    "title": "Oekraïne bevestigt noch ontkent dat gevangenen zijn overleden bij vliegtuigcrash",
-    "subtitle": null,
-    "published_at": "2024-01-24T17:53:17+01:00",
-    "updated_at": "2024-01-24T20:44:41+01:00",
-    "media_id": "w5lxa0wagt12",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6298990/oekraine-bevestigt-noch-ontkent-dat-gevangenen-zijn-overleden-bij-vliegtuigcrash.html",
     "open_new_window": false,
     "partner": null
   }
