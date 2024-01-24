@@ -1,5 +1,74 @@
 [
   {
+    "id": 6299008,
+    "slug": "live-cl-vrouwen-ajax-hoopt-historische-kwartfinaleplek-veilig-te-stellen",
+    "type": "article",
+    "title": "Live CL Vrouwen | Ajax hoopt historische kwartfinaleplek veilig te stellen",
+    "subtitle": null,
+    "published_at": "2024-01-24T20:31:29+01:00",
+    "updated_at": "2024-01-24T20:31:30+01:00",
+    "media_id": "rf9xyinaezry",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299008/live-cl-vrouwen-ajax-hoopt-historische-kwartfinaleplek-veilig-te-stellen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298968,
+    "slug": "derdelanders-uit-oekraine-moeten-uiterlijk-2-april-vertrokken-zijn-uit-nederland",
+    "type": "article",
+    "title": "Derdelanders uit Oekraïne moeten uiterlijk 2 april vertrokken zijn uit Nederland",
+    "subtitle": null,
+    "published_at": "2024-01-24T20:24:17+01:00",
+    "updated_at": "2024-01-24T20:30:38+01:00",
+    "media_id": "x9cx05ma8bp5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6298968/derdelanders-uit-oekraine-moeten-uiterlijk-2-april-vertrokken-zijn-uit-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299006,
+    "slug": "vitesse-voert-constructief-gesprek-met-knvb-over-amerikaanse-overname",
+    "type": "article",
+    "title": "Vitesse voert 'constructief gesprek' met KNVB over Amerikaanse overname",
+    "subtitle": null,
+    "published_at": "2024-01-24T20:18:50+01:00",
+    "updated_at": "2024-01-24T20:27:28+01:00",
+    "media_id": "l8oxslha3ei1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299006/vitesse-voert-constructief-gesprek-met-knvb-over-amerikaanse-overname.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299005,
     "slug": "jongeren-na-twee-uur-bevrijd-uit-lift-in-dieren",
     "type": "video",
@@ -93,13 +162,13 @@
   },
   {
     "id": 6299000,
-    "slug": "live-knvb-beker-feyenoord-en-psv-zoeken-naar-openingsgoal-in-de-kuip",
+    "slug": "live-knvb-beker-psv-en-feyenoord-komen-in-eerste-helft-nog-niet-tot-scoren",
     "type": "article",
-    "title": "Live KNVB-beker | Feyenoord en PSV zoeken naar openingsgoal in De Kuip",
+    "title": "Live KNVB-beker | PSV en Feyenoord komen in eerste helft nog niet tot scoren",
     "subtitle": null,
     "published_at": "2024-01-24T19:23:52+01:00",
-    "updated_at": "2024-01-24T20:14:38+01:00",
-    "media_id": "5f8x7fpa4niu",
+    "updated_at": "2024-01-24T20:32:00+01:00",
+    "media_id": "od1xpa6asqwg",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -110,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6299000/live-knvb-beker-feyenoord-en-psv-zoeken-naar-openingsgoal-in-de-kuip.html",
+    "url": "/voetbal/6299000/live-knvb-beker-psv-en-feyenoord-komen-in-eerste-helft-nog-niet-tot-scoren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -254,12 +323,12 @@
   },
   {
     "id": 6298995,
-    "slug": "live-eredivisie-fortuna-sittard-raakt-de-lat-in-inhaalduel-met-almere-city",
+    "slug": "live-eredivisie-opstootje-in-slotfase-bij-inhaalduel-almere-fortuna",
     "type": "article",
-    "title": "Live Eredivisie | Fortuna Sittard raakt de lat in inhaalduel met Almere City",
+    "title": "Live Eredivisie | Opstootje in slotfase bij inhaalduel Almere-Fortuna",
     "subtitle": null,
     "published_at": "2024-01-24T18:29:51+01:00",
-    "updated_at": "2024-01-24T19:57:38+01:00",
+    "updated_at": "2024-01-24T20:32:25+01:00",
     "media_id": "cwzxjnpadn0r",
     "duration": null,
     "canonical_section": {
@@ -271,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6298995/live-eredivisie-fortuna-sittard-raakt-de-lat-in-inhaalduel-met-almere-city.html",
+    "url": "/voetbal/6298995/live-eredivisie-opstootje-in-slotfase-bij-inhaalduel-almere-fortuna.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/videos/6298989/enorme-rookwolken-stijgen-boven-chinese-stad-uit-bij-winkelbrand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298986,
-    "slug": "pvv-botst-met-deel-kamer-over-snel-afschaffen-van-eigen-risico",
-    "type": "article",
-    "title": "PVV botst met deel Kamer over snel afschaffen van eigen risico",
-    "subtitle": null,
-    "published_at": "2024-01-24T17:26:54+01:00",
-    "updated_at": "2024-01-24T17:42:08+01:00",
-    "media_id": "f23xudna8dnp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6298986/pvv-botst-met-deel-kamer-over-snel-afschaffen-van-eigen-risico.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298985,
-    "slug": "er-is-weer-officieel-sprake-van-een-griepepidemie-coronacijfers-dalen-juist",
-    "type": "article",
-    "title": "Er is weer officieel sprake van een griepepidemie, coronacijfers dalen juist",
-    "subtitle": null,
-    "published_at": "2024-01-24T17:22:00+01:00",
-    "updated_at": "2024-01-24T17:22:02+01:00",
-    "media_id": "3llxzlha7ryn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1146768,
-      "slug": "gezondheid",
-      "type": "default",
-      "name": "Gezondheid",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gezondheid/6298985/er-is-weer-officieel-sprake-van-een-griepepidemie-coronacijfers-dalen-juist.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298987,
-    "slug": "onderdelenwinkel-handyman-is-failliet-verklaard",
-    "type": "article",
-    "title": "Onderdelenwinkel Handyman is failliet verklaard",
-    "subtitle": null,
-    "published_at": "2024-01-24T17:16:00+01:00",
-    "updated_at": "2024-01-24T17:16:57+01:00",
-    "media_id": "8oexs45afr5a",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6298987/onderdelenwinkel-handyman-is-failliet-verklaard.html",
     "open_new_window": false,
     "partner": null
   }
