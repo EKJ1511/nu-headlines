@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299512,
+    "slug": "drone-filmt-kleurrijke-zonsopkomst-door-saharastof-in-friesland",
+    "type": "video",
+    "title": "Drone filmt kleurrijke zonsopkomst door saharastof in Friesland",
+    "subtitle": "Video",
+    "published_at": "2024-01-29T10:51:28+01:00",
+    "updated_at": "2024-01-29T10:51:30+01:00",
+    "media_id": "mx0xavgapiiu",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299512/drone-filmt-kleurrijke-zonsopkomst-door-saharastof-in-friesland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299496,
     "slug": "iran-en-pakistan-kondigen-na-beschietingen-samenwerking-tegen-terreur-aan",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6299452/nieuw-tijdperk-dient-zich-aan-in-tennis-maar-oude-koningen-zijn-er-nog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299419,
-    "slug": "wennekes-strijdt-na-nomadenbestaan-in-busje-om-os-ticket-voor-parijs",
-    "type": "article",
-    "title": "Wennekes strijdt na nomadenbestaan in busje om OS-ticket voor Parijs",
-    "subtitle": "NU+",
-    "published_at": "2024-01-29T05:06:38+01:00",
-    "updated_at": "2024-01-29T06:29:45+01:00",
-    "media_id": "hfkxrbfag3vu",
-    "duration": null,
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6299419/wennekes-strijdt-na-nomadenbestaan-in-busje-om-os-ticket-voor-parijs.html",
     "open_new_window": false,
     "partner": null
   }
