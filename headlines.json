@@ -1,12 +1,35 @@
 [
   {
-    "id": 6299648,
-    "slug": "talent-van-uden-verrast-groenewegen-en-wint-openingsrit-in-saoedi-arabie",
+    "id": 6299647,
+    "slug": "drie-boetes-voor-chemiebedrijven-op-chemelot-terrein-uitbater-vrijgesproken",
     "type": "article",
-    "title": "Talent Van Uden verrast Groenewegen en wint openingsrit in Saoedi-Arabië",
+    "title": "Drie boetes voor chemiebedrijven op Chemelot-terrein, uitbater vrijgesproken",
+    "subtitle": null,
+    "published_at": "2024-01-30T14:25:33+01:00",
+    "updated_at": "2024-01-30T14:29:56+01:00",
+    "media_id": "uazx70favqm7",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6299647/drie-boetes-voor-chemiebedrijven-op-chemelot-terrein-uitbater-vrijgesproken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299648,
+    "slug": "talent-van-uden-verrast-groenewegen-en-boekt-eerste-profzege-in-saoedi-arabie",
+    "type": "article",
+    "title": "Talent Van Uden verrast Groenewegen en boekt eerste profzege in Saoedi-Arabië",
     "subtitle": null,
     "published_at": "2024-01-30T14:20:04+01:00",
-    "updated_at": "2024-01-30T14:20:06+01:00",
+    "updated_at": "2024-01-30T14:30:10+01:00",
     "media_id": "q0zxbwnal6sn",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6299648/talent-van-uden-verrast-groenewegen-en-wint-openingsrit-in-saoedi-arabie.html",
+    "url": "/wielrennen/6299648/talent-van-uden-verrast-groenewegen-en-boekt-eerste-profzege-in-saoedi-arabie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6299627/vermeende-moordmakelaar-peter-r-de-vries-onder-druk-gezet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299623,
-    "slug": "commissie-presenteert-donderdag-onderzoek-naar-werkcultuur-bij-npo",
-    "type": "article",
-    "title": "Commissie presenteert donderdag onderzoek naar werkcultuur bij NPO",
-    "subtitle": null,
-    "published_at": "2024-01-30T11:10:00+01:00",
-    "updated_at": "2024-01-30T11:14:52+01:00",
-    "media_id": "xcgxx2nawa5r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6299623/commissie-presenteert-donderdag-onderzoek-naar-werkcultuur-bij-npo.html",
     "open_new_window": false,
     "partner": null
   }
