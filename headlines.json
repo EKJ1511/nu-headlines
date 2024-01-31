@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299564,
+    "slug": "opdracht-asielopvang-gemeenten-bekend-dit-jaar-96000-bedden-nodig",
+    "type": "article",
+    "title": "Opdracht asielopvang gemeenten bekend: dit jaar 96.000 bedden nodig",
+    "subtitle": null,
+    "published_at": "2024-01-31T09:12:24+01:00",
+    "updated_at": "2024-01-31T09:12:59+01:00",
+    "media_id": "phyxlo7at44o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6299564/opdracht-asielopvang-gemeenten-bekend-dit-jaar-96000-bedden-nodig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299721,
     "slug": "bekijk-hier-hoeveel-woningen-er-in-jouw-gemeente-bij-kwamen-vorig-jaar",
     "type": "article",
@@ -190,7 +213,7 @@
     "title": "Bondscoach Marokko rekent zich Afrika Cup-uitschakeling aan: 'Ik heb gefaald'",
     "subtitle": null,
     "published_at": "2024-01-31T07:11:59+01:00",
-    "updated_at": "2024-01-31T08:31:37+01:00",
+    "updated_at": "2024-01-31T09:07:34+01:00",
     "media_id": "r30xf1raeu1x",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6299644/in-2023-regende-het-meer-dan-ooit-maar-toch-hadden-we-een-neerslagtekort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299655,
-    "slug": "doel-van-100000-nieuwe-woningen-is-ook-in-2023-niet-gehaald",
-    "type": "article",
-    "title": "Doel van 100.000 nieuwe woningen is ook in 2023 niet gehaald",
-    "subtitle": null,
-    "published_at": "2024-01-31T00:00:47+01:00",
-    "updated_at": "2024-01-31T08:30:09+01:00",
-    "media_id": "mesx3cxa0em4",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6299655/doel-van-100000-nieuwe-woningen-is-ook-in-2023-niet-gehaald.html",
     "open_new_window": false,
     "partner": null
   }
