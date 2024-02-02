@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299979,
+    "slug": "vrijdag-is-een-vrijwel-bewolkte-maar-ook-zachte-dag",
+    "type": "article",
+    "title": "Vrijdag is een vrijwel bewolkte, maar ook zachte dag",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-02-02T05:53:07+01:00",
+    "updated_at": "2024-02-02T05:53:08+01:00",
+    "media_id": "zbmxuwna5f7r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6299979/vrijdag-is-een-vrijwel-bewolkte-maar-ook-zachte-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299978,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6299976,
-    "slug": "boeren-blokkeren-in-belgie-drie-grensovergangen-met-nederland",
+    "slug": "boeren-blokkeren-in-belgie-meerdere-grensovergangen-met-nederland",
     "type": "article",
-    "title": "Boeren blokkeren in België drie grensovergangen met Nederland",
+    "title": "Boeren blokkeren in België meerdere grensovergangen met Nederland",
     "subtitle": null,
     "published_at": "2024-02-02T00:11:55+01:00",
-    "updated_at": "2024-02-02T05:32:04+01:00",
+    "updated_at": "2024-02-02T05:37:18+01:00",
     "media_id": "1alx3yoaktmr",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6299976/boeren-blokkeren-in-belgie-drie-grensovergangen-met-nederland.html",
+    "url": "/binnenland/6299976/boeren-blokkeren-in-belgie-meerdere-grensovergangen-met-nederland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6299963/boadu-rondt-huurtransfer-naar-fc-twente-af-blij-om-weer-in-nederland-te-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299907,
-    "slug": "lichaam-tweede-vermiste-man-uit-puin-van-verwoest-rotterdams-pand-gehaald",
-    "type": "article",
-    "title": "Lichaam tweede vermiste man uit puin van verwoest Rotterdams pand gehaald",
-    "subtitle": null,
-    "published_at": "2024-02-01T20:47:32+01:00",
-    "updated_at": "2024-02-01T23:19:34+01:00",
-    "media_id": "m5uxx6cax5l8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6299907/lichaam-tweede-vermiste-man-uit-puin-van-verwoest-rotterdams-pand-gehaald.html",
     "open_new_window": false,
     "partner": null
   }
