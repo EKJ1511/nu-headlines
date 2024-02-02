@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300056,
+    "slug": "zweedse-archeologen-vinden-twaalf-skeletten-die-allemaal-schedel-missen",
+    "type": "article",
+    "title": "Zweedse archeologen vinden twaalf skeletten die allemaal schedel missen",
+    "subtitle": null,
+    "published_at": "2024-02-02T14:37:38+01:00",
+    "updated_at": "2024-02-02T14:37:39+01:00",
+    "media_id": "4axxdlza86gg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech en Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6300056/zweedse-archeologen-vinden-twaalf-skeletten-die-allemaal-schedel-missen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300060,
     "slug": "hond-in-vs-komt-vast-te-zitten-in-auto-na-jacht-op-kat",
     "type": "video",
@@ -121,8 +144,8 @@
     "title": "Ajax-aanwinst Henderson begint zaterdag in basis bij topper tegen koploper PSV",
     "subtitle": null,
     "published_at": "2024-02-02T14:08:36+01:00",
-    "updated_at": "2024-02-02T14:31:29+01:00",
-    "media_id": "2ewxbzsa7h00",
+    "updated_at": "2024-02-02T14:48:07+01:00",
+    "media_id": "cwux0nhaozm0",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -374,7 +397,7 @@
     "title": "Ajacieden Bergwijn en Sutalo lijken fit voor topper tegen koploper PSV",
     "subtitle": null,
     "published_at": "2024-02-02T12:19:42+01:00",
-    "updated_at": "2024-02-02T12:54:37+01:00",
+    "updated_at": "2024-02-02T14:48:42+01:00",
     "media_id": "41fxbt8anixa",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6300016/nog-niet-duidelijk-wat-dodelijke-explosie-in-rotterdams-pand-veroorzaakte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300029,
-    "slug": "arturo-vidal-wordt-te-paard-gepresenteerd-bij-oude-liefde-colo-colo",
-    "type": "article",
-    "title": "Arturo Vidal wordt te paard gepresenteerd bij oude liefde Colo-Colo",
-    "subtitle": "In beeld",
-    "published_at": "2024-02-02T11:44:07+01:00",
-    "updated_at": "2024-02-02T12:59:16+01:00",
-    "media_id": "4jrx70kaj2qi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300029/arturo-vidal-wordt-te-paard-gepresenteerd-bij-oude-liefde-colo-colo.html",
     "open_new_window": false,
     "partner": null
   }
