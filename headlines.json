@@ -1,5 +1,51 @@
 [
   {
+    "id": 6302337,
+    "slug": "na-bijna-dertig-jaar-gaat-belangrijk-nederlands-klimaatinstrument-ten-onder",
+    "type": "article",
+    "title": "Na bijna dertig jaar gaat belangrijk Nederlands klimaatinstrument ten onder",
+    "subtitle": null,
+    "published_at": "2024-02-21T08:53:13+01:00",
+    "updated_at": "2024-02-21T08:53:14+01:00",
+    "media_id": "us3x61iarw04",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech en Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6302337/na-bijna-dertig-jaar-gaat-belangrijk-nederlands-klimaatinstrument-ten-onder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302339,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-02-21T08:52:01+01:00",
+    "updated_at": "2024-02-21T08:52:02+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6302339/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302330,
     "slug": "beyonce-eerste-zwarte-vrouw-op-een-in-amerikaanse-countryhitlijst",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Al 9.400 bedrijven en instellingen staan op wachtlijst voor stroomnet",
     "subtitle": null,
     "published_at": "2024-02-21T08:17:14+01:00",
-    "updated_at": "2024-02-21T08:17:15+01:00",
+    "updated_at": "2024-02-21T08:49:59+01:00",
     "media_id": "mi3xo3qaaizl",
     "duration": null,
     "canonical_section": {
@@ -50,9 +96,9 @@
     "slug": "heel-hardnekkig-wel-uitroeibaar-voetschimmel",
     "type": "article",
     "title": "Heel hardnekkig, wel uitroeibaar: voetschimmel",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2024-02-21T08:17:13+01:00",
-    "updated_at": "2024-02-21T08:17:14+01:00",
+    "updated_at": "2024-02-21T08:45:56+01:00",
     "media_id": "szex6uvalyzn",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Grote brand in kringloopwinkel Almere nog niet onder controle",
     "subtitle": null,
     "published_at": "2024-02-21T07:31:54+01:00",
-    "updated_at": "2024-02-21T08:32:18+01:00",
+    "updated_at": "2024-02-21T08:39:06+01:00",
     "media_id": "1x7xk33aujwb",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6302284/oekraine-heeft-meer-soldaten-nodig-maar-worstelt-met-de-vraag-hoe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302318,
-    "slug": "bosz-ziet-psv-op-slecht-veld-volop-kansen-missen-tegen-dortmund-zat-meer-in",
-    "type": "article",
-    "title": "Bosz ziet PSV op 'slecht veld' volop kansen missen tegen Dortmund: 'Zat meer in'",
-    "subtitle": null,
-    "published_at": "2024-02-21T00:59:18+01:00",
-    "updated_at": "2024-02-21T06:46:29+01:00",
-    "media_id": "xusxuo6a3rhk",
-    "duration": null,
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6302318/bosz-ziet-psv-op-slecht-veld-volop-kansen-missen-tegen-dortmund-zat-meer-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302317,
-    "slug": "hummels-woedend-over-strafschop-psvers-stonden-naar-me-te-grijnzen",
-    "type": "article",
-    "title": "Hummels woedend over strafschop: 'PSV’ers stonden naar me te grijnzen'",
-    "subtitle": null,
-    "published_at": "2024-02-21T00:38:04+01:00",
-    "updated_at": "2024-02-21T08:27:11+01:00",
-    "media_id": "eg4x1wjahvrn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6302317/hummels-woedend-over-strafschop-psvers-stonden-naar-me-te-grijnzen.html",
     "open_new_window": false,
     "partner": null
   }
