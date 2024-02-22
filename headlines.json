@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302564,
+    "slug": "red-bull-teambaas-horner-ontwijkt-vragen-over-grensoverschrijdend-gedrag",
+    "type": "article",
+    "title": "Red Bull-teambaas Horner ontwijkt vragen over grensoverschrijdend gedrag",
+    "subtitle": null,
+    "published_at": "2024-02-22T18:43:27+01:00",
+    "updated_at": "2024-02-22T18:47:27+01:00",
+    "media_id": "jsqxsh8a1x0d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6302564/red-bull-teambaas-horner-ontwijkt-vragen-over-grensoverschrijdend-gedrag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302550,
     "slug": "jullie-vragen-over-ter-apel-wie-krijgt-het-geld-van-de-coa-boete",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Nog eens twee mannen opgepakt voor rellen tussen Eritreeërs in Den Haag",
     "subtitle": null,
     "published_at": "2024-02-22T18:22:16+01:00",
-    "updated_at": "2024-02-22T18:30:44+01:00",
+    "updated_at": "2024-02-22T18:53:04+01:00",
     "media_id": "zckxa8lakyk9",
     "duration": null,
     "canonical_section": {
@@ -116,13 +139,13 @@
   },
   {
     "id": 6302562,
-    "slug": "live-europees-voetbal-alles-of-niets-voor-ajax-in-bod-feyenoord-moet-ook-winnen",
+    "slug": "live-europees-voetbal-ajax-ontsnapt-aan-achterstand-tegen-bodglimt",
     "type": "article",
-    "title": "Live Europees voetbal | Alles of niets voor Ajax in Bodø, Feyenoord moet ook winnen",
+    "title": "Live Europees voetbal | Ajax ontsnapt aan achterstand tegen Bodø/Glimt",
     "subtitle": null,
     "published_at": "2024-02-22T17:59:19+01:00",
-    "updated_at": "2024-02-22T18:08:14+01:00",
-    "media_id": "eaqxd2jabv90",
+    "updated_at": "2024-02-22T18:53:38+01:00",
+    "media_id": "tqnxussa5n09",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6302562/live-europees-voetbal-alles-of-niets-voor-ajax-in-bod-feyenoord-moet-ook-winnen.html",
+    "url": "/voetbal/6302562/live-europees-voetbal-ajax-ontsnapt-aan-achterstand-tegen-bodglimt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Henderson en Gooijer ontbreken bij Ajax tegen Bodø/Glimt, Taylor gepasseerd",
     "subtitle": null,
     "published_at": "2024-02-22T17:43:11+01:00",
-    "updated_at": "2024-02-22T18:00:04+01:00",
+    "updated_at": "2024-02-22T18:44:05+01:00",
     "media_id": "jv2xgdzaxc7w",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Rutte krijgt in strijd om NAVO-functie concurrentie van Roemeense president",
     "subtitle": null,
     "published_at": "2024-02-22T17:32:23+01:00",
-    "updated_at": "2024-02-22T18:23:18+01:00",
+    "updated_at": "2024-02-22T18:48:30+01:00",
     "media_id": "ggfxddgaw9mg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6302553/vanavond-code-oranje-in-het-hele-land-wegens-windstoten-door-storm-louis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302543,
-    "slug": "vergeten-bombardement-nijmegen-is-80-jaar-geleden-wat-gebeurde-er",
-    "type": "article",
-    "title": "'Vergeten' bombardement Nijmegen is 80 jaar geleden: wat gebeurde er?",
-    "subtitle": "NU+",
-    "published_at": "2024-02-22T16:21:01+01:00",
-    "updated_at": "2024-02-22T16:21:37+01:00",
-    "media_id": "8u0xxrta3nif",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6302543/vergeten-bombardement-nijmegen-is-80-jaar-geleden-wat-gebeurde-er.html",
     "open_new_window": false,
     "partner": null
   }
