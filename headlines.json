@@ -1,12 +1,35 @@
 [
   {
+    "id": 6302461,
+    "slug": "vijfjarig-meisje-overlijdt-nadat-zandkuil-instort-in-amerika",
+    "type": "article",
+    "title": "Vijfjarig meisje overlijdt nadat zandkuil instort in Amerika",
+    "subtitle": null,
+    "published_at": "2024-02-22T07:37:18+01:00",
+    "updated_at": "2024-02-22T07:37:20+01:00",
+    "media_id": "xyzxjqcatv9a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6302461/vijfjarig-meisje-overlijdt-nadat-zandkuil-instort-in-amerika.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302460,
     "slug": "vloek-van-laatste-zestien-dreigt-opnieuw-voor-arsenal-het-moet-veel-beter",
     "type": "article",
     "title": "'Vloek van laatste zestien' dreigt opnieuw voor Arsenal: 'Het moet veel beter'",
     "subtitle": null,
     "published_at": "2024-02-22T07:22:35+01:00",
-    "updated_at": "2024-02-22T07:22:36+01:00",
+    "updated_at": "2024-02-22T07:34:39+01:00",
     "media_id": "jxcx8q9adutn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6302447/vrouw-gewond-en-hond-dood-na-aanrijding-valkenswaard-automobilist-rijdt-door.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302446,
-    "slug": "dodelijke-slachtoffers-brugongeluk-lochem-zijn-twee-mannen-uit-belgie-en-polen",
-    "type": "article",
-    "title": "Dodelijke slachtoffers brugongeluk Lochem zijn twee mannen uit België en Polen",
-    "subtitle": null,
-    "published_at": "2024-02-21T20:37:09+01:00",
-    "updated_at": "2024-02-21T21:37:46+01:00",
-    "media_id": "0yrxqeaarx9o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6302446/dodelijke-slachtoffers-brugongeluk-lochem-zijn-twee-mannen-uit-belgie-en-polen.html",
     "open_new_window": false,
     "partner": null
   }
