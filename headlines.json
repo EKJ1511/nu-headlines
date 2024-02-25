@@ -1,12 +1,35 @@
 [
   {
+    "id": 6302677,
+    "slug": "goed-nieuws-deze-week-minder-pijn-bij-babys-en-stijgende-koopkracht",
+    "type": "article",
+    "title": "Goed nieuws deze week: minder pijn bij baby's en stijgende koopkracht",
+    "subtitle": null,
+    "published_at": "2024-02-25T18:33:05+01:00",
+    "updated_at": "2024-02-25T18:33:06+01:00",
+    "media_id": "eevxr9ea8yoh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6302677/goed-nieuws-deze-week-minder-pijn-bij-babys-en-stijgende-koopkracht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302915,
     "slug": "negen-skiers-getroffen-door-lawine-in-frankrijk-4-doden-en-2-vermisten",
     "type": "article",
     "title": "Negen skiërs getroffen door lawine in Frankrijk, 4 doden en 2 vermisten",
     "subtitle": null,
     "published_at": "2024-02-25T18:16:01+01:00",
-    "updated_at": "2024-02-25T18:16:03+01:00",
+    "updated_at": "2024-02-25T18:31:44+01:00",
     "media_id": "4ipx0ejacsvb",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Royal Antwerp van Van Bommel speelt mede door eigen goal Alderweireld gelijk",
     "subtitle": null,
     "published_at": "2024-02-25T18:13:19+01:00",
-    "updated_at": "2024-02-25T18:13:20+01:00",
+    "updated_at": "2024-02-25T18:20:56+01:00",
     "media_id": "m4ux9fuajjef",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6302899/gordon-heeft-er-vrede-mee-als-hij-altijd-vrijgezel-zal-blijven-hunkering-is-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302898,
-    "slug": "opluchting-bij-vitesse-na-zege-hele-elftal-op-de-banken-in-de-kleedkamer",
-    "type": "article",
-    "title": "Opluchting bij Vitesse na zege: 'Hele elftal op de banken in de kleedkamer'",
-    "subtitle": null,
-    "published_at": "2024-02-25T15:05:43+01:00",
-    "updated_at": "2024-02-25T15:54:40+01:00",
-    "media_id": "8qyxg3mau4wr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6302898/opluchting-bij-vitesse-na-zege-hele-elftal-op-de-banken-in-de-kleedkamer.html",
     "open_new_window": false,
     "partner": null
   }
