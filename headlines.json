@@ -1,5 +1,28 @@
 [
   {
+    "id": 6303532,
+    "slug": "ryanair-moet-definitief-vluchten-schrappen-door-trage-levering-nieuwe-boeings",
+    "type": "article",
+    "title": "Ryanair moet definitief vluchten schrappen door trage levering nieuwe Boeings",
+    "subtitle": null,
+    "published_at": "2024-03-01T12:33:01+01:00",
+    "updated_at": "2024-03-01T12:33:02+01:00",
+    "media_id": "3rjxz88a7ajg",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6303532/ryanair-moet-definitief-vluchten-schrappen-door-trage-levering-nieuwe-boeings.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303529,
     "slug": "brits-archief-vindt-gloednieuwe-trui-van-217-jaar-oud-in-vergeten-pakketje",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Oranje-international Merel van Dongen en vrouw in verwachting van eerste kind",
     "subtitle": null,
     "published_at": "2024-03-01T11:59:48+01:00",
-    "updated_at": "2024-03-01T11:59:51+01:00",
+    "updated_at": "2024-03-01T12:18:49+01:00",
     "media_id": "7olxp5lagsb4",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "TU Delft kreeg afgelopen jaren geld van industrie voor onderzoek naar olie en gas",
     "subtitle": null,
     "published_at": "2024-03-01T11:56:19+01:00",
-    "updated_at": "2024-03-01T11:56:34+01:00",
+    "updated_at": "2024-03-01T12:16:45+01:00",
     "media_id": "k99xg2uanwoc",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Bol en Klaver met overmacht door naar halve finales 400 meter bij WK indoor",
     "subtitle": null,
     "published_at": "2024-03-01T11:48:12+01:00",
-    "updated_at": "2024-03-01T12:11:35+01:00",
+    "updated_at": "2024-03-01T12:21:48+01:00",
     "media_id": "ze6xtbpafcxo",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "OM voorkomt net op tijd fout met foto kroongetuige in zwembadmoord",
     "subtitle": null,
     "published_at": "2024-03-01T11:26:00+01:00",
-    "updated_at": "2024-03-01T11:49:38+01:00",
+    "updated_at": "2024-03-01T12:25:27+01:00",
     "media_id": "mmfxc3ua29ne",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6303492/water-uit-brandkraan-spuit-tientallen-meters-de-lucht-in-na-crash-in-la.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303489,
-    "slug": "directeur-gevangeniswezen-gevangenen-verspreiden-informatie-via-advocaat",
-    "type": "article",
-    "title": "Directeur gevangeniswezen: 'Gevangenen verspreiden informatie via advocaat'",
-    "subtitle": null,
-    "published_at": "2024-03-01T09:47:10+01:00",
-    "updated_at": "2024-03-01T10:07:17+01:00",
-    "media_id": "jevx45va88ix",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6303489/directeur-gevangeniswezen-gevangenen-verspreiden-informatie-via-advocaat.html",
     "open_new_window": false,
     "partner": null
   }
