@@ -1,5 +1,28 @@
 [
   {
+    "id": 6303714,
+    "slug": "horner-weet-het-zeker-ik-blijf-absoluut-de-teambaas-van-red-bull",
+    "type": "article",
+    "title": "Horner weet het zeker: 'Ik blijf absoluut de teambaas van Red Bull'",
+    "subtitle": null,
+    "published_at": "2024-03-02T19:43:10+01:00",
+    "updated_at": "2024-03-02T19:49:57+01:00",
+    "media_id": "0whxqzpa8ds4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6303714/horner-weet-het-zeker-ik-blijf-absoluut-de-teambaas-van-red-bull.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303713,
     "slug": "dragers-dansen-met-kist-bigidagoe-op-schouders-bij-uitvaart",
     "type": "video",
@@ -139,12 +162,12 @@
   },
   {
     "id": 6303702,
-    "slug": "live-eredivisie-go-ahead-en-rkc-komen-niet-tot-scoren-in-leuke-eerste-helft",
+    "slug": "live-eredivisie-go-ahead-en-rkc-komen-nog-niet-tot-scoren-twente-en-vitesse-warmen-op",
     "type": "article",
-    "title": "Live Eredivisie | Go Ahead en RKC komen niet tot scoren in leuke eerste helft",
+    "title": "Live Eredivisie | Go Ahead en RKC komen nog niet tot scoren, Twente en Vitesse warmen op",
     "subtitle": null,
     "published_at": "2024-03-02T18:15:06+01:00",
-    "updated_at": "2024-03-02T19:32:16+01:00",
+    "updated_at": "2024-03-02T19:52:09+01:00",
     "media_id": "i23xs3raxhqf",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6303702/live-eredivisie-go-ahead-en-rkc-komen-niet-tot-scoren-in-leuke-eerste-helft.html",
+    "url": "/voetbal/6303702/live-eredivisie-go-ahead-en-rkc-komen-nog-niet-tot-scoren-twente-en-vitesse-warmen-op.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6303696/psv-vrouwen-wint-van-fortuna-sittard-en-houdt-nummer-twee-ajax-in-het-vizier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303684,
-    "slug": "noppert-verspeelt-voorsprong-op-uk-open-van-veen-wel-naar-achtste-finales",
-    "type": "article",
-    "title": "Noppert verspeelt voorsprong op UK Open, Van Veen wel naar achtste finales",
-    "subtitle": null,
-    "published_at": "2024-03-02T15:51:32+01:00",
-    "updated_at": "2024-03-02T17:24:27+01:00",
-    "media_id": "ciex0baa00go",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6303684/noppert-verspeelt-voorsprong-op-uk-open-van-veen-wel-naar-achtste-finales.html",
     "open_new_window": false,
     "partner": null
   }
