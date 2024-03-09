@@ -1,5 +1,28 @@
 [
   {
+    "id": 6304614,
+    "slug": "vingegaard-imponeert-weer-in-tirreno-vlasov-verrast-grote-namen-in-parijs-nice",
+    "type": "article",
+    "title": "Vingegaard imponeert wéér in Tirreno, Vlasov verrast grote namen in Parijs-Nice",
+    "subtitle": null,
+    "published_at": "2024-03-09T16:53:01+01:00",
+    "updated_at": "2024-03-09T16:53:02+01:00",
+    "media_id": "wepxlknak9mo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6304614/vingegaard-imponeert-weer-in-tirreno-vlasov-verrast-grote-namen-in-parijs-nice.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304613,
     "slug": "me-sleurt-klimaatactivist-over-grond-bij-kunstbeurs-tefaf",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Bezoek Orbán aan VS zet campagnestrijd tussen Trump en Biden op scherp",
     "subtitle": null,
     "published_at": "2024-03-09T16:01:36+01:00",
-    "updated_at": "2024-03-09T16:01:37+01:00",
+    "updated_at": "2024-03-09T16:53:48+01:00",
     "media_id": "tx8x0oxawfi0",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "China moet van eigen minister meer doen aan werkgelegenheid",
     "subtitle": null,
     "published_at": "2024-03-09T14:28:11+01:00",
-    "updated_at": "2024-03-09T14:48:56+01:00",
+    "updated_at": "2024-03-09T16:47:31+01:00",
     "media_id": "9buximfa0cr2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6304583/eigenaar-gelredome-wil-noodlijdend-vitesse-overnemen-en-praat-al-met-knvb.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304580,
-    "slug": "live-schaatsen-stolz-rijdt-dik-persoonlijk-record-op-5000-meter-wk-allround",
-    "type": "article",
-    "title": "Live schaatsen | Stolz rijdt dik persoonlijk record op 5.000 meter WK allround",
-    "subtitle": null,
-    "published_at": "2024-03-09T12:16:24+01:00",
-    "updated_at": "2024-03-09T16:22:21+01:00",
-    "media_id": "bk3xsusa32uo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6304580/live-schaatsen-stolz-rijdt-dik-persoonlijk-record-op-5000-meter-wk-allround.html",
     "open_new_window": false,
     "partner": null
   }
