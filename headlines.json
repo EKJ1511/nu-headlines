@@ -1,5 +1,28 @@
 [
   {
+    "id": 6304809,
+    "slug": "overheid-draait-geldkraan-voor-islamitische-as-siddieqscholen-verder-dicht",
+    "type": "article",
+    "title": "Overheid draait geldkraan voor islamitische As-Siddieqscholen verder dicht",
+    "subtitle": null,
+    "published_at": "2024-03-11T15:37:12+01:00",
+    "updated_at": "2024-03-11T15:38:47+01:00",
+    "media_id": "yazxd26a3ypy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6304809/overheid-draait-geldkraan-voor-islamitische-as-siddieqscholen-verder-dicht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304802,
     "slug": "recensieoverzicht-claudia-de-breij-niet-teleurstellend-ook-niet-verrassend",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6304805,
-    "slug": "josef-fritzl-wordt-toch-niet-overgeplaatst-naar-een-normale-gevangenis",
+    "slug": "oostenrijkse-verkrachter-josef-fritzl-mag-toch-niet-naar-een-normale-gevangenis",
     "type": "article",
-    "title": "Josef Fritzl wordt toch niet overgeplaatst naar een normale gevangenis",
+    "title": "Oostenrijkse verkrachter Josef Fritzl mag toch niet naar een normale gevangenis",
     "subtitle": null,
     "published_at": "2024-03-11T15:23:32+01:00",
-    "updated_at": "2024-03-11T15:23:34+01:00",
+    "updated_at": "2024-03-11T15:51:01+01:00",
     "media_id": "tsux31uazq7p",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6304805/josef-fritzl-wordt-toch-niet-overgeplaatst-naar-een-normale-gevangenis.html",
+    "url": "/buitenland/6304805/oostenrijkse-verkrachter-josef-fritzl-mag-toch-niet-naar-een-normale-gevangenis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6304780/klimaatactivisten-krijgen-in-hoger-beroep-geen-straf-na-actie-meisje-met-de-parel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304755,
-    "slug": "na-slecht-seizoen-verandert-er-veel-bij-jumbo-visma-team-was-te-groot",
-    "type": "article",
-    "title": "Na slecht seizoen verandert er veel bij Jumbo-Visma: 'Team was te groot'",
-    "subtitle": "NU+",
-    "published_at": "2024-03-11T12:17:54+01:00",
-    "updated_at": "2024-03-11T14:44:15+01:00",
-    "media_id": "br9xry6aophu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6304755/na-slecht-seizoen-verandert-er-veel-bij-jumbo-visma-team-was-te-groot.html",
     "open_new_window": false,
     "partner": null
   }
